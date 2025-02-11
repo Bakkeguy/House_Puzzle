@@ -3069,3 +3069,528 @@ FPackageName: Skipped package /Game/ThridParty_Assets/Modern_House_V1/Textures/W
 [2025.02.11-21.36.40:706][369]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.02.11-21.36.40:706][369]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.02.11-21.36.40:707][369]AssetCheck: /Game/FirstPerson/Maps/Map_Condition_A/Map_A Validating asset
+[2025.02.11-21.38.01:797][957]LogStreaming: Display: FlushAsyncLoading(1735): 1 QueuedPackages, 0 AsyncPackages
+[2025.02.11-21.38.02:629][ 21]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ThridParty_Assets/Mesh/SM_spot_light.SM_spot_light
+[2025.02.11-21.38.02:629][ 21]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ThridParty_Assets/Mesh/SM_spot_light.SM_spot_light
+[2025.02.11-21.38.02:630][ 21]LogActorFactory: Actor Factory spawned StaticMesh /Game/ThridParty_Assets/Mesh/SM_spot_light.SM_spot_light as actor: StaticMeshActor /Game/FirstPerson/Maps/Map_Condition_A/Map_A.Map_A:PersistentLevel.StaticMeshActor_11
+[2025.02.11-21.38.03:221][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.02.11-21.38.03:223][ 51]LogEditorActor: Deleted 0 Actors (0.012 secs)
+[2025.02.11-21.38.03:232][ 51]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ThridParty_Assets/Mesh/SM_spot_light.SM_spot_light
+[2025.02.11-21.38.03:232][ 51]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/ThridParty_Assets/Mesh/SM_spot_light.SM_spot_light
+[2025.02.11-21.38.03:234][ 51]LogActorFactory: Actor Factory spawned StaticMesh /Game/ThridParty_Assets/Mesh/SM_spot_light.SM_spot_light as actor: StaticMeshActor /Game/FirstPerson/Maps/Map_Condition_A/Map_A.Map_A:PersistentLevel.StaticMeshActor_UAID_F02F74D10403724B02_2019029770
+[2025.02.11-21.38.08:752][422]Cmd: DELETE
+[2025.02.11-21.38.08:752][422]Cmd: ACTOR DELETE
+[2025.02.11-21.38.08:756][422]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.11-21.38.08:766][422]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.02.11-21.38.08:770][422]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2025.02.11-21.38.10:394][582]LogStreaming: Display: FlushAsyncLoading(1736): 1 QueuedPackages, 0 AsyncPackages
+[2025.02.11-21.38.10:396][582]LogStreaming: Display: ImportPackages: SkipPackage: /Game/ThridParty_Assets/Modern_House_V1/Materials/M_Metal_4 (0x2581C152C4D0F4B2) /Game/ThridParty_Assets/Modern_House_V1/Materials/M_Metal_4 (0x2581C152C4D0F4B2) - Skipping non mounted imported package /Game/ThridParty_Assets/Modern_House_V1/Textures/Marcro/T_MacroVariation (0x4D0872B542583190)
+[2025.02.11-21.38.10:396][582]LogStreaming: Display: ImportPackages: SkipPackage: /Game/ThridParty_Assets/Modern_House_V1/Materials/M_Metal_4 (0x2581C152C4D0F4B2) /Game/ThridParty_Assets/Modern_House_V1/Materials/M_Metal_4 (0x2581C152C4D0F4B2) - Skipping non mounted imported package /Game/ThridParty_Assets/Modern_House_V1/Textures/Metal_4/T_Metal034_4K_Color (0x416CB4AE73BB09DB)
+[2025.02.11-21.38.10:396][582]LogStreaming: Display: ImportPackages: SkipPackage: /Game/ThridParty_Assets/Modern_House_V1/Materials/M_Metal_4 (0x2581C152C4D0F4B2) /Game/ThridParty_Assets/Modern_House_V1/Materials/M_Metal_4 (0x2581C152C4D0F4B2) - Skipping non mounted imported package /Game/ThridParty_Assets/Modern_House_V1/Textures/Metal_4/T_Metal034_4K_Displacement (0xB67CA482905A5CE6)
+[2025.02.11-21.38.10:396][582]LogStreaming: Display: ImportPackages: SkipPackage: /Game/ThridParty_Assets/Modern_House_V1/Materials/M_Metal_4 (0x2581C152C4D0F4B2) /Game/ThridParty_Assets/Modern_House_V1/Materials/M_Metal_4 (0x2581C152C4D0F4B2) - Skipping non mounted imported package /Game/ThridParty_Assets/Modern_House_V1/Textures/Metal_4/T_Metal034_4K_Normal (0xF4F935CC62FF4401)
+[2025.02.11-21.38.10:396][582]LogStreaming: Display: ImportPackages: SkipPackage: /Game/ThridParty_Assets/Modern_House_V1/Materials/M_Metal_4 (0x2581C152C4D0F4B2) /Game/ThridParty_Assets/Modern_House_V1/Materials/M_Metal_4 (0x2581C152C4D0F4B2) - Skipping non mounted imported package /Game/ThridParty_Assets/Modern_House_V1/Textures/Metal_4/T_Metal034_4K_Roughness (0xE2FB2AF44768003A)
+[2025.02.11-21.38.10:402][582]LogMaterial: Warning: [AssetLog] A:\Github\House_Puzzle\house_puzzle\Content\ThridParty_Assets\Modern_House_V1\Materials\M_Metal_4.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.02.11-21.38.10:402][582]LogMaterial: Warning: [AssetLog] A:\Github\House_Puzzle\house_puzzle\Content\ThridParty_Assets\Modern_House_V1\Materials\Instance\M_Metal_4_Inst.uasset: Failed to compile Material Instance with Base M_Metal_4 for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+	(Node TextureSample) Texture Sample> Missing input texture
+
+[2025.02.11-21.38.10:436][582]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2025.02.11-21.38.10:467][582]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../../Github/House_Puzzle/house_puzzle/Content/ThridParty_Assets/Modern_House_V1/Textures/Marcro/T_MacroVariation which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.02.11-21.38.10:467][582]LoadErrors: Warning: While trying to load package /Game/ThridParty_Assets/Modern_House_V1/Materials/M_Metal_4, a dependent package /Game/ThridParty_Assets/Modern_House_V1/Textures/Marcro/T_MacroVariation was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/ThridParty_Assets/Modern_House_V1/Textures/Marcro/T_MacroVariation has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'A:/Github/House_Puzzle/house_puzzle/Content/ThridParty_Assets/Modern_House_V1/Textures/Marcro/T_MacroVariation.uasset'. Perhaps it has been deleted or was not synced?
+
+[2025.02.11-21.38.10:467][582]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../../Github/House_Puzzle/house_puzzle/Content/ThridParty_Assets/Modern_House_V1/Textures/Metal_4/T_Metal034_4K_Color which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.02.11-21.38.10:467][582]LoadErrors: Warning: While trying to load package /Game/ThridParty_Assets/Modern_House_V1/Materials/M_Metal_4, a dependent package /Game/ThridParty_Assets/Modern_House_V1/Textures/Metal_4/T_Metal034_4K_Color was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/ThridParty_Assets/Modern_House_V1/Textures/Metal_4/T_Metal034_4K_Color has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'A:/Github/House_Puzzle/house_puzzle/Content/ThridParty_Assets/Modern_House_V1/Textures/Metal_4/T_Metal034_4K_Color.uasset'. Perhaps it has been deleted or was not synced?
+
+[2025.02.11-21.38.10:467][582]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../../Github/House_Puzzle/house_puzzle/Content/ThridParty_Assets/Modern_House_V1/Textures/Metal_4/T_Metal034_4K_Displacement which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.02.11-21.38.10:467][582]LoadErrors: Warning: While trying to load package /Game/ThridParty_Assets/Modern_House_V1/Materials/M_Metal_4, a dependent package /Game/ThridParty_Assets/Modern_House_V1/Textures/Metal_4/T_Metal034_4K_Displacement was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/ThridParty_Assets/Modern_House_V1/Textures/Metal_4/T_Metal034_4K_Displacement has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'A:/Github/House_Puzzle/house_puzzle/Content/ThridParty_Assets/Modern_House_V1/Textures/Metal_4/T_Metal034_4K_Displacement.uasset'. Perhaps it has been deleted or was not synced?
+
+[2025.02.11-21.38.10:467][582]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../../Github/House_Puzzle/house_puzzle/Content/ThridParty_Assets/Modern_House_V1/Textures/Metal_4/T_Metal034_4K_Normal which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.02.11-21.38.10:467][582]LoadErrors: Warning: While trying to load package /Game/ThridParty_Assets/Modern_House_V1/Materials/M_Metal_4, a dependent package /Game/ThridParty_Assets/Modern_House_V1/Textures/Metal_4/T_Metal034_4K_Normal was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/ThridParty_Assets/Modern_House_V1/Textures/Metal_4/T_Metal034_4K_Normal has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'A:/Github/House_Puzzle/house_puzzle/Content/ThridParty_Assets/Modern_House_V1/Textures/Metal_4/T_Metal034_4K_Normal.uasset'. Perhaps it has been deleted or was not synced?
+
+[2025.02.11-21.38.10:467][582]LogPackageName: Warning: GetLocalFullPath called on FPackagePath ../../../../../Github/House_Puzzle/house_puzzle/Content/ThridParty_Assets/Modern_House_V1/Textures/Metal_4/T_Metal034_4K_Roughness which has an unspecified header extension, and the path does not exist on disk. Assuming EPackageExtension::Asset.
+[2025.02.11-21.38.10:467][582]LoadErrors: Warning: While trying to load package /Game/ThridParty_Assets/Modern_House_V1/Materials/M_Metal_4, a dependent package /Game/ThridParty_Assets/Modern_House_V1/Textures/Metal_4/T_Metal034_4K_Roughness was not available. Additional explanatory information follows:
+FPackageName: Skipped package /Game/ThridParty_Assets/Modern_House_V1/Textures/Metal_4/T_Metal034_4K_Roughness has a valid, mounted, mount point but does not exist either on disk or in iostore. The uncooked file would be expected on disk at 'A:/Github/House_Puzzle/house_puzzle/Content/ThridParty_Assets/Modern_House_V1/Textures/Metal_4/T_Metal034_4K_Roughness.uasset'. Perhaps it has been deleted or was not synced?
+
+[2025.02.11-21.38.10:561][588]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThridParty_Assets/Modern_House_V1/Blueprint/BP_Light_1.BP_Light_1_C
+[2025.02.11-21.38.10:561][588]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThridParty_Assets/Modern_House_V1/Blueprint/BP_Light_1.BP_Light_1_C
+[2025.02.11-21.38.10:563][588]LogActorFactory: Actor Factory spawned Blueprint /Game/ThridParty_Assets/Modern_House_V1/Blueprint/BP_Light_1.BP_Light_1 as actor: BP_Light_1_C /Game/FirstPerson/Maps/Map_Condition_A/Map_A.Map_A:PersistentLevel.BP_Light_1_C_0
+[2025.02.11-21.38.10:564][588]LogActorFactory: Actor Factory spawned Blueprint /Game/ThridParty_Assets/Modern_House_V1/Blueprint/BP_Light_1.BP_Light_1 as actor: BP_Light_1_C /Game/FirstPerson/Maps/Map_Condition_A/Map_A.Map_A:PersistentLevel.BP_Light_1_C_0
+[2025.02.11-21.38.11:169][612]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.02.11-21.38.11:171][612]LogEditorActor: Deleted 0 Actors (0.017 secs)
+[2025.02.11-21.38.11:179][612]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThridParty_Assets/Modern_House_V1/Blueprint/BP_Light_1.BP_Light_1_C
+[2025.02.11-21.38.11:179][612]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThridParty_Assets/Modern_House_V1/Blueprint/BP_Light_1.BP_Light_1_C
+[2025.02.11-21.38.11:184][612]LogActorFactory: Actor Factory spawned Blueprint /Game/ThridParty_Assets/Modern_House_V1/Blueprint/BP_Light_1.BP_Light_1 as actor: BP_Light_1_C /Game/FirstPerson/Maps/Map_Condition_A/Map_A.Map_A:PersistentLevel.BP_Light_1_C_UAID_F02F74D10403724B02_2026976771
+[2025.02.11-21.38.11:185][612]LogActorFactory: Actor Factory spawned Blueprint /Game/ThridParty_Assets/Modern_House_V1/Blueprint/BP_Light_1.BP_Light_1 as actor: BP_Light_1_C /Game/FirstPerson/Maps/Map_Condition_A/Map_A.Map_A:PersistentLevel.BP_Light_1_C_UAID_F02F74D10403724B02_2026976771
+[2025.02.11-21.38.33:249][407]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 967.440857
+[2025.02.11-21.38.33:405][418]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.11-21.38.33:405][418]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 967.585815, Update Interval: 348.522583
+[2025.02.11-21.39.17:113][ 36]Cmd: TRANSACTION UNDO
+[2025.02.11-21.39.17:113][ 36]LogEditorTransaction: Undo Move Elements
+[2025.02.11-21.40.01:385][650]LogSlate: Took 0.000320 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.02.11-21.41.36:889][928]Cmd: EDIT COPY
+[2025.02.11-21.41.37:257][950]Cmd: EDIT PASTE
+[2025.02.11-21.41.57:625][552]Cmd: EDIT COPY
+[2025.02.11-21.41.58:079][595]Cmd: EDIT PASTE
+[2025.02.11-21.42.09:131][511]Cmd: EDIT COPY
+[2025.02.11-21.42.09:570][546]Cmd: EDIT PASTE
+[2025.02.11-21.42.21:929][567]Cmd: EDIT COPY
+[2025.02.11-21.42.22:355][593]Cmd: EDIT PASTE
+[2025.02.11-21.42.56:869][341]Cmd: TRANSACTION UNDO
+[2025.02.11-21.42.56:869][341]LogEditorTransaction: Undo Move Elements
+[2025.02.11-21.42.58:001][409]Cmd: MODE GRID=0
+[2025.02.11-21.42.59:968][576]Cmd: MODE GRID=1
+[2025.02.11-21.43.09:696][366]Cmd: EDIT COPY
+[2025.02.11-21.43.10:141][394]Cmd: EDIT PASTE
+[2025.02.11-21.44.09:286][ 46]Cmd: EDIT COPY
+[2025.02.11-21.44.09:737][ 83]Cmd: EDIT PASTE
+[2025.02.11-21.44.17:745][723]Cmd: EDIT COPY
+[2025.02.11-21.44.18:365][772]Cmd: EDIT PASTE
+[2025.02.11-21.44.34:021][  5]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1328.215210
+[2025.02.11-21.44.34:121][ 15]Cmd: EDIT COPY
+[2025.02.11-21.44.34:182][ 19]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.11-21.44.34:182][ 19]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1328.362183, Update Interval: 353.865784
+[2025.02.11-21.44.34:633][ 49]Cmd: EDIT PASTE
+[2025.02.11-21.44.43:702][782]Cmd: EDIT COPY
+[2025.02.11-21.44.44:121][804]Cmd: EDIT PASTE
+[2025.02.11-21.44.54:679][602]Cmd: EDIT COPY
+[2025.02.11-21.44.55:164][632]Cmd: EDIT PASTE
+[2025.02.11-21.45.04:367][351]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (11 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.17)
+[2025.02.11-21.45.07:727][634]Cmd: EDIT COPY
+[2025.02.11-21.45.08:101][665]Cmd: EDIT PASTE
+[2025.02.11-21.45.20:727][604]Cmd: EDIT COPY
+[2025.02.11-21.45.20:727][604]LogConsoleManager: Warning: Performance warning: Many (31) failed FindConsoleObject() for 'EDIT'. 
+[2025.02.11-21.45.21:080][624]Cmd: EDIT PASTE
+[2025.02.11-21.45.25:298][946]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (17 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.19)
+[2025.02.11-21.45.26:314][ 31]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (14 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.19)
+[2025.02.11-21.45.32:324][483]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (15 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.24)
+[2025.02.11-21.45.34:066][606]Cmd: EDIT COPY
+[2025.02.11-21.45.34:402][621]Cmd: EDIT PASTE
+[2025.02.11-21.45.38:685][961]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (2 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.52)
+[2025.02.11-21.45.51:469][929]Cmd: EDIT COPY
+[2025.02.11-21.45.51:890][963]Cmd: EDIT PASTE
+[2025.02.11-21.46.05:018][960]Cmd: EDIT COPY
+[2025.02.11-21.46.05:418][985]Cmd: EDIT PASTE
+[2025.02.11-21.46.09:478][296]LogRenderer: Warning: [VSM] One Pass Projection max lights overflow. If you see shadow artifacts, decrease the amount of local lights per pixel, or increase r.Shadow.Virtual.OnePassProjection.MaxLightsPerPixel.
+[2025.02.11-21.46.13:617][589]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (29 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.71)
+[2025.02.11-21.46.16:981][843]Cmd: EDIT COPY
+[2025.02.11-21.46.18:352][961]Cmd: EDIT PASTE
+[2025.02.11-21.46.25:792][507]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (16 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.24)
+[2025.02.11-21.46.25:860][512]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (12 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.50)
+[2025.02.11-21.46.39:593][563]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (15 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.62)
+[2025.02.11-21.46.41:662][703]Cmd: EDIT COPY
+[2025.02.11-21.46.42:097][731]Cmd: EDIT PASTE
+[2025.02.11-21.47.03:405][301]Cmd: EDIT COPY
+[2025.02.11-21.47.03:803][334]Cmd: EDIT PASTE
+[2025.02.11-21.47.11:062][908]Cmd: EDIT COPY
+[2025.02.11-21.47.11:488][943]Cmd: EDIT PASTE
+[2025.02.11-21.47.26:696][153]Cmd: DELETE
+[2025.02.11-21.47.26:696][153]Cmd: ACTOR DELETE
+[2025.02.11-21.47.26:702][153]LogEditorActor: Deleted Actor: BP_Light_1_C
+[2025.02.11-21.47.26:746][153]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.02.11-21.47.26:749][153]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2025.02.11-21.47.47:140][753]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.11-21.47.47:186][753]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.02.11-21.47.47:199][753]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.02.11-21.47.47:209][753]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.02.11-21.47.47:211][753]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/9/KY/KMMTA3Y1PLP9Q9V018YPDQ
+[2025.02.11-21.47.47:211][753]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/KMMTA3Y1PLP9Q9V018YPDQ8E27E794428B2D0C0CFBB988B513E4A4.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/9/KY/KMMTA3Y1PLP9Q9V018YPDQ.uasset'
+[2025.02.11-21.47.47:214][753]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/3/VB/7XSX58ZIOPCIJL5164Z27G
+[2025.02.11-21.47.47:214][753]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/7XSX58ZIOPCIJL5164Z27GA83483284F09B2224B25D5A821C6B0C5.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/3/VB/7XSX58ZIOPCIJL5164Z27G.uasset'
+[2025.02.11-21.47.47:216][753]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/0/70/GIIR1GB1KN6HX596JGPEI7
+[2025.02.11-21.47.47:216][753]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/GIIR1GB1KN6HX596JGPEI7A6010D054FBA0E24B6A781AA103A8D9D.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/0/70/GIIR1GB1KN6HX596JGPEI7.uasset'
+[2025.02.11-21.47.47:217][753]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/4/KY/L3D13YBNY5BT30D4HQJJN0
+[2025.02.11-21.47.47:217][753]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/L3D13YBNY5BT30D4HQJJN0A1D4DE844A91B54255D7B28BE7629E81.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/4/KY/L3D13YBNY5BT30D4HQJJN0.uasset'
+[2025.02.11-21.47.47:219][753]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/2/2N/82K4GQJFXEEUN6ZQYF6ASF
+[2025.02.11-21.47.47:219][753]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/82K4GQJFXEEUN6ZQYF6ASFA1BA2EBE4B1250E7A05E5DBD4BC04496.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/2/2N/82K4GQJFXEEUN6ZQYF6ASF.uasset'
+[2025.02.11-21.47.47:221][753]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/9/TV/0O6Z6YPVWZVWM0VPYAZ3QN
+[2025.02.11-21.47.47:221][753]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/0O6Z6YPVWZVWM0VPYAZ3QN356CE55C4BDF796B7A2A61A1236A5E56.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/9/TV/0O6Z6YPVWZVWM0VPYAZ3QN.uasset'
+[2025.02.11-21.47.47:223][753]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/B/9J/DSIV4CF4B42KY1SQH8QX5S
+[2025.02.11-21.47.47:223][753]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/DSIV4CF4B42KY1SQH8QX5SD39D3AA648217F1EDFDC3D9D6FFDF4FE.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/B/9J/DSIV4CF4B42KY1SQH8QX5S.uasset'
+[2025.02.11-21.47.47:225][753]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/A/MD/DJ416LE7KASM5KWPQL1KNW
+[2025.02.11-21.47.47:225][753]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/DJ416LE7KASM5KWPQL1KNW274B54F54BDA49D5D54CAF8344FB29E3.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/A/MD/DJ416LE7KASM5KWPQL1KNW.uasset'
+[2025.02.11-21.47.47:227][753]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/6/ZF/ROB7X4ZNEXWL8TAIMSI6R6
+[2025.02.11-21.47.47:227][753]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/ROB7X4ZNEXWL8TAIMSI6R60AAD0545483492886A3ADDBD6B63343B.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/6/ZF/ROB7X4ZNEXWL8TAIMSI6R6.uasset'
+[2025.02.11-21.47.47:230][753]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/F/0C/NHWPRCJ9DG42BRJT0KNABF
+[2025.02.11-21.47.47:230][753]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/NHWPRCJ9DG42BRJT0KNABF183F22604AE13C41E56F22925AE908BC.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/F/0C/NHWPRCJ9DG42BRJT0KNABF.uasset'
+[2025.02.11-21.47.47:232][753]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/E/P2/C0RP5I7MVFRCEBK9THH2U9
+[2025.02.11-21.47.47:232][753]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/C0RP5I7MVFRCEBK9THH2U93EDDA1984E4331434944DB9BD1FB64C8.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/E/P2/C0RP5I7MVFRCEBK9THH2U9.uasset'
+[2025.02.11-21.47.47:234][753]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/E/IP/JK1TGI4636PK75KRW9VO7D
+[2025.02.11-21.47.47:234][753]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/JK1TGI4636PK75KRW9VO7DC9243716448C6293D6587D8DF882CEEB.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/E/IP/JK1TGI4636PK75KRW9VO7D.uasset'
+[2025.02.11-21.47.47:236][753]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/0/J0/WSWREVIJ12TDV5QODBG6UY
+[2025.02.11-21.47.47:236][753]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/WSWREVIJ12TDV5QODBG6UYA8EE55104030475DF336038A0958097E.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/0/J0/WSWREVIJ12TDV5QODBG6UY.uasset'
+[2025.02.11-21.47.47:237][753]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/D/RZ/2PTT6S2RU9BSTE0SJ01VSQ
+[2025.02.11-21.47.47:237][753]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/2PTT6S2RU9BSTE0SJ01VSQ0064A49F4EA77E53F945EF90BDB447C5.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/D/RZ/2PTT6S2RU9BSTE0SJ01VSQ.uasset'
+[2025.02.11-21.47.47:239][753]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/6/XR/KKZ6IUHF86EMT61V2E9C9V
+[2025.02.11-21.47.47:239][753]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/KKZ6IUHF86EMT61V2E9C9V12879D2B400C22C67CFF2A9D262D619F.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/6/XR/KKZ6IUHF86EMT61V2E9C9V.uasset'
+[2025.02.11-21.47.47:241][753]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/C/1X/4GBF4O4VQTHPQQTP2FJPK4
+[2025.02.11-21.47.47:241][753]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/4GBF4O4VQTHPQQTP2FJPK45D80192442F2AB397F86C994D095762D.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/C/1X/4GBF4O4VQTHPQQTP2FJPK4.uasset'
+[2025.02.11-21.47.47:243][753]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/D/ZO/SL0KWFX94Z4IVM4CVX6TIA
+[2025.02.11-21.47.47:243][753]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/SL0KWFX94Z4IVM4CVX6TIAE466B01D41DF70483D26D994D132CCA9.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/D/ZO/SL0KWFX94Z4IVM4CVX6TIA.uasset'
+[2025.02.11-21.47.47:244][753]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/2/AB/LDLDJUJU0QQ8017R1B5RAY
+[2025.02.11-21.47.47:244][753]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/LDLDJUJU0QQ8017R1B5RAY31F16B3345F17EEA429AB685523AC0BB.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/2/AB/LDLDJUJU0QQ8017R1B5RAY.uasset'
+[2025.02.11-21.47.47:246][753]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/9/U0/6A1FSPDRD79CVVWE8XOE7Y
+[2025.02.11-21.47.47:246][753]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/6A1FSPDRD79CVVWE8XOE7YACA7A83349B57821CC877A88C90A3A69.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/9/U0/6A1FSPDRD79CVVWE8XOE7Y.uasset'
+[2025.02.11-21.47.47:249][753]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/8/CN/LEJ253UQRS06LKIS5WKWIN
+[2025.02.11-21.47.47:249][753]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/LEJ253UQRS06LKIS5WKWIN4B353CDD46CDFAC7A186BAB0568F2188.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/8/CN/LEJ253UQRS06LKIS5WKWIN.uasset'
+[2025.02.11-21.47.47:250][753]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/E/7R/ESK1ONZP5YOCDHSLBUK57A
+[2025.02.11-21.47.47:251][753]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/ESK1ONZP5YOCDHSLBUK57AA8F3F34648B5833017834C97ACDEB462.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/E/7R/ESK1ONZP5YOCDHSLBUK57A.uasset'
+[2025.02.11-21.47.47:252][753]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/5/JH/JMIIWR5QVI0TN9NV2YDHL9
+[2025.02.11-21.47.47:252][753]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/JMIIWR5QVI0TN9NV2YDHL97CA2413E4BF62E4B43CA5E830A79D44B.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/5/JH/JMIIWR5QVI0TN9NV2YDHL9.uasset'
+[2025.02.11-21.47.47:254][753]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/5/QN/8XSIW18ZXZJ0DHF4817QVN
+[2025.02.11-21.47.47:254][753]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/8XSIW18ZXZJ0DHF4817QVN3B46175843E2641C7676FFA6320F63F7.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/5/QN/8XSIW18ZXZJ0DHF4817QVN.uasset'
+[2025.02.11-21.47.47:256][753]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/9/5D/TJ7TWMSZ8ZUG3KBNZ6HPLV
+[2025.02.11-21.47.47:256][753]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/TJ7TWMSZ8ZUG3KBNZ6HPLVB48F8A6247280CB83CE2129F502C6F70.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/9/5D/TJ7TWMSZ8ZUG3KBNZ6HPLV.uasset'
+[2025.02.11-21.47.47:274][753]LogFileHelpers: InternalPromptForCheckoutAndSave took 134.376 ms (total: 704.371 ms)
+[2025.02.11-21.47.47:312][753]LogContentValidation: Display: Starting to validate 24 assets
+[2025.02.11-21.47.47:312][753]LogContentValidation: Enabled validators:
+[2025.02.11-21.47.47:312][753]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.11-21.47.47:312][753]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.11-21.47.47:312][753]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.11-21.47.47:312][753]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.11-21.47.47:312][753]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.11-21.47.47:312][753]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.11-21.47.47:313][753]AssetCheck: /Game/FirstPerson/Maps/Map_Condition_A/Map_A Validating asset
+[2025.02.11-21.47.55:387][362]Cmd: EDIT COPY
+[2025.02.11-21.47.55:798][396]Cmd: EDIT PASTE
+[2025.02.11-21.48.18:749][ 45]Cmd: EDIT COPY
+[2025.02.11-21.48.19:136][ 63]Cmd: EDIT PASTE
+[2025.02.11-21.48.32:839][ 15]Cmd: EDIT COPY
+[2025.02.11-21.48.33:242][ 35]Cmd: EDIT PASTE
+[2025.02.11-21.48.40:669][588]Cmd: DELETE
+[2025.02.11-21.48.40:669][588]Cmd: ACTOR DELETE
+[2025.02.11-21.48.40:673][588]LogEditorActor: Deleted Actor: SpotLight
+[2025.02.11-21.48.40:697][588]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.02.11-21.48.40:702][588]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2025.02.11-21.48.47:309][ 89]Cmd: EDIT COPY
+[2025.02.11-21.48.47:659][108]Cmd: EDIT PASTE
+[2025.02.11-21.49.25:876][963]Cmd: EDIT COPY
+[2025.02.11-21.49.26:250][989]Cmd: EDIT PASTE
+[2025.02.11-21.49.35:297][660]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (10 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.30)
+[2025.02.11-21.49.39:721][969]Cmd: EDIT COPY
+[2025.02.11-21.49.40:049][994]Cmd: EDIT PASTE
+[2025.02.11-21.50.02:048][559]Cmd: EDIT COPY
+[2025.02.11-21.50.02:386][584]Cmd: EDIT PASTE
+[2025.02.11-21.50.14:191][445]Cmd: EDIT COPY
+[2025.02.11-21.50.14:592][477]Cmd: EDIT PASTE
+[2025.02.11-21.50.37:684][208]Cmd: EDIT COPY
+[2025.02.11-21.50.38:089][226]Cmd: EDIT PASTE
+[2025.02.11-21.50.41:851][514]Cmd: TRANSACTION UNDO
+[2025.02.11-21.50.41:851][514]LogEditorTransaction: Undo Move Elements
+[2025.02.11-21.50.58:723][676]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1712.916382
+[2025.02.11-21.50.58:906][686]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.11-21.50.58:906][686]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1713.087402, Update Interval: 313.237091
+[2025.02.11-21.51.01:126][850]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.11-21.51.01:181][850]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.02.11-21.51.01:195][850]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.02.11-21.51.01:206][850]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.02.11-21.51.01:208][850]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/B/W7/4B7CWCLXB8XM19NW1Q58EC
+[2025.02.11-21.51.01:208][850]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/4B7CWCLXB8XM19NW1Q58ECD2606328439A84C0B4BE7CBA5A5BFB52.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/B/W7/4B7CWCLXB8XM19NW1Q58EC.uasset'
+[2025.02.11-21.51.01:210][850]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/6/MP/1IZQ7UY01QRXIDC74FA0EK
+[2025.02.11-21.51.01:210][850]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/1IZQ7UY01QRXIDC74FA0EK75CABBA54C26F33FF22177BB622E32DA.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/6/MP/1IZQ7UY01QRXIDC74FA0EK.uasset'
+[2025.02.11-21.51.01:212][850]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/0/YM/NV9CP5GCW2QUK1MF2KLZUG
+[2025.02.11-21.51.01:212][850]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/NV9CP5GCW2QUK1MF2KLZUGF314F26B42B74D6D2F5E4795A02CFB49.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/0/YM/NV9CP5GCW2QUK1MF2KLZUG.uasset'
+[2025.02.11-21.51.01:214][850]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/9/3D/QRMBU619L7QSTSM8M90GA2
+[2025.02.11-21.51.01:214][850]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/QRMBU619L7QSTSM8M90GA2D9A3B1D1458E436CBE4D88B50410CC58.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/9/3D/QRMBU619L7QSTSM8M90GA2.uasset'
+[2025.02.11-21.51.01:216][850]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/4/JZ/LS0QSAKN5ODDE3D4PEYSUA
+[2025.02.11-21.51.01:216][850]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/LS0QSAKN5ODDE3D4PEYSUAD256B9CB42E64224F1FEB698B1C6A2C3.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/4/JZ/LS0QSAKN5ODDE3D4PEYSUA.uasset'
+[2025.02.11-21.51.01:218][850]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/A/MR/JKFN53CS89YVWZPSHS8HAA
+[2025.02.11-21.51.01:219][850]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/JKFN53CS89YVWZPSHS8HAA443DA0174CA3418B98F3919E822AA9CF.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/A/MR/JKFN53CS89YVWZPSHS8HAA.uasset'
+[2025.02.11-21.51.01:221][850]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/4/J3/BMLRMQWITJ3KPM61EWUAEG
+[2025.02.11-21.51.01:221][850]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/BMLRMQWITJ3KPM61EWUAEGA050B58F41DB2323A6A1618A39404C17.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/4/J3/BMLRMQWITJ3KPM61EWUAEG.uasset'
+[2025.02.11-21.51.01:223][850]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/C/EC/HO45O4W3BTJZJWTF3YNCF8
+[2025.02.11-21.51.01:223][850]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/HO45O4W3BTJZJWTF3YNCF8D6C20F10482DAA13AD854C9A270DB4DE.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/C/EC/HO45O4W3BTJZJWTF3YNCF8.uasset'
+[2025.02.11-21.51.01:225][850]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/A/YL/6LRBAJQ1GKVFO91V6H0WHY
+[2025.02.11-21.51.01:225][850]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/6LRBAJQ1GKVFO91V6H0WHY6352A84D480943A7E6D814A3C067D412.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/A/YL/6LRBAJQ1GKVFO91V6H0WHY.uasset'
+[2025.02.11-21.51.01:227][850]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/D/1I/JOJVC1KNBCQAPJHDRBC2EU
+[2025.02.11-21.51.01:227][850]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/JOJVC1KNBCQAPJHDRBC2EU97BB452A4B2CD31819A754B999DDAD06.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/D/1I/JOJVC1KNBCQAPJHDRBC2EU.uasset'
+[2025.02.11-21.51.01:229][850]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/E/76/DPE4ICD8LKU1168KV7NKUN
+[2025.02.11-21.51.01:229][850]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/DPE4ICD8LKU1168KV7NKUN04862A1F4368A3C6CEA0ADBE1BA19671.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/E/76/DPE4ICD8LKU1168KV7NKUN.uasset'
+[2025.02.11-21.51.01:231][850]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/A/X4/V3WJ9IXH9EUW63NI3BXNJM
+[2025.02.11-21.51.01:231][850]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/V3WJ9IXH9EUW63NI3BXNJMC09A03124D09BBAED29E64B8072A5AAA.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/A/X4/V3WJ9IXH9EUW63NI3BXNJM.uasset'
+[2025.02.11-21.51.01:249][850]LogFileHelpers: InternalPromptForCheckoutAndSave took 123.057 ms (total: 827.428 ms)
+[2025.02.11-21.51.01:276][850]LogContentValidation: Display: Starting to validate 12 assets
+[2025.02.11-21.51.01:277][850]LogContentValidation: Enabled validators:
+[2025.02.11-21.51.01:277][850]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.11-21.51.01:277][850]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.11-21.51.01:277][850]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.11-21.51.01:277][850]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.11-21.51.01:277][850]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.11-21.51.01:277][850]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.11-21.51.01:277][850]AssetCheck: /Game/FirstPerson/Maps/Map_Condition_A/Map_A Validating asset
+[2025.02.11-21.51.03:270][ 12]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (68 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.50)
+[2025.02.11-21.51.09:343][475]Cmd: EDIT COPY
+[2025.02.11-21.51.09:743][496]Cmd: EDIT PASTE
+[2025.02.11-21.51.17:568][ 23]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (1 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.15)
+[2025.02.11-21.51.46:679][384]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.02.11-21.51.46:685][384]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/7/ZZ/BQI9RC8L5MI828CR6ZBBE9_Auto2
+[2025.02.11-21.51.46:685][384]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/BQI9RC8L5MI828CR6ZBBE9_Auto2A40F695048B9000A43987D8848801D20.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/7/ZZ/BQI9RC8L5MI828CR6ZBBE9_Auto2.uasset'
+[2025.02.11-21.51.46:688][384]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/A/3W/ITYY3PPS2CJ127THVKTUVG_Auto2
+[2025.02.11-21.51.46:688][384]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/ITYY3PPS2CJ127THVKTUVG_Auto2A99616F94A1A10BE5CB103818DEB89BA.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/A/3W/ITYY3PPS2CJ127THVKTUVG_Auto2.uasset'
+[2025.02.11-21.51.46:689][384]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/Map_Condition_A/Map_A' took 0.022
+[2025.02.11-21.51.46:689][384]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.022
+[2025.02.11-21.51.46:689][384]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Meshes/Building/M_W_O_C] ([1] browsable assets)...
+[2025.02.11-21.51.46:689][384]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Meshes/Building/M_W_O_C]
+[2025.02.11-21.51.46:691][384]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Meshes/Building/M_W_O_C_Auto2
+[2025.02.11-21.51.46:691][384]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/M_W_O_C_Auto2F744E7324A217E7C6A886C993775452A.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Saved/Autosaves/Game/FirstPerson/Meshes/Building/M_W_O_C_Auto2.uasset'
+[2025.02.11-21.51.46:692][384]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Meshes/Building/M_O_C] ([1] browsable assets)...
+[2025.02.11-21.51.46:692][384]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Meshes/Building/M_O_C]
+[2025.02.11-21.51.46:694][384]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Meshes/Building/M_O_C_Auto2
+[2025.02.11-21.51.46:694][384]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/M_O_C_Auto25C73934F4FB8786A282AA38B1BF32151.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Saved/Autosaves/Game/FirstPerson/Meshes/Building/M_O_C_Auto2.uasset'
+[2025.02.11-21.51.46:695][384]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Meshes/Building/rack] ([1] browsable assets)...
+[2025.02.11-21.51.46:695][384]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Meshes/Building/rack]
+[2025.02.11-21.51.46:698][384]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Meshes/Building/rack_Auto2
+[2025.02.11-21.51.46:698][384]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/rack_Auto2D2F2CA734AE917347E3B059FAFFB9FD1.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Saved/Autosaves/Game/FirstPerson/Meshes/Building/rack_Auto2.uasset'
+[2025.02.11-21.51.46:698][384]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Meshes/Building/M_C_C] ([1] browsable assets)...
+[2025.02.11-21.51.46:698][384]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Meshes/Building/M_C_C]
+[2025.02.11-21.51.46:700][384]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Meshes/Building/M_C_C_Auto2
+[2025.02.11-21.51.46:700][384]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/M_C_C_Auto29B34FDDF4E0F4B3FA5DAEEB13F8248ED.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Saved/Autosaves/Game/FirstPerson/Meshes/Building/M_C_C_Auto2.uasset'
+[2025.02.11-21.51.46:701][384]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Meshes/Building/metal_box] ([1] browsable assets)...
+[2025.02.11-21.51.46:702][384]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Meshes/Building/metal_box]
+[2025.02.11-21.51.46:704][384]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Meshes/Building/metal_box_Auto2
+[2025.02.11-21.51.46:704][384]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/metal_box_Auto2934782B94133223F4BC60693F6634554.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Saved/Autosaves/Game/FirstPerson/Meshes/Building/metal_box_Auto2.uasset'
+[2025.02.11-21.51.46:705][384]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Meshes/Building/rack1] ([1] browsable assets)...
+[2025.02.11-21.51.46:705][384]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Meshes/Building/rack1]
+[2025.02.11-21.51.46:708][384]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Meshes/Building/rack1_Auto2
+[2025.02.11-21.51.46:708][384]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/rack1_Auto206A988BE49AC5B668EC91DB4BC9D85B5.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Saved/Autosaves/Game/FirstPerson/Meshes/Building/rack1_Auto2.uasset'
+[2025.02.11-21.51.46:708][384]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Meshes/Building/M_Lamp] ([1] browsable assets)...
+[2025.02.11-21.51.46:708][384]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Meshes/Building/M_Lamp]
+[2025.02.11-21.51.46:711][384]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Meshes/Building/M_Lamp_Auto2
+[2025.02.11-21.51.46:711][384]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/M_Lamp_Auto2339BA8894D8A889743B7CB9EF9BD20A3.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Saved/Autosaves/Game/FirstPerson/Meshes/Building/M_Lamp_Auto2.uasset'
+[2025.02.11-21.51.46:711][384]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Meshes/Building/SM_Light] ([1] browsable assets)...
+[2025.02.11-21.51.46:711][384]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Meshes/Building/SM_Light]
+[2025.02.11-21.51.46:714][384]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Meshes/Building/SM_Light_Auto2
+[2025.02.11-21.51.46:714][384]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/SM_Light_Auto2B4FF1EE9486F1D598C5BDA8305451186.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Saved/Autosaves/Game/FirstPerson/Meshes/Building/SM_Light_Auto2.uasset'
+[2025.02.11-21.51.46:714][384]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Meshes/Building/SM_Light_002] ([1] browsable assets)...
+[2025.02.11-21.51.46:714][384]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Meshes/Building/SM_Light_002]
+[2025.02.11-21.51.46:717][384]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Meshes/Building/SM_Light_002_Auto2
+[2025.02.11-21.51.46:717][384]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/SM_Light_002_Auto263DD886D4A3837CCC31E7793616AA867.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Saved/Autosaves/Game/FirstPerson/Meshes/Building/SM_Light_002_Auto2.uasset'
+[2025.02.11-21.51.46:717][384]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Meshes/Building/SM_Light_bulb] ([1] browsable assets)...
+[2025.02.11-21.51.46:717][384]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Meshes/Building/SM_Light_bulb]
+[2025.02.11-21.51.46:721][384]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Meshes/Building/SM_Light_bulb_Auto2
+[2025.02.11-21.51.46:721][384]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/SM_Light_bulb_Auto21242F1064B06D349DC136F8B24FA5999.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Saved/Autosaves/Game/FirstPerson/Meshes/Building/SM_Light_bulb_Auto2.uasset'
+[2025.02.11-21.51.46:722][384]LogFileHelpers: Auto-saving content packages took 0.033
+[2025.02.11-21.52.08:341][118]Cmd: EDIT COPY
+[2025.02.11-21.52.10:351][272]Cmd: EDIT PASTE
+[2025.02.11-21.52.18:160][848]Cmd: TRANSACTION UNDO
+[2025.02.11-21.52.18:160][848]LogEditorTransaction: Undo Move Elements
+[2025.02.11-21.52.33:054][938]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (206 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.54)
+[2025.02.11-21.52.34:254][ 34]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (129 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.71)
+[2025.02.11-21.52.36:066][159]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.11-21.52.36:108][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.02.11-21.52.36:123][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.02.11-21.52.36:132][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.02.11-21.52.36:134][159]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/7/ZZ/BQI9RC8L5MI828CR6ZBBE9
+[2025.02.11-21.52.36:134][159]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/BQI9RC8L5MI828CR6ZBBE9333EFBF740779FE5EC72BCBEAE024F08.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/7/ZZ/BQI9RC8L5MI828CR6ZBBE9.uasset'
+[2025.02.11-21.52.36:136][159]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/A/3W/ITYY3PPS2CJ127THVKTUVG
+[2025.02.11-21.52.36:136][159]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/ITYY3PPS2CJ127THVKTUVG9062F2F449C411FA5143D2B5D2920F70.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/A/3W/ITYY3PPS2CJ127THVKTUVG.uasset'
+[2025.02.11-21.52.36:138][159]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/A/WS/75D77TLUIGFT7B0EOQ50Z0
+[2025.02.11-21.52.36:138][159]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/75D77TLUIGFT7B0EOQ50Z08117BC3243DF3FE655CC048ED9333606.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/A/WS/75D77TLUIGFT7B0EOQ50Z0.uasset'
+[2025.02.11-21.52.36:156][159]LogFileHelpers: InternalPromptForCheckoutAndSave took 90.905 ms (total: 918.334 ms)
+[2025.02.11-21.52.36:192][159]LogContentValidation: Display: Starting to validate 3 assets
+[2025.02.11-21.52.36:192][159]LogContentValidation: Enabled validators:
+[2025.02.11-21.52.36:192][159]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.11-21.52.36:192][159]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.11-21.52.36:192][159]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.11-21.52.36:192][159]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.11-21.52.36:192][159]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.11-21.52.36:192][159]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.11-21.52.36:192][159]AssetCheck: /Game/FirstPerson/Maps/Map_Condition_A/Map_A Validating asset
+[2025.02.11-21.52.42:990][742]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (24 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (1.03)
+[2025.02.11-21.52.46:343][ 32]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (8 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.50)
+[2025.02.11-21.52.53:478][735]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2025.02.11-21.52.53:478][735]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2025.02.11-21.53.04:362][497]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (22 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.38)
+[2025.02.11-21.53.14:067][249]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (50 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.22)
+[2025.02.11-21.53.19:165][613]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (4 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.58)
+[2025.02.11-21.53.20:144][690]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (12 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.43)
+[2025.02.11-21.53.34:980][771]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (13 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.68)
+[2025.02.11-21.53.42:355][314]Cmd: EDIT COPY
+[2025.02.11-21.53.42:831][349]Cmd: EDIT PASTE
+[2025.02.11-21.53.46:293][609]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (2 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.18)
+[2025.02.11-21.53.49:659][825]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (5 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.83)
+[2025.02.11-21.53.50:906][924]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (71 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.27)
+[2025.02.11-21.54.08:579][224]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (28 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.33)
+[2025.02.11-21.54.11:885][456]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (11 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.16)
+[2025.02.11-21.54.11:945][461]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (1 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.39)
+[2025.02.11-21.54.12:202][482]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (44 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.75)
+[2025.02.11-21.54.13:444][583]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (71 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.79)
+[2025.02.11-21.54.15:521][743]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (21 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.60)
+[2025.02.11-21.54.15:677][755]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (8 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.98)
+[2025.02.11-21.54.17:142][841]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (49 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.64)
+[2025.02.11-21.54.17:361][858]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (46 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (1.23)
+[2025.02.11-21.54.28:656][716]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (9 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.24)
+[2025.02.11-21.54.29:532][766]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (5 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.62)
+[2025.02.11-21.54.32:313][950]Cmd: EDIT COPY
+[2025.02.11-21.54.32:735][974]Cmd: EDIT PASTE
+[2025.02.11-21.55.04:506][248]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (73 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.22)
+[2025.02.11-21.55.04:533][250]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (83 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.47)
+[2025.02.11-21.55.06:816][381]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (29 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.90)
+[2025.02.11-21.55.11:572][705]Cmd: EDIT COPY
+[2025.02.11-21.55.12:316][762]Cmd: EDIT PASTE
+[2025.02.11-21.55.17:382][143]Cmd: EDIT COPY
+[2025.02.11-21.55.17:765][172]Cmd: EDIT PASTE
+[2025.02.11-21.55.28:872][998]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (68 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.21)
+[2025.02.11-21.55.34:435][359]Cmd: EDIT COPY
+[2025.02.11-21.55.34:804][378]Cmd: EDIT PASTE
+[2025.02.11-21.55.46:887][235]Cmd: EDIT COPY
+[2025.02.11-21.55.47:392][253]Cmd: EDIT PASTE
+[2025.02.11-21.55.49:932][442]Cmd: EDIT COPY
+[2025.02.11-21.55.50:429][481]Cmd: EDIT PASTE
+[2025.02.11-21.56.00:381][203]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (7 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.42)
+[2025.02.11-21.56.10:156][899]Cmd: EDIT COPY
+[2025.02.11-21.56.10:545][928]Cmd: EDIT PASTE
+[2025.02.11-21.56.13:990][186]Cmd: DELETE
+[2025.02.11-21.56.13:990][186]Cmd: ACTOR DELETE
+[2025.02.11-21.56.13:998][186]LogEditorActor: Deleted Actor: PointLight
+[2025.02.11-21.56.14:015][186]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.02.11-21.56.14:018][186]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2025.02.11-21.56.28:171][117]Cmd: EDIT COPY
+[2025.02.11-21.56.28:563][143]Cmd: EDIT PASTE
+[2025.02.11-21.56.31:351][347]Cmd: EDIT COPY
+[2025.02.11-21.56.31:783][380]Cmd: EDIT PASTE
+[2025.02.11-21.56.33:669][520]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (3 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.53)
+[2025.02.11-21.56.35:666][673]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (2 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.49)
+[2025.02.11-21.56.57:396][260]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (518 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.68)
+[2025.02.11-21.56.57:485][266]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (2 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (1.34)
+[2025.02.11-21.56.57:631][276]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (20 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (1.69)
+[2025.02.11-21.56.58:434][334]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (156 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.59)
+[2025.02.11-21.56.58:933][373]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (29 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.41)
+[2025.02.11-21.57.00:750][512]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2074.941406
+[2025.02.11-21.57.00:906][523]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.11-21.57.00:906][523]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2075.085938, Update Interval: 356.899933
+[2025.02.11-21.57.04:643][763]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (16 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.47)
+[2025.02.11-21.57.06:415][889]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (28 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.38)
+[2025.02.11-21.57.07:040][925]Cmd: EDIT COPY
+[2025.02.11-21.57.07:421][943]Cmd: EDIT PASTE
+[2025.02.11-21.57.10:266][139]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (13 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.16)
+[2025.02.11-21.57.23:777][ 40]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (137 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.32)
+[2025.02.11-21.57.23:894][ 49]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (255 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (1.34)
+[2025.02.11-21.57.36:356][902]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (46 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.18)
+[2025.02.11-21.57.37:226][972]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (25 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.69)
+[2025.02.11-21.57.38:297][ 54]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (16 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (1.52)
+[2025.02.11-21.57.39:589][160]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (265 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.47)
+[2025.02.11-21.57.39:757][174]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (20 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (1.27)
+[2025.02.11-21.57.43:615][480]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (1 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.29)
+[2025.02.11-21.57.46:119][675]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (3 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.16)
+[2025.02.11-21.57.46:490][705]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (3 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (1.48)
+[2025.02.11-21.57.46:544][709]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (5 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (1.75)
+[2025.02.11-21.57.46:937][739]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (18 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (1.37)
+[2025.02.11-21.57.49:089][894]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (55 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.97)
+[2025.02.11-21.57.51:454][ 64]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (2 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (1.05)
+[2025.02.11-21.57.51:514][ 68]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (5 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (1.25)
+[2025.02.11-21.58.00:876][750]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.11-21.58.00:920][750]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.02.11-21.58.00:935][750]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.02.11-21.58.00:948][750]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.02.11-21.58.00:950][750]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/B/EI/OYTDWX0XN0CVV4T5IYIS5E
+[2025.02.11-21.58.00:950][750]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/OYTDWX0XN0CVV4T5IYIS5E664833B645AAEEEA46BF5787A70D7541.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/B/EI/OYTDWX0XN0CVV4T5IYIS5E.uasset'
+[2025.02.11-21.58.00:952][750]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/E/TQ/7TLPACYYIE1JGF9D7OKNSG
+[2025.02.11-21.58.00:952][750]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/7TLPACYYIE1JGF9D7OKNSGEA648AE840627F50049877981A55175B.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/E/TQ/7TLPACYYIE1JGF9D7OKNSG.uasset'
+[2025.02.11-21.58.00:954][750]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/B/EW/0AHDMP6M4UX84WIJ6TD9BK
+[2025.02.11-21.58.00:954][750]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/0AHDMP6M4UX84WIJ6TD9BKDA5A3C8347720D02CC2876B1ADD23B2A.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/B/EW/0AHDMP6M4UX84WIJ6TD9BK.uasset'
+[2025.02.11-21.58.00:956][750]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/1/V7/4NDZGBASBMPSF5F46Y7Q5M
+[2025.02.11-21.58.00:956][750]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/4NDZGBASBMPSF5F46Y7Q5MC600BFFB4B6A21F767D75EB962670D72.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/1/V7/4NDZGBASBMPSF5F46Y7Q5M.uasset'
+[2025.02.11-21.58.00:958][750]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/7/R8/AA4ODAOEL8LHCBUUJZAG25
+[2025.02.11-21.58.00:958][750]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/AA4ODAOEL8LHCBUUJZAG252C5C1FAD4519B42182108BA3AEE37DD5.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/7/R8/AA4ODAOEL8LHCBUUJZAG25.uasset'
+[2025.02.11-21.58.00:965][750]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/D/9W/DT1G3Y52UMX5Q5VMG7NC2R
+[2025.02.11-21.58.00:965][750]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/DT1G3Y52UMX5Q5VMG7NC2R5FCE062B4104C1141258D38A41256AB5.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/D/9W/DT1G3Y52UMX5Q5VMG7NC2R.uasset'
+[2025.02.11-21.58.00:967][750]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/4/AE/PQ2QYT589G6WGZDKOD0UYR
+[2025.02.11-21.58.00:967][750]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/PQ2QYT589G6WGZDKOD0UYR445E37B8487234129AF333B640458037.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/4/AE/PQ2QYT589G6WGZDKOD0UYR.uasset'
+[2025.02.11-21.58.00:969][750]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/D/5F/B3XJW973GBWCZE82Y7KOWR
+[2025.02.11-21.58.00:969][750]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/B3XJW973GBWCZE82Y7KOWRC66C6B5C451FB62207832BADF87776E2.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/D/5F/B3XJW973GBWCZE82Y7KOWR.uasset'
+[2025.02.11-21.58.00:970][750]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/5/N4/84BMORM04SXWKL09XEJ2G2
+[2025.02.11-21.58.00:970][750]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/84BMORM04SXWKL09XEJ2G2F785195C4A7B2D80719850BA7782D07D.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/5/N4/84BMORM04SXWKL09XEJ2G2.uasset'
+[2025.02.11-21.58.00:972][750]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/2/UT/EEG4SI2SKTJTHD3P0I532E
+[2025.02.11-21.58.00:972][750]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/EEG4SI2SKTJTHD3P0I532E394C6478414DB30C6C0C8AA7B2213C1A.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/2/UT/EEG4SI2SKTJTHD3P0I532E.uasset'
+[2025.02.11-21.58.00:974][750]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/D/Y1/F5WJEYUIVTQ3B9MN0FWJE6
+[2025.02.11-21.58.00:974][750]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/F5WJEYUIVTQ3B9MN0FWJE6251D588644789BCC8027EB807CE3E5FC.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/D/Y1/F5WJEYUIVTQ3B9MN0FWJE6.uasset'
+[2025.02.11-21.58.00:983][750]LogFileHelpers: InternalPromptForCheckoutAndSave took 107.242 ms (total: 1.02 sec)
+[2025.02.11-21.58.01:014][750]LogContentValidation: Display: Starting to validate 11 assets
+[2025.02.11-21.58.01:014][750]LogContentValidation: Enabled validators:
+[2025.02.11-21.58.01:014][750]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.11-21.58.01:014][750]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.11-21.58.01:014][750]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.11-21.58.01:014][750]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.11-21.58.01:014][750]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.11-21.58.01:014][750]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.11-21.58.01:014][750]AssetCheck: /Game/FirstPerson/Maps/Map_Condition_A/Map_A Validating asset
