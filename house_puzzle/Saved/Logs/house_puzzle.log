@@ -3291,3 +3291,20 @@ Sampler Limit: 32
 [2025.02.16-13.36.38:746][756]LogShaderCompilers: Display: Material DDC Serialization Only: 0.01 s (2%)
 [2025.02.16-13.36.38:746][756]LogShaderCompilers: Display: Material Cache Hits: 87 (27%)
 [2025.02.16-13.36.38:746][756]LogShaderCompilers: Display: ================================================
+[2025.02.16-13.40.18:868][722]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (72 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.27)
+[2025.02.16-13.40.20:819][839]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (2 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.30)
+[2025.02.16-13.40.21:553][883]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (19 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.25)
+[2025.02.16-13.40.22:535][942]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (70 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.77)
+[2025.02.16-13.40.23:176][980]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (18 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.60)
+[2025.02.16-13.40.24:233][ 41]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (26 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (1.02)
+[2025.02.16-13.40.25:223][ 99]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (2 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (1.25)
+[2025.02.16-13.41.28:433][788]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5839.805664
+[2025.02.16-13.41.29:434][791]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.16-13.41.29:434][791]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5840.473145, Update Interval: 326.428406
