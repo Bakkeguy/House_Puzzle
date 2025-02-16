@@ -3209,3 +3209,85 @@ Sampler Limit: 32
 [2025.02.16-13.35.22:130][436]AssetCheck: /Game/FirstPerson/Maps/Map_Condition_A/Map_A Validating asset
 [2025.02.16-13.35.22:146][436]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.02.16-13.35.22:146][436]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5473.162598, Update Interval: 330.105286
+[2025.02.16-13.35.47:820][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.02.16-13.35.47:821][603]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/Map_Condition_A/Map_A' took 0.012
+[2025.02.16-13.35.47:822][603]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Material/M_Postive/Basement/Wall_Thick__1__Material_002_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2025.02.16-13.35.47:822][603]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Material/M_Postive/Basement/Wall_Thick__1__Material_002_OcclusionRoughnessMetallic]
+[2025.02.16-13.35.47:831][603]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Material/M_Postive/Basement/Wall_Thick__1__Material_002_OcclusionRoughnessMetallic_Auto3
+[2025.02.16-13.35.47:831][603]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/Wall_Thick__1__Material_002_Occl4957775E416E1BA225D654B7CFBB5B60.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Saved/Autosaves/Game/FirstPerson/Material/M_Postive/Basement/Wall_Thick__1__Material_002_OcclusionRoughnessMetallic_Auto3.uasset'
+[2025.02.16-13.35.47:831][603]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Material/M_Postive/Basement/Wall_Thick__1__Material_001_BaseColor] ([1] browsable assets)...
+[2025.02.16-13.35.47:831][603]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Material/M_Postive/Basement/Wall_Thick__1__Material_001_BaseColor]
+[2025.02.16-13.35.47:841][603]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Material/M_Postive/Basement/Wall_Thick__1__Material_001_BaseColor_Auto3
+[2025.02.16-13.35.47:841][603]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/Wall_Thick__1__Material_001_Base50FEAD76465CF90F20103A9E13B42CB4.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Saved/Autosaves/Game/FirstPerson/Material/M_Postive/Basement/Wall_Thick__1__Material_001_BaseColor_Auto3.uasset'
+[2025.02.16-13.35.47:842][603]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Material/M_Postive/Basement/Wall_Thick__1__Material_001_Normal] ([1] browsable assets)...
+[2025.02.16-13.35.47:842][603]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Material/M_Postive/Basement/Wall_Thick__1__Material_001_Normal]
+[2025.02.16-13.35.47:854][603]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Material/M_Postive/Basement/Wall_Thick__1__Material_001_Normal_Auto3
+[2025.02.16-13.35.47:854][603]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/Wall_Thick__1__Material_001_Norm95B47BE64EDD17CF9A0C6E9261FA2C73.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Saved/Autosaves/Game/FirstPerson/Material/M_Postive/Basement/Wall_Thick__1__Material_001_Normal_Auto3.uasset'
+[2025.02.16-13.35.47:855][603]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Material/M_Postive/Basement/Wall_Thick__1__Material_001_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2025.02.16-13.35.47:855][603]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Material/M_Postive/Basement/Wall_Thick__1__Material_001_OcclusionRoughnessMetallic]
+[2025.02.16-13.35.47:876][603]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Material/M_Postive/Basement/Wall_Thick__1__Material_001_OcclusionRoughnessMetallic_Auto3
+[2025.02.16-13.35.47:876][603]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/Wall_Thick__1__Material_001_Occl13A34A0D4DE70BE357AB829EEE04A643.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Saved/Autosaves/Game/FirstPerson/Material/M_Postive/Basement/Wall_Thick__1__Material_001_OcclusionRoughnessMetallic_Auto3.uasset'
+[2025.02.16-13.35.47:877][603]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Material/M_Postive/Basement/Wall_Thick__1__Material_002_BaseColor] ([1] browsable assets)...
+[2025.02.16-13.35.47:877][603]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Material/M_Postive/Basement/Wall_Thick__1__Material_002_BaseColor]
+[2025.02.16-13.35.47:884][603]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Material/M_Postive/Basement/Wall_Thick__1__Material_002_BaseColor_Auto3
+[2025.02.16-13.35.47:884][603]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/Wall_Thick__1__Material_002_Base7D67FB5F41DCBB06BF948FA69A40CF1D.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Saved/Autosaves/Game/FirstPerson/Material/M_Postive/Basement/Wall_Thick__1__Material_002_BaseColor_Auto3.uasset'
+[2025.02.16-13.35.47:885][603]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Material/M_Postive/Basement/Wall_Thick__1__Material_002_Normal] ([1] browsable assets)...
+[2025.02.16-13.35.47:885][603]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Material/M_Postive/Basement/Wall_Thick__1__Material_002_Normal]
+[2025.02.16-13.35.47:905][603]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Material/M_Postive/Basement/Wall_Thick__1__Material_002_Normal_Auto3
+[2025.02.16-13.35.47:906][603]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/Wall_Thick__1__Material_002_Norm6F7AC44E4EFBF68F9B383AADF0501343.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Saved/Autosaves/Game/FirstPerson/Material/M_Postive/Basement/Wall_Thick__1__Material_002_Normal_Auto3.uasset'
+[2025.02.16-13.35.47:906][603]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Material/M_Postive/Basement/M_BasementWallTrimPos] ([1] browsable assets)...
+[2025.02.16-13.35.47:906][603]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Material/M_Postive/Basement/M_BasementWallTrimPos]
+[2025.02.16-13.35.47:908][603]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Material/M_Postive/Basement/M_BasementWallTrimPos_Auto3
+[2025.02.16-13.35.47:908][603]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/M_BasementWallTrimPos_Auto319265E31414F2E8B67CA49BC062300D7.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Saved/Autosaves/Game/FirstPerson/Material/M_Postive/Basement/M_BasementWallTrimPos_Auto3.uasset'
+[2025.02.16-13.35.47:908][603]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Material/M_Postive/Basement/M_White] ([1] browsable assets)...
+[2025.02.16-13.35.47:949][603]OBJ SavePackage:     Rendered thumbnail for [Material /Game/FirstPerson/Material/M_Postive/Basement/M_White.M_White]
+[2025.02.16-13.35.47:949][603]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Material/M_Postive/Basement/M_White]
+[2025.02.16-13.35.47:950][603]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Material/M_Postive/Basement/M_White_Auto3
+[2025.02.16-13.35.47:950][603]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/M_White_Auto3C174BB5741D1C7E9C0D74C8D5B47330E.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Saved/Autosaves/Game/FirstPerson/Material/M_Postive/Basement/M_White_Auto3.uasset'
+[2025.02.16-13.35.47:952][603]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Material/M_Postive/Basement/Wall_Thick__1__Material_001_BaseColor_Mat] ([1] browsable assets)...
+[2025.02.16-13.35.47:972][603]OBJ SavePackage:     Rendered thumbnail for [Material /Game/FirstPerson/Material/M_Postive/Basement/Wall_Thick__1__Material_001_BaseColor_Mat.Wall_Thick__1__Material_001_BaseColor_Mat]
+[2025.02.16-13.35.47:972][603]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Material/M_Postive/Basement/Wall_Thick__1__Material_001_BaseColor_Mat]
+[2025.02.16-13.35.47:973][603]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Material/M_Postive/Basement/Wall_Thick__1__Material_001_BaseColor_Mat_Auto3
+[2025.02.16-13.35.47:973][603]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/Wall_Thick__1__Material_001_BaseE5ABAA6647CD5B6B9D55F780043A1312.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Saved/Autosaves/Game/FirstPerson/Material/M_Postive/Basement/Wall_Thick__1__Material_001_BaseColor_Mat_Auto3.uasset'
+[2025.02.16-13.35.47:974][603]LogFileHelpers: Auto-saving content packages took 0.152
+[2025.02.16-13.36.38:745][756]LogShaderCompilers: Display: ================================================
+[2025.02.16-13.36.38:745][756]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.02.16-13.36.38:745][756]LogShaderCompilers: Display: Total job queries 556, among them cache hits 225 (40.47%), DDC hits 302 (54.32%), Duplicates 6 (1.08%)
+[2025.02.16-13.36.38:745][756]LogShaderCompilers: Display: Tracking 320 distinct input hashes that result in 258 distinct outputs (80.62%)
+[2025.02.16-13.36.38:745][756]LogShaderCompilers: Display: RAM used: 163,45 KiB of 1,60 GiB budget. Usage: 0.01%
+[2025.02.16-13.36.38:745][756]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.02.16-13.36.38:745][756]LogShaderCompilers: Display: Shaders Compiled: 18
+[2025.02.16-13.36.38:745][756]LogShaderCompilers: Display: Jobs assigned 18, completed 18 (100%)
+[2025.02.16-13.36.38:745][756]LogShaderCompilers: Display: Average time worker was idle: 285.10 s
+[2025.02.16-13.36.38:745][756]LogShaderCompilers: Display: Time job spent in pending queue: average 0.19 s, longest 1.22 s
+[2025.02.16-13.36.38:745][756]LogShaderCompilers: Display: Job execution time: average 2.05 s, max 4.47 s
+[2025.02.16-13.36.38:745][756]LogShaderCompilers: Display: Job life time (pending + execution): average 2.23 s, max 4.53
+[2025.02.16-13.36.38:745][756]LogShaderCompilers: Display: Shader code size: average 10,581 KiB, min 4,883 KiB, max 20,34 KiB
+[2025.02.16-13.36.38:745][756]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 11.09 s
+[2025.02.16-13.36.38:745][756]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.02.16-13.36.38:745][756]LogShaderCompilers: Display: Jobs were issued in 15 batches (only local compilation was used), average 1.20 jobs/batch
+[2025.02.16-13.36.38:745][756]LogShaderCompilers: Display: Average processing rate: 1.62 jobs/sec
+[2025.02.16-13.36.38:745][756]LogShaderCompilers: Display: Total thread time: 19,934 s
+[2025.02.16-13.36.38:745][756]LogShaderCompilers: Display: Total thread preprocess time: 10,806 s
+[2025.02.16-13.36.38:745][756]LogShaderCompilers: Display: Percentage time preprocessing: 54.21%
+[2025.02.16-13.36.38:745][756]LogShaderCompilers: Display: Effective parallelization: 1.80 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2025.02.16-13.36.38:745][756]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.02.16-13.36.38:745][756]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    2 times, average 2.53 sec, max 3.26 sec, min 1.80 sec)
+[2025.02.16-13.36.38:745][756]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    2 times, average 1.93 sec, max 2.37 sec, min 1.50 sec)
+[2025.02.16-13.36.38:745][756]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    1 times, average 1.84 sec, max 1.84 sec, min 1.84 sec)
+[2025.02.16-13.36.38:745][756]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    1 times, average 1.49 sec, max 1.49 sec, min 1.49 sec)
+[2025.02.16-13.36.38:745][756]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 1.00 sec, max 1.03 sec, min 0.98 sec)
+[2025.02.16-13.36.38:745][756]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.02.16-13.36.38:745][756]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight - 25.40% of total time (compiled    2 times, average 2.53 sec, max 3.26 sec, min 1.80 sec)
+[2025.02.16-13.36.38:745][756]LogShaderCompilers: Display:                                             FDebugViewModePS - 19.40% of total time (compiled    2 times, average 1.93 sec, max 2.37 sec, min 1.50 sec)
+[2025.02.16-13.36.38:745][756]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 10.05% of total time (compiled    2 times, average 1.00 sec, max 1.03 sec, min 0.98 sec)
+[2025.02.16-13.36.38:745][756]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 9.24% of total time (compiled    1 times, average 1.84 sec, max 1.84 sec, min 1.84 sec)
+[2025.02.16-13.36.38:745][756]LogShaderCompilers: Display:                                                 FLumenCardCS - 7.47% of total time (compiled    1 times, average 1.49 sec, max 1.49 sec, min 1.49 sec)
+[2025.02.16-13.36.38:745][756]LogShaderCompilers: Display: === Material stats ===
+[2025.02.16-13.36.38:745][756]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.02.16-13.36.38:745][756]LogShaderCompilers: Display: Materials Translated:    319
+[2025.02.16-13.36.38:745][756]LogShaderCompilers: Display: Material Total Translate Time: 0.22 s
+[2025.02.16-13.36.38:746][756]LogShaderCompilers: Display: Material Translation Only: 0.12 s (55%)
+[2025.02.16-13.36.38:746][756]LogShaderCompilers: Display: Material DDC Serialization Only: 0.01 s (2%)
+[2025.02.16-13.36.38:746][756]LogShaderCompilers: Display: Material Cache Hits: 87 (27%)
+[2025.02.16-13.36.38:746][756]LogShaderCompilers: Display: ================================================
