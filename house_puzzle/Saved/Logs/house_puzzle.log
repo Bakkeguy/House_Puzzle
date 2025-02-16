@@ -2168,3 +2168,1044 @@ FPackageName: Skipped package /Game/ThridParty_Assets/Modern_House_V1/Textures/W
  See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (1.71)
 [2025.02.16-12.06.46:344][612]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (373 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
  See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.74)
+[2025.02.16-12.08.08:288][422]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (13 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.71)
+[2025.02.16-12.08.09:206][458]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (6 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.98)
+[2025.02.16-12.08.09:549][474]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (14 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (1.22)
+[2025.02.16-12.08.15:575][762]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (80 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (1.03)
+[2025.02.16-12.08.16:064][791]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (40 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (1.19)
+[2025.02.16-12.09.27:319][373]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 318.703094
+[2025.02.16-12.09.27:498][382]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.16-12.09.27:498][383]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 318.862610, Update Interval: 323.119598
+[2025.02.16-13.12.42:368][298]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4113.751953
+[2025.02.16-13.12.42:643][307]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.16-13.12.42:643][307]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4114.003906, Update Interval: 318.518005
+[2025.02.16-13.13.17:988][ 32]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (33 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (1.69)
+[2025.02.16-13.13.20:058][141]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (16 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (1.21)
+[2025.02.16-13.13.20:474][162]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (58 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (2.00)
+[2025.02.16-13.13.24:567][404]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (12 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.43)
+[2025.02.16-13.13.26:505][512]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (9 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (1.20)
+[2025.02.16-13.13.27:997][602]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (23 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.34)
+[2025.02.16-13.13.30:524][753]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (5 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (1.23)
+[2025.02.16-13.14.39:937][476]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.02.16-13.14.39:940][476]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/Map_Condition_A/Map_A' took 0.018
+[2025.02.16-13.14.39:940][476]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Material/M_Postive/Basement/M_WallTest] ([1] browsable assets)...
+[2025.02.16-13.14.40:015][476]OBJ SavePackage:     Rendered thumbnail for [Material /Game/FirstPerson/Material/M_Postive/Basement/M_WallTest.M_WallTest]
+[2025.02.16-13.14.40:016][476]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Material/M_Postive/Basement/M_WallTest]
+[2025.02.16-13.14.40:018][476]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Material/M_Postive/Basement/M_WallTest_Auto1
+[2025.02.16-13.14.40:018][476]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/M_WallTest_Auto1743104054B67A6CA17450198687CB1A6.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Saved/Autosaves/Game/FirstPerson/Material/M_Postive/Basement/M_WallTest_Auto1.uasset'
+[2025.02.16-13.14.40:019][476]LogFileHelpers: Auto-saving content packages took 0.079
+[2025.02.16-13.16.27:309][989]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/FirstPerson/Material/M_Postive/Basement/M_WallTest.M_WallTest
+[2025.02.16-13.16.27:309][989]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Bool.png' error.
+[2025.02.16-13.16.27:309][989]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Bool.png
+[2025.02.16-13.16.27:309][989]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float1.png' error.
+[2025.02.16-13.16.27:310][989]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float1.png
+[2025.02.16-13.16.27:310][989]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/None.png' error.
+[2025.02.16-13.16.27:310][989]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/None.png
+[2025.02.16-13.16.27:310][989]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RPY.png' error.
+[2025.02.16-13.16.27:310][989]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RPY.png
+[2025.02.16-13.16.27:310][989]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float2.png' error.
+[2025.02.16-13.16.27:310][989]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float2.png
+[2025.02.16-13.16.27:310][989]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RGB.png' error.
+[2025.02.16-13.16.27:310][989]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_RGB.png
+[2025.02.16-13.16.27:310][989]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_XYZ.png' error.
+[2025.02.16-13.16.27:310][989]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float3_XYZ.png
+[2025.02.16-13.16.27:310][989]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float_Any.png' error.
+[2025.02.16-13.16.27:310][989]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float_Any.png
+[2025.02.16-13.16.27:310][989]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float4_RGBA.png' error.
+[2025.02.16-13.16.27:310][989]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Float4_RGBA.png
+[2025.02.16-13.16.27:310][989]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Texture.png' error.
+[2025.02.16-13.16.27:310][989]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/ValueTypes/Texture.png
+[2025.02.16-13.16.27:310][989]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeDefaultLit.png' error.
+[2025.02.16-13.16.27:310][989]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeDefaultLit.png
+[2025.02.16-13.16.27:310][989]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_SinglePixel.png' error.
+[2025.02.16-13.16.27:310][989]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_SinglePixel.png
+[2025.02.16-13.16.27:310][989]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftTopRight.png' error.
+[2025.02.16-13.16.27:310][989]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftTopRight.png
+[2025.02.16-13.16.27:310][989]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftBottomRight.png' error.
+[2025.02.16-13.16.27:310][989]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_LeftBottomRight.png
+[2025.02.16-13.16.27:310][989]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeUnlit.png' error.
+[2025.02.16-13.16.27:310][989]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaterialTypeUnlit.png
+[2025.02.16-13.16.27:310][989]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopLeftBottom.png' error.
+[2025.02.16-13.16.27:310][989]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopLeftBottom.png
+[2025.02.16-13.16.27:310][989]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopRightBottom.png' error.
+[2025.02.16-13.16.27:310][989]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_TopRightBottom.png
+[2025.02.16-13.16.27:310][989]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Remove_16px.png' error.
+[2025.02.16-13.16.27:310][989]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Remove_16px.png
+[2025.02.16-13.16.27:310][989]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Top.png' error.
+[2025.02.16-13.16.27:310][989]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Top.png
+[2025.02.16-13.16.27:310][989]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/WhiteBall.png' error.
+[2025.02.16-13.16.27:310][989]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/WhiteBall.png
+[2025.02.16-13.16.27:310][989]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Bottom.png' error.
+[2025.02.16-13.16.27:310][989]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Bottom.png
+[2025.02.16-13.16.27:310][989]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/BaseToggle_16x.png' error.
+[2025.02.16-13.16.27:310][989]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Left.png' error.
+[2025.02.16-13.16.27:310][989]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/BaseToggle_16x.png
+[2025.02.16-13.16.27:310][989]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Left.png
+[2025.02.16-13.16.27:310][989]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Images/Borders/Border_Right.png' error.
+[2025.02.16-13.16.27:310][989]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Images/Borders/Border_Right.png
+[2025.02.16-13.16.27:310][989]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaskToggle_16x.png' error.
+[2025.02.16-13.16.27:310][989]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/MaskToggle_16x.png
+[2025.02.16-13.16.27:310][989]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerAdd.png' error.
+[2025.02.16-13.16.27:310][989]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerAdd.png
+[2025.02.16-13.16.27:310][989]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Duplicate_40x.png' error.
+[2025.02.16-13.16.27:310][989]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/Duplicate_40x.png
+[2025.02.16-13.16.27:310][989]LogStreaming: Warning: Failed to read file '../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerRemove.png' error.
+[2025.02.16-13.16.27:310][989]LogSlate: Could not find file for Slate resource: ../../../Engine/Content/Editor/Slate/Icons/EditorIcons/LayerRemove.png
+[2025.02.16-13.16.27:316][989]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2025.02.16-13.16.27:324][989]LogStreaming: Display: FlushAsyncLoading(1857): 1 QueuedPackages, 0 AsyncPackages
+[2025.02.16-13.16.27:560][989]LogStaticMesh: Warning: Invalid material [Sklo] used on Nanite static mesh [defaultMaterial]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.02.16-13.16.27:808][989]MaterialEditorStats: Texture samplers: 0/16
+[2025.02.16-13.16.27:808][989]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.02.16-13.16.27:808][989]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.02.16-13.16.27:808][989]MaterialEditorStats: Shader Count: 0
+[2025.02.16-13.16.27:808][989]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.02.16-13.16.27:818][989]LogSlate: Took 0.000276 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.02.16-13.16.27:924][991]MaterialEditorStats: Base pass shader: 187 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2025.02.16-13.16.27:926][991]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.02.16-13.16.27:926][991]MaterialEditorStats: Texture samplers: 4/16
+[2025.02.16-13.16.27:926][991]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.02.16-13.16.27:926][991]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.02.16-13.16.27:926][991]MaterialEditorStats: Shader Count: 2
+[2025.02.16-13.16.27:926][991]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.02.16-13.16.37:595][267]LogStreaming: Display: FlushAsyncLoading(1861): 1 QueuedPackages, 0 AsyncPackages
+[2025.02.16-13.16.37:632][267]LogInterchangeEngine: [Pending] Importing
+[2025.02.16-13.16.37:634][267]LogInterchangeEngine: Display: Interchange start importing source [A:/GL6/Textures/PositiveCondition/BasementWall/Wall_Thick (1)_Material.002_OcclusionRoughnessMetallic.png]
+[2025.02.16-13.16.37:635][267]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.02.16-13.16.37:635][267]LogInterchangeEngine: Display: Interchange start importing source [A:/GL6/Textures/PositiveCondition/BasementWall/Wall_Thick (1)_Material.001_BaseColor.png]
+[2025.02.16-13.16.37:635][267]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.02.16-13.16.37:635][267]LogInterchangeEngine: Display: Interchange start importing source [A:/GL6/Textures/PositiveCondition/BasementWall/Wall_Thick (1)_Material.001_Normal.png]
+[2025.02.16-13.16.37:636][267]LogInterchangeEngine: [Pending] Importing -  (4)
+[2025.02.16-13.16.37:636][267]LogInterchangeEngine: [Pending] Importing -  (5)
+[2025.02.16-13.16.37:637][267]LogInterchangeEngine: [Pending] Importing -  (6)
+[2025.02.16-13.16.38:298][269]LogStreaming: Display: FlushAsyncLoading(1875): 1 QueuedPackages, 0 AsyncPackages
+[2025.02.16-13.16.38:399][274]LogTexture: Display: Building textures: /Game/FirstPerson/Material/M_Postive/Basement/Wall_Thick__1__Material_002_OcclusionRoughnessMetallic.Wall_Thick__1__Material_002_OcclusionRoughnessMetallic (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 280.999983 MB), EncodeSpeed: Fast
+[2025.02.16-13.16.38:407][274]LogTexture: Display: Building textures: /Game/FirstPerson/Material/M_Postive/Basement/Wall_Thick__1__Material_001_BaseColor.Wall_Thick__1__Material_001_BaseColor (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 280.999983 MB), EncodeSpeed: Fast
+[2025.02.16-13.16.38:568][278]LogTexture: Display: Building textures: /Game/FirstPerson/Material/M_Postive/Basement/Wall_Thick__1__Material_001_Normal.Wall_Thick__1__Material_001_Normal (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 280.999983 MB), EncodeSpeed: Fast
+[2025.02.16-13.16.38:603][278]LogInterchangeEngine: Display: Interchange import completed [A:/GL6/Textures/Posi...ndition/BasementWall/Wall_Thick (1)_Material.002_OcclusionRoughnessMetallic.png]
+[2025.02.16-13.16.38:604][278]LogInterchangeEngine: [Pending] Importing -  (5)
+[2025.02.16-13.16.38:604][278]LogInterchangeEngine: [Pending] Importing -  (5)
+[2025.02.16-13.16.38:604][278]LogInterchangeEngine: Display: Interchange start importing source [A:/GL6/Textures/PositiveCondition/BasementWall/Wall_Thick (1)_Material.001_OcclusionRoughnessMetallic.png]
+[2025.02.16-13.16.38:605][278]LogInterchangeEngine: Display: Interchange import completed [A:/GL6/Textures/Posi...ndition/BasementWall/Wall_Thick (1)_Material.001_BaseColor.png]
+[2025.02.16-13.16.38:605][278]LogInterchangeEngine: [Pending] Importing -  (4)
+[2025.02.16-13.16.38:605][278]LogInterchangeEngine: [Pending] Importing -  (4)
+[2025.02.16-13.16.38:605][278]LogInterchangeEngine: Display: Interchange start importing source [A:/GL6/Textures/PositiveCondition/BasementWall/Wall_Thick (1)_Material.002_BaseColor.png]
+[2025.02.16-13.16.38:679][281]LogStreaming: Display: FlushAsyncLoading(1878): 1 QueuedPackages, 0 AsyncPackages
+[2025.02.16-13.16.38:758][283]LogInterchangeImport: Display: Auto-detected grayscale, image changed to G8
+[2025.02.16-13.16.38:836][285]LogInterchangeEngine: Display: Interchange import completed [A:/GL6/Textures/Posi...ndition/BasementWall/Wall_Thick (1)_Material.001_Normal.png]
+[2025.02.16-13.16.38:836][285]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.02.16-13.16.38:836][285]LogInterchangeEngine: [Pending] Importing -  (3)
+[2025.02.16-13.16.38:836][285]LogInterchangeEngine: Display: Interchange start importing source [A:/GL6/Textures/PositiveCondition/BasementWall/Wall_Thick (1)_Material.002_Normal.png]
+[2025.02.16-13.16.38:836][285]LogInterchangeEngine: Display: Interchange import completed [A:/GL6/Textures/Posi...ndition/BasementWall/Wall_Thick (1)_Material.001_OcclusionRoughnessMetallic.png]
+[2025.02.16-13.16.38:836][285]LogInterchangeEngine: [Pending] Importing -  (2)
+[2025.02.16-13.16.38:836][285]LogInterchangeEngine: Display: Interchange import completed [A:/GL6/Textures/Posi...ndition/BasementWall/Wall_Thick (1)_Material.002_BaseColor.png]
+[2025.02.16-13.16.38:836][285]LogInterchangeEngine: [Pending] Importing -  (1)
+[2025.02.16-13.16.38:912][288]LogStreaming: Display: FlushAsyncLoading(1880): 1 QueuedPackages, 0 AsyncPackages
+[2025.02.16-13.16.38:989][292]LogTexture: Display: Building textures: /Game/FirstPerson/Material/M_Postive/Basement/Wall_Thick__1__Material_002_Normal.Wall_Thick__1__Material_002_Normal (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 280.999983 MB), EncodeSpeed: Fast
+[2025.02.16-13.16.39:149][295]LogInterchangeEngine: Display: Interchange import completed [A:/GL6/Textures/Posi...ndition/BasementWall/Wall_Thick (1)_Material.002_Normal.png]
+[2025.02.16-13.16.39:186][295]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.02.16-13.16.39:186][295]LogInterchangeEngine: [Success] Import Done
+[2025.02.16-13.17.01:657][520]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (7 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.15)
+[2025.02.16-13.17.04:123][668]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (8 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (1.14)
+[2025.02.16-13.17.05:698][761]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (1 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (1.57)
+[2025.02.16-13.17.07:115][843]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (102 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.76)
+[2025.02.16-13.17.07:327][855]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (6 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (1.30)
+[2025.02.16-13.17.07:366][857]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (3 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (1.41)
+[2025.02.16-13.17.08:471][920]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (15 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.89)
+[2025.02.16-13.17.09:607][987]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (1 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (1.49)
+[2025.02.16-13.17.11:022][ 68]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (32 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.54)
+[2025.02.16-13.17.16:108][359]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (27 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.26)
+[2025.02.16-13.17.17:342][433]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (9 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.46)
+[2025.02.16-13.17.17:440][439]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (1 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.76)
+[2025.02.16-13.17.18:058][476]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (31 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.63)
+[2025.02.16-13.17.18:808][519]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (88 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (1.00)
+[2025.02.16-13.17.19:457][552]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (43 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.45)
+[2025.02.16-13.17.20:522][613]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (12 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.46)
+[2025.02.16-13.18.06:705][825]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4438.087402
+[2025.02.16-13.18.06:882][834]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.16-13.18.06:882][834]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4438.245605, Update Interval: 301.602234
+[2025.02.16-13.18.20:647][558]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2025.02.16-13.18.36:243][326]LogStaticMesh: Warning: Invalid material [Sklo] used on Nanite static mesh [defaultMaterial]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.02.16-13.18.36:249][326]LogStaticMesh: Warning: Invalid material [Sklo] used on Nanite static mesh [defaultMaterial]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.02.16-13.18.36:254][326]MaterialEditorStats: Texture samplers: 0/16
+[2025.02.16-13.18.36:254][326]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.02.16-13.18.36:254][326]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.02.16-13.18.36:254][326]MaterialEditorStats: Shader Count: 0
+[2025.02.16-13.18.36:254][326]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.02.16-13.18.36:318][328]MaterialEditorStats: Base pass shader: 187 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2025.02.16-13.18.36:318][328]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.02.16-13.18.36:318][328]MaterialEditorStats: Texture samplers: 4/16
+[2025.02.16-13.18.36:318][328]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.02.16-13.18.36:318][328]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.02.16-13.18.36:318][328]MaterialEditorStats: Shader Count: 2
+[2025.02.16-13.18.36:318][328]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.02.16-13.18.47:164][878]LogStaticMesh: Warning: Invalid material [Sklo] used on Nanite static mesh [defaultMaterial]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.02.16-13.18.47:168][878]LogStaticMesh: Warning: Invalid material [Sklo] used on Nanite static mesh [defaultMaterial]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.02.16-13.18.47:175][878]MaterialEditorStats: Texture samplers: 0/16
+[2025.02.16-13.18.47:175][878]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.02.16-13.18.47:175][878]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.02.16-13.18.47:175][878]MaterialEditorStats: Shader Count: 0
+[2025.02.16-13.18.47:175][878]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.02.16-13.18.49:160][967]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.02.16-13.18.49:160][967]MaterialEditorStats: Texture samplers: 0/16
+[2025.02.16-13.18.49:160][967]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.02.16-13.18.49:160][967]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.02.16-13.18.49:160][967]MaterialEditorStats: Shader Count: 1
+[2025.02.16-13.18.49:160][967]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.02.16-13.18.49:487][981]MaterialEditorStats: Base pass shader: 185 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2025.02.16-13.18.49:487][981]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.02.16-13.18.49:487][981]MaterialEditorStats: Texture samplers: 4/16
+[2025.02.16-13.18.49:487][981]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.02.16-13.18.49:487][981]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.02.16-13.18.49:487][981]MaterialEditorStats: Shader Count: 2
+[2025.02.16-13.18.49:487][981]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.02.16-13.18.59:752][502]LogStaticMesh: Warning: Invalid material [Sklo] used on Nanite static mesh [defaultMaterial]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.02.16-13.18.59:759][502]LogStaticMesh: Warning: Invalid material [Sklo] used on Nanite static mesh [defaultMaterial]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.02.16-13.18.59:764][502]MaterialEditorStats: Texture samplers: 0/16
+[2025.02.16-13.18.59:764][502]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.02.16-13.18.59:764][502]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.02.16-13.18.59:764][502]MaterialEditorStats: Shader Count: 0
+[2025.02.16-13.18.59:764][502]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.02.16-13.18.59:826][504]MaterialEditorStats: Base pass shader: 185 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2025.02.16-13.18.59:826][504]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.02.16-13.18.59:826][504]MaterialEditorStats: Texture samplers: 4/16
+[2025.02.16-13.18.59:826][504]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.02.16-13.18.59:826][504]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.02.16-13.18.59:826][504]MaterialEditorStats: Shader Count: 2
+[2025.02.16-13.18.59:826][504]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.02.16-13.19.08:394][939]LogMaterialEditor: Applying material M_WallTest
+[2025.02.16-13.19.08:455][939]LogStaticMesh: Warning: Invalid material [Sklo] used on Nanite static mesh [defaultMaterial]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.02.16-13.19.08:473][939]LogStaticMesh: Warning: Invalid material [Sklo] used on Nanite static mesh [defaultMaterial]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.02.16-13.19.08:473][939]LogStaticMesh: Warning: Invalid material [Sklo] used on Nanite static mesh [defaultMaterial]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.02.16-13.19.08:473][939]LogStaticMesh: Warning: Invalid material [Sklo] used on Nanite static mesh [defaultMaterial]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.02.16-13.19.08:473][939]LogStaticMesh: Warning: Invalid material [Sklo] used on Nanite static mesh [defaultMaterial]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.02.16-13.19.08:473][939]LogStaticMesh: Warning: Invalid material [Sklo] used on Nanite static mesh [defaultMaterial]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.02.16-13.19.08:504][939]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.02.16-13.19.11:061][939]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.02.16-13.19.11:081][939]MaterialEditorStats: Base pass shader: 185 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2025.02.16-13.19.11:081][939]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.02.16-13.19.11:081][939]MaterialEditorStats: Nanite Compute Shader: 831 instructions
+Stats: Resources Used: 12
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2025.02.16-13.19.11:081][939]MaterialEditorStats: Texture samplers: 4/16
+[2025.02.16-13.19.11:081][939]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.02.16-13.19.11:081][939]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.02.16-13.19.11:081][939]MaterialEditorStats: Shader Count: 10
+[2025.02.16-13.19.11:081][939]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.02.16-13.19.11:084][939]LogStaticMesh: Warning: Invalid material [Sklo] used on Nanite static mesh [defaultMaterial]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.02.16-13.19.20:135][329]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (8 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.47)
+[2025.02.16-13.19.24:596][539]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (35 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.22)
+[2025.02.16-13.19.44:252][513]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (37 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.32)
+[2025.02.16-13.19.44:742][538]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (2 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.44)
+[2025.02.16-13.19.45:955][600]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (77 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.78)
+[2025.02.16-13.19.52:072][886]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (44 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.52)
+[2025.02.16-13.19.54:919][ 27]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (11 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.17)
+[2025.02.16-13.20.04:989][525]LogContentBrowser: Deferred new asset file creation: M_WallTest1
+[2025.02.16-13.20.05:003][525]LogContentBrowser: Creating deferred item: M_WallTest1
+[2025.02.16-13.20.05:027][526]LogContentBrowser: Renaming the item being created (Deferred Item: M_WallTest1).
+[2025.02.16-13.20.16:572][142]LogContentBrowser: Attempting asset rename: M_WallTest1 -> M_BasementWallTrimPos
+[2025.02.16-13.20.16:575][142]LogContentBrowser: End creating deferred item M_WallTest1
+[2025.02.16-13.20.25:014][551]LogContentBrowser: Attempting asset rename: M_WallTest -> BasementWallPos
+[2025.02.16-13.20.25:173][551]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.16-13.20.25:173][551]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Material/M_Postive/Basement/BasementWallPos] ([1] browsable assets)...
+[2025.02.16-13.20.25:184][551]OBJ SavePackage:     Rendered thumbnail for [Material /Game/FirstPerson/Material/M_Postive/Basement/BasementWallPos.BasementWallPos]
+[2025.02.16-13.20.25:184][551]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Material/M_Postive/Basement/BasementWallPos]
+[2025.02.16-13.20.25:186][551]LogSavePackage: Moving output files for package: /Game/FirstPerson/Material/M_Postive/Basement/BasementWallPos
+[2025.02.16-13.20.25:186][551]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/BasementWallPosE66C1CF246B42863E7BA94B5D7908927.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/FirstPerson/Material/M_Postive/Basement/BasementWallPos.uasset'
+[2025.02.16-13.20.25:187][551]LogFileHelpers: InternalPromptForCheckoutAndSave took 14.199 ms
+[2025.02.16-13.20.25:210][551]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.02.16-13.20.25:224][551]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.02.16-13.20.25:236][551]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.02.16-13.20.25:326][551]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.16-13.20.25:326][551]LogContentValidation: Enabled validators:
+[2025.02.16-13.20.25:326][551]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.16-13.20.25:326][551]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.16-13.20.25:326][551]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.16-13.20.25:326][551]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.16-13.20.25:326][551]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.16-13.20.25:326][551]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.16-13.20.25:326][551]AssetCheck: /Game/FirstPerson/Material/M_Postive/Basement/BasementWallPos Validating asset
+[2025.02.16-13.20.31:780][865]LogContentBrowser: Attempting asset rename: BasementWallPos -> M_BasementWallPos
+[2025.02.16-13.20.31:907][865]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.16-13.20.31:907][865]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Material/M_Postive/Basement/M_BasementWallPos] ([1] browsable assets)...
+[2025.02.16-13.20.31:907][865]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Material/M_Postive/Basement/M_BasementWallPos]
+[2025.02.16-13.20.31:909][865]LogSavePackage: Moving output files for package: /Game/FirstPerson/Material/M_Postive/Basement/M_BasementWallPos
+[2025.02.16-13.20.31:909][865]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/M_BasementWallPosE85A501C4104CC731F8266BCD888BF97.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/FirstPerson/Material/M_Postive/Basement/M_BasementWallPos.uasset'
+[2025.02.16-13.20.31:909][865]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.625 ms (total: 16.825 ms)
+[2025.02.16-13.20.31:933][865]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.02.16-13.20.31:945][865]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.02.16-13.20.31:957][865]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.02.16-13.20.32:038][865]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.16-13.20.32:038][865]LogContentValidation: Enabled validators:
+[2025.02.16-13.20.32:038][865]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.16-13.20.32:038][865]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.16-13.20.32:038][865]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.16-13.20.32:038][865]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.16-13.20.32:038][865]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.16-13.20.32:038][865]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.16-13.20.32:039][865]AssetCheck: /Game/FirstPerson/Material/M_Postive/Basement/M_BasementWallPos Validating asset
+[2025.02.16-13.20.42:554][415]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (37 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.78)
+[2025.02.16-13.20.59:079][112]LogStaticMesh: Warning: Invalid material [Sklo] used on Nanite static mesh [defaultMaterial]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.02.16-13.20.59:087][112]LogStaticMesh: Warning: Invalid material [Sklo] used on Nanite static mesh [defaultMaterial]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.02.16-13.20.59:090][112]MaterialEditorStats: Texture samplers: 0/16
+[2025.02.16-13.20.59:090][112]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.02.16-13.20.59:090][112]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.02.16-13.20.59:090][112]MaterialEditorStats: Shader Count: 0
+[2025.02.16-13.20.59:090][112]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.02.16-13.20.59:151][114]MaterialEditorStats: Base pass shader: 185 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2025.02.16-13.20.59:151][114]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.02.16-13.20.59:151][114]MaterialEditorStats: Texture samplers: 4/16
+[2025.02.16-13.20.59:151][114]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.02.16-13.20.59:151][114]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.02.16-13.20.59:151][114]MaterialEditorStats: Shader Count: 2
+[2025.02.16-13.20.59:151][114]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.02.16-13.21.21:597][299]LogStaticMesh: Warning: Invalid material [Sklo] used on Nanite static mesh [defaultMaterial]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.02.16-13.21.21:601][299]LogStaticMesh: Warning: Invalid material [Sklo] used on Nanite static mesh [defaultMaterial]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.02.16-13.21.21:608][299]MaterialEditorStats: Texture samplers: 0/16
+[2025.02.16-13.21.21:608][299]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.02.16-13.21.21:608][299]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.02.16-13.21.21:608][299]MaterialEditorStats: Shader Count: 0
+[2025.02.16-13.21.21:608][299]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.02.16-13.21.21:667][301]MaterialEditorStats: Base pass shader: 185 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2025.02.16-13.21.21:667][301]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.02.16-13.21.21:667][301]MaterialEditorStats: Texture samplers: 4/16
+[2025.02.16-13.21.21:667][301]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.02.16-13.21.21:667][301]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.02.16-13.21.21:667][301]MaterialEditorStats: Shader Count: 2
+[2025.02.16-13.21.21:667][301]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.02.16-13.21.27:288][580]LogStaticMesh: Warning: Invalid material [Sklo] used on Nanite static mesh [defaultMaterial]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.02.16-13.21.27:292][580]LogStaticMesh: Warning: Invalid material [Sklo] used on Nanite static mesh [defaultMaterial]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.02.16-13.21.27:298][580]MaterialEditorStats: Texture samplers: 0/16
+[2025.02.16-13.21.27:298][580]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.02.16-13.21.27:298][580]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.02.16-13.21.27:298][580]MaterialEditorStats: Shader Count: 0
+[2025.02.16-13.21.27:298][580]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.02.16-13.21.27:357][582]MaterialEditorStats: Base pass shader: 185 instructions
+Stats: Resources Used: 7
+Resource Limit: 64
+Samplers Used: 4
+Sampler Limit: 32
+
+[2025.02.16-13.21.27:357][582]MaterialEditorStats: Base pass vertex shader: 151 instructions
+Stats: Resources Used: 5
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.02.16-13.21.27:357][582]MaterialEditorStats: Texture samplers: 4/16
+[2025.02.16-13.21.27:357][582]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.02.16-13.21.27:357][582]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.02.16-13.21.27:357][582]MaterialEditorStats: Shader Count: 2
+[2025.02.16-13.21.27:357][582]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.02.16-13.21.31:988][827]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (6 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.15)
+[2025.02.16-13.21.33:129][887]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (9 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.51)
+[2025.02.16-13.21.38:538][134]LogShaderCompilers: Display: ================================================
+[2025.02.16-13.21.38:538][134]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.02.16-13.21.38:538][134]LogShaderCompilers: Display: Total job queries 502, among them cache hits 186 (37.05%), DDC hits 300 (59.76%), Duplicates 6 (1.20%)
+[2025.02.16-13.21.38:538][134]LogShaderCompilers: Display: Tracking 310 distinct input hashes that result in 251 distinct outputs (80.97%)
+[2025.02.16-13.21.38:538][134]LogShaderCompilers: Display: RAM used: 160,59 KiB of 1,60 GiB budget. Usage: 0.01%
+[2025.02.16-13.21.38:538][134]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.02.16-13.21.38:538][134]LogShaderCompilers: Display: Shaders Compiled: 10
+[2025.02.16-13.21.38:538][134]LogShaderCompilers: Display: Jobs assigned 10, completed 10 (100%)
+[2025.02.16-13.21.38:538][134]LogShaderCompilers: Display: Average time worker was idle: 7.72 s
+[2025.02.16-13.21.38:538][134]LogShaderCompilers: Display: Time job spent in pending queue: average 0.29 s, longest 1.22 s
+[2025.02.16-13.21.38:538][134]LogShaderCompilers: Display: Job execution time: average 1.37 s, max 2.25 s
+[2025.02.16-13.21.38:538][134]LogShaderCompilers: Display: Job life time (pending + execution): average 1.66 s, max 2.36
+[2025.02.16-13.21.38:538][134]LogShaderCompilers: Display: Shader code size: average 11,769 KiB, min 5,344 KiB, max 20,34 KiB
+[2025.02.16-13.21.38:539][134]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.61 s
+[2025.02.16-13.21.38:539][134]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.02.16-13.21.38:539][134]LogShaderCompilers: Display: Jobs were issued in 10 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.02.16-13.21.38:539][134]LogShaderCompilers: Display: Average processing rate: 2.17 jobs/sec
+[2025.02.16-13.21.38:539][134]LogShaderCompilers: Display: Total thread time: 9,884 s
+[2025.02.16-13.21.38:539][134]LogShaderCompilers: Display: Total thread preprocess time: 10,034 s
+[2025.02.16-13.21.38:539][134]LogShaderCompilers: Display: Percentage time preprocessing: 101.52%
+[2025.02.16-13.21.38:539][134]LogShaderCompilers: Display: Effective parallelization: 2.14 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2025.02.16-13.21.38:539][134]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.02.16-13.21.38:539][134]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    1 times, average 1.84 sec, max 1.84 sec, min 1.84 sec)
+[2025.02.16-13.21.38:539][134]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    1 times, average 1.80 sec, max 1.80 sec, min 1.80 sec)
+[2025.02.16-13.21.38:539][134]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 1.50 sec, max 1.50 sec, min 1.50 sec)
+[2025.02.16-13.21.38:539][134]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    1 times, average 1.49 sec, max 1.49 sec, min 1.49 sec)
+[2025.02.16-13.21.38:539][134]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.98 sec, max 0.98 sec, min 0.98 sec)
+[2025.02.16-13.21.38:539][134]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.02.16-13.21.38:539][134]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 18.64% of total time (compiled    1 times, average 1.84 sec, max 1.84 sec, min 1.84 sec)
+[2025.02.16-13.21.38:539][134]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight - 18.21% of total time (compiled    1 times, average 1.80 sec, max 1.80 sec, min 1.80 sec)
+[2025.02.16-13.21.38:539][134]LogShaderCompilers: Display:                                             FDebugViewModePS - 15.13% of total time (compiled    1 times, average 1.50 sec, max 1.50 sec, min 1.50 sec)
+[2025.02.16-13.21.38:539][134]LogShaderCompilers: Display:                                                 FLumenCardCS - 15.07% of total time (compiled    1 times, average 1.49 sec, max 1.49 sec, min 1.49 sec)
+[2025.02.16-13.21.38:539][134]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 9.88% of total time (compiled    1 times, average 0.98 sec, max 0.98 sec, min 0.98 sec)
+[2025.02.16-13.21.38:539][134]LogShaderCompilers: Display: === Material stats ===
+[2025.02.16-13.21.38:539][134]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.02.16-13.21.38:539][134]LogShaderCompilers: Display: Materials Translated:    307
+[2025.02.16-13.21.38:539][134]LogShaderCompilers: Display: Material Total Translate Time: 0.22 s
+[2025.02.16-13.21.38:539][134]LogShaderCompilers: Display: Material Translation Only: 0.12 s (55%)
+[2025.02.16-13.21.38:539][134]LogShaderCompilers: Display: Material DDC Serialization Only: 0.01 s (2%)
+[2025.02.16-13.21.38:539][134]LogShaderCompilers: Display: Material Cache Hits: 87 (28%)
+[2025.02.16-13.21.38:539][134]LogShaderCompilers: Display: ================================================
+[2025.02.16-13.22.10:011][803]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (150 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.78)
+[2025.02.16-13.22.10:840][843]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (28 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.52)
+[2025.02.16-13.22.15:535][ 85]Cmd: TRANSACTION UNDO
+[2025.02.16-13.22.15:535][ 85]LogEditorTransaction: Undo Place Objects
+[2025.02.16-13.22.35:667][915]LogSlate: Window 'Message' being destroyed
+[2025.02.16-13.22.35:676][915]Message dialog closed, result: No, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/FirstPerson/Material/M_Postive/Basement/M_BasementWallPos.M_BasementWallPos
+(Selecting 'No' will cause all changes to be lost!)
+[2025.02.16-13.22.35:692][915]LogSlate: Window 'M_BasementWallPos' being destroyed
+[2025.02.16-13.22.35:699][915]LogSlate: Window 'M_BasementWallPos' being destroyed
+[2025.02.16-13.22.37:454][  6]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/FirstPerson/Meshes/Collectibles/Wall_Thick.Wall_Thick
+[2025.02.16-13.22.37:506][  6]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2025.02.16-13.22.37:628][  6]LogStreaming: Display: FlushAsyncLoading(1881): 1 QueuedPackages, 0 AsyncPackages
+[2025.02.16-13.23.07:334][348]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (258 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.41)
+[2025.02.16-13.23.20:128][ 84]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (12 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.24)
+[2025.02.16-13.23.21:810][178]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4753.162598
+[2025.02.16-13.23.22:555][185]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.16-13.23.22:555][185]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4753.577148, Update Interval: 313.947571
+[2025.02.16-13.24.02:195][365]LogSlate: Window 'Wall_Thick' being destroyed
+[2025.02.16-13.24.02:197][365]LogSlate: Window 'Wall_Thick' being destroyed
+[2025.02.16-13.24.02:258][365]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.02.16-13.24.02:258][365]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.16-13.24.02:471][365]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.02.16-13.24.34:045][ 90]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (5 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.41)
+[2025.02.16-13.24.51:947][124]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (9 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.25)
+[2025.02.16-13.25.17:853][645]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.02.16-13.25.17:858][645]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/1/93/TQECFRR74NJHZLUELZJPID_Auto2
+[2025.02.16-13.25.17:859][645]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/TQECFRR74NJHZLUELZJPID_Auto2D4AD1F9C420EA71C262679A88A93CFEF.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/1/93/TQECFRR74NJHZLUELZJPID_Auto2.uasset'
+[2025.02.16-13.25.17:861][645]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/4/BW/QXHHO6E59EDOZSU4V8Y0K9_Auto2
+[2025.02.16-13.25.17:861][645]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/QXHHO6E59EDOZSU4V8Y0K9_Auto21532E55C446A8DCEEAE42D8898F96BA6.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/4/BW/QXHHO6E59EDOZSU4V8Y0K9_Auto2.uasset'
+[2025.02.16-13.25.17:864][645]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/5/YV/5O2JNR7CHVNWVPE3A2QSBT_Auto2
+[2025.02.16-13.25.17:864][645]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/5O2JNR7CHVNWVPE3A2QSBT_Auto2F28586814EEC380BB7042D84597A9ED6.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/5/YV/5O2JNR7CHVNWVPE3A2QSBT_Auto2.uasset'
+[2025.02.16-13.25.17:866][645]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/Map_Condition_A/Map_A' took 0.028
+[2025.02.16-13.25.17:866][645]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.028
+[2025.02.16-13.25.17:867][645]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Material/M_Postive/Basement/Wall_Thick__1__Material_002_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2025.02.16-13.25.17:871][645]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/FirstPerson/Material/M_Postive/Basement/Wall_Thick__1__Material_002_OcclusionRoughnessMetallic.Wall_Thick__1__Material_002_OcclusionRoughnessMetallic]
+[2025.02.16-13.25.17:872][645]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Material/M_Postive/Basement/Wall_Thick__1__Material_002_OcclusionRoughnessMetallic]
+[2025.02.16-13.25.17:886][645]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Material/M_Postive/Basement/Wall_Thick__1__Material_002_OcclusionRoughnessMetallic_Auto2
+[2025.02.16-13.25.17:886][645]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/Wall_Thick__1__Material_002_OcclFA28C7824324ED46A39FBA8E1363716C.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Saved/Autosaves/Game/FirstPerson/Material/M_Postive/Basement/Wall_Thick__1__Material_002_OcclusionRoughnessMetallic_Auto2.uasset'
+[2025.02.16-13.25.17:887][645]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Material/M_Postive/Basement/Wall_Thick__1__Material_001_BaseColor] ([1] browsable assets)...
+[2025.02.16-13.25.17:889][645]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/FirstPerson/Material/M_Postive/Basement/Wall_Thick__1__Material_001_BaseColor.Wall_Thick__1__Material_001_BaseColor]
+[2025.02.16-13.25.17:889][645]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Material/M_Postive/Basement/Wall_Thick__1__Material_001_BaseColor]
+[2025.02.16-13.25.17:900][645]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Material/M_Postive/Basement/Wall_Thick__1__Material_001_BaseColor_Auto2
+[2025.02.16-13.25.17:900][645]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/Wall_Thick__1__Material_001_Base0E2275A74618790E4A8226AC7BB0724B.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Saved/Autosaves/Game/FirstPerson/Material/M_Postive/Basement/Wall_Thick__1__Material_001_BaseColor_Auto2.uasset'
+[2025.02.16-13.25.17:901][645]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Material/M_Postive/Basement/Wall_Thick__1__Material_001_Normal] ([1] browsable assets)...
+[2025.02.16-13.25.17:903][645]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/FirstPerson/Material/M_Postive/Basement/Wall_Thick__1__Material_001_Normal.Wall_Thick__1__Material_001_Normal]
+[2025.02.16-13.25.17:903][645]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Material/M_Postive/Basement/Wall_Thick__1__Material_001_Normal]
+[2025.02.16-13.25.17:919][645]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Material/M_Postive/Basement/Wall_Thick__1__Material_001_Normal_Auto2
+[2025.02.16-13.25.17:919][645]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/Wall_Thick__1__Material_001_NormE856A40C400DBB941C853A83602150E0.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Saved/Autosaves/Game/FirstPerson/Material/M_Postive/Basement/Wall_Thick__1__Material_001_Normal_Auto2.uasset'
+[2025.02.16-13.25.17:920][645]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Material/M_Postive/Basement/Wall_Thick__1__Material_001_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2025.02.16-13.25.17:922][645]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/FirstPerson/Material/M_Postive/Basement/Wall_Thick__1__Material_001_OcclusionRoughnessMetallic.Wall_Thick__1__Material_001_OcclusionRoughnessMetallic]
+[2025.02.16-13.25.17:922][645]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Material/M_Postive/Basement/Wall_Thick__1__Material_001_OcclusionRoughnessMetallic]
+[2025.02.16-13.25.17:941][645]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Material/M_Postive/Basement/Wall_Thick__1__Material_001_OcclusionRoughnessMetallic_Auto2
+[2025.02.16-13.25.17:941][645]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/Wall_Thick__1__Material_001_OcclF3D63E374BC4BDA765A788A0CAE71E75.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Saved/Autosaves/Game/FirstPerson/Material/M_Postive/Basement/Wall_Thick__1__Material_001_OcclusionRoughnessMetallic_Auto2.uasset'
+[2025.02.16-13.25.17:943][645]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Material/M_Postive/Basement/Wall_Thick__1__Material_002_BaseColor] ([1] browsable assets)...
+[2025.02.16-13.25.17:945][645]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/FirstPerson/Material/M_Postive/Basement/Wall_Thick__1__Material_002_BaseColor.Wall_Thick__1__Material_002_BaseColor]
+[2025.02.16-13.25.17:945][645]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Material/M_Postive/Basement/Wall_Thick__1__Material_002_BaseColor]
+[2025.02.16-13.25.17:953][645]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Material/M_Postive/Basement/Wall_Thick__1__Material_002_BaseColor_Auto2
+[2025.02.16-13.25.17:953][645]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/Wall_Thick__1__Material_002_Base2E8EFB2D46D398A253799C99C7AE1AB0.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Saved/Autosaves/Game/FirstPerson/Material/M_Postive/Basement/Wall_Thick__1__Material_002_BaseColor_Auto2.uasset'
+[2025.02.16-13.25.17:954][645]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Material/M_Postive/Basement/Wall_Thick__1__Material_002_Normal] ([1] browsable assets)...
+[2025.02.16-13.25.17:955][645]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/FirstPerson/Material/M_Postive/Basement/Wall_Thick__1__Material_002_Normal.Wall_Thick__1__Material_002_Normal]
+[2025.02.16-13.25.17:955][645]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Material/M_Postive/Basement/Wall_Thick__1__Material_002_Normal]
+[2025.02.16-13.25.17:973][645]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Material/M_Postive/Basement/Wall_Thick__1__Material_002_Normal_Auto2
+[2025.02.16-13.25.17:973][645]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/Wall_Thick__1__Material_002_NormD85520484673E45914D19F9429628A4C.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Saved/Autosaves/Game/FirstPerson/Material/M_Postive/Basement/Wall_Thick__1__Material_002_Normal_Auto2.uasset'
+[2025.02.16-13.25.17:974][645]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Material/M_Postive/Basement/M_BasementWallTrimPos] ([1] browsable assets)...
+[2025.02.16-13.25.18:015][645]OBJ SavePackage:     Rendered thumbnail for [Material /Game/FirstPerson/Material/M_Postive/Basement/M_BasementWallTrimPos.M_BasementWallTrimPos]
+[2025.02.16-13.25.18:015][645]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Material/M_Postive/Basement/M_BasementWallTrimPos]
+[2025.02.16-13.25.18:017][645]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Material/M_Postive/Basement/M_BasementWallTrimPos_Auto2
+[2025.02.16-13.25.18:017][645]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/M_BasementWallTrimPos_Auto2ACF52C084B6506EA899E2D865EC0A297.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Saved/Autosaves/Game/FirstPerson/Material/M_Postive/Basement/M_BasementWallTrimPos_Auto2.uasset'
+[2025.02.16-13.25.18:018][645]LogFileHelpers: Auto-saving content packages took 0.152
+[2025.02.16-13.25.42:148][ 30]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (20 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.14)
+[2025.02.16-13.26.00:212][ 55]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (22 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.55)
+[2025.02.16-13.26.04:640][268]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (7 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.79)
+[2025.02.16-13.26.04:688][271]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (11 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.92)
+[2025.02.16-13.26.05:428][313]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (2 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (1.76)
+[2025.02.16-13.26.13:719][706]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (89 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.80)
+[2025.02.16-13.26.17:409][895]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (1 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.68)
+[2025.02.16-13.26.20:177][ 34]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (10 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (1.13)
+[2025.02.16-13.26.20:435][ 50]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (20 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (1.22)
+[2025.02.16-13.26.26:357][388]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (100 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.88)
+[2025.02.16-13.26.29:309][565]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (32 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.79)
+[2025.02.16-13.26.31:358][688]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (2 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.18)
+[2025.02.16-13.26.35:358][906]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (27 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.17)
+[2025.02.16-13.26.38:025][ 66]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (6 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.15)
+[2025.02.16-13.26.39:910][179]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (49 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.93)
+[2025.02.16-13.26.56:554][554]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (17 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.88)
+[2025.02.16-13.26.58:072][636]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (50 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (1.02)
+[2025.02.16-13.26.59:505][715]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (23 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (1.09)
+[2025.02.16-13.27.01:282][820]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (15 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.57)
+[2025.02.16-13.27.01:415][828]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (93 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (1.09)
+[2025.02.16-13.27.02:081][868]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (28 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.66)
+[2025.02.16-13.27.03:099][929]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (32 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.39)
+[2025.02.16-13.27.03:566][957]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (4 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.72)
+[2025.02.16-13.27.18:839][871]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (135 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.29)
+[2025.02.16-13.27.20:586][975]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (2 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.26)
+[2025.02.16-13.27.25:801][258]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (19 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.25)
+[2025.02.16-13.27.29:698][449]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (70 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.42)
+[2025.02.16-13.27.35:787][766]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (15 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.99)
+[2025.02.16-13.27.36:436][805]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (7 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (1.26)
+[2025.02.16-13.27.43:357][163]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (75 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.55)
+[2025.02.16-13.27.45:324][268]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (7 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.76)
+[2025.02.16-13.27.47:964][405]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (111 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.38)
+[2025.02.16-13.27.48:461][434]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (11 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.89)
+[2025.02.16-13.27.49:380][488]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (64 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.69)
+[2025.02.16-13.27.53:838][755]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (17 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.56)
+[2025.02.16-13.27.54:440][791]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (84 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.47)
+[2025.02.16-13.27.54:705][807]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (26 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (1.88)
+[2025.02.16-13.27.55:405][849]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (23 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.75)
+[2025.02.16-13.28.02:597][280]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (2 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.41)
+[2025.02.16-13.28.03:815][353]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (242 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.57)
+[2025.02.16-13.28.09:903][718]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (64 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.26)
+[2025.02.16-13.28.09:985][723]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (2 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.81)
+[2025.02.16-13.28.11:736][828]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (75 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.27)
+[2025.02.16-13.28.11:786][831]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (13 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.51)
+[2025.02.16-13.28.12:652][883]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (1 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.58)
+[2025.02.16-13.28.13:252][919]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (118 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.40)
+[2025.02.16-13.28.13:336][924]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (3 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.61)
+[2025.02.16-13.28.13:454][931]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (18 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (1.21)
+[2025.02.16-13.28.15:551][ 57]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (9 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.63)
+[2025.02.16-13.28.20:986][383]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (44 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.23)
+[2025.02.16-13.28.21:286][401]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (24 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.62)
+[2025.02.16-13.28.24:120][571]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (37 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.23)
+[2025.02.16-13.28.24:903][618]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (104 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.26)
+[2025.02.16-13.28.28:853][855]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (4 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.63)
+[2025.02.16-13.28.30:771][970]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (159 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.60)
+[2025.02.16-13.28.33:216][108]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (43 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.38)
+[2025.02.16-13.28.33:980][154]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (45 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.42)
+[2025.02.16-13.28.36:119][276]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (1 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.32)
+[2025.02.16-13.28.36:602][305]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (10 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.47)
+[2025.02.16-13.28.37:252][344]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (43 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.95)
+[2025.02.16-13.28.37:903][383]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (53 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.57)
+[2025.02.16-13.28.40:627][546]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (101 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.34)
+[2025.02.16-13.28.41:978][627]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (6 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.25)
+[2025.02.16-13.28.42:027][630]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (21 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.52)
+[2025.02.16-13.28.42:611][665]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (13 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.35)
+[2025.02.16-13.28.45:112][815]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (16 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.38)
+[2025.02.16-13.28.51:895][222]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (9 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.68)
+[2025.02.16-13.29.04:423][738]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5095.784180
+[2025.02.16-13.29.04:603][750]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.16-13.29.04:604][750]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5095.947754, Update Interval: 322.020935
+[2025.02.16-13.31.17:294][705]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (9 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.13)
+[2025.02.16-13.31.17:893][741]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (37 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.84)
+[2025.02.16-13.31.18:744][792]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (16 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.23)
+[2025.02.16-13.31.24:329][ 82]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2025.02.16-13.31.24:340][ 82]LogContentBrowser: Creating deferred item: NewMaterial
+[2025.02.16-13.31.24:356][ 83]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2025.02.16-13.31.29:358][358]LogContentBrowser: Attempting asset rename: NewMaterial -> NewMaterial
+[2025.02.16-13.31.29:359][358]LogContentBrowser: End creating deferred item NewMaterial
+[2025.02.16-13.31.44:920][208]Cmd: DELETE
+[2025.02.16-13.31.44:920][208]Cmd: ACTOR DELETE
+[2025.02.16-13.31.44:945][208]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.02.16-13.31.44:962][208]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.02.16-13.31.44:969][208]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2025.02.16-13.31.46:663][301]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.02.16-13.31.47:875][301]LogSlate: Window 'Delete Assets' being destroyed
+[2025.02.16-13.31.47:898][301]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.02.16-13.31.47:913][301]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.02.16-13.31.47:925][301]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.02.16-13.32.07:997][419]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/FirstPerson/Material/M_Postive/Basement/M_White.M_White
+[2025.02.16-13.32.08:000][419]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2025.02.16-13.32.08:212][419]LogStaticMesh: Warning: Invalid material [Sklo] used on Nanite static mesh [defaultMaterial]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.02.16-13.32.08:473][419]MaterialEditorStats: Texture samplers: 0/16
+[2025.02.16-13.32.08:473][419]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.02.16-13.32.08:473][419]MaterialEditorStats: Shader Count: 0
+[2025.02.16-13.32.08:473][419]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2025.02.16-13.32.08:592][421]MaterialEditorStats: Base pass shader: 170 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.02.16-13.32.08:592][421]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.02.16-13.32.08:592][421]MaterialEditorStats: Texture samplers: 1/16
+[2025.02.16-13.32.08:592][421]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.02.16-13.32.08:592][421]MaterialEditorStats: Shader Count: 2
+[2025.02.16-13.32.08:592][421]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2025.02.16-13.32.22:756][654]LogStaticMesh: Warning: Invalid material [Sklo] used on Nanite static mesh [defaultMaterial]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.02.16-13.32.22:761][654]LogSlate: Window 'Color Picker' being destroyed
+[2025.02.16-13.32.22:771][654]MaterialEditorStats: Texture samplers: 0/16
+[2025.02.16-13.32.22:772][654]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.02.16-13.32.22:772][654]MaterialEditorStats: Shader Count: 0
+[2025.02.16-13.32.22:772][654]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2025.02.16-13.32.22:932][659]MaterialEditorStats: Base pass shader: 170 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2025.02.16-13.32.22:932][659]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.02.16-13.32.22:932][659]MaterialEditorStats: Texture samplers: 1/16
+[2025.02.16-13.32.22:932][659]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2025.02.16-13.32.22:933][659]MaterialEditorStats: Shader Count: 2
+[2025.02.16-13.32.22:933][659]MaterialEditorStats: Preshaders: 3  (3 param fetches, 6 ops)
+[2025.02.16-13.32.26:985][748]LogSlate: Window 'Message' being destroyed
+[2025.02.16-13.32.26:990][748]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/FirstPerson/Material/M_Postive/Basement/M_White.M_White
+(Selecting 'No' will cause all changes to be lost!)
+[2025.02.16-13.32.27:050][748]LogStaticMesh: Warning: Invalid material [Sklo] used on Nanite static mesh [defaultMaterial]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.02.16-13.32.27:069][748]LogStaticMesh: Warning: Invalid material [Sklo] used on Nanite static mesh [defaultMaterial]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.02.16-13.32.27:069][748]LogStaticMesh: Warning: Invalid material [Sklo] used on Nanite static mesh [defaultMaterial]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.02.16-13.32.27:069][748]LogStaticMesh: Warning: Invalid material [Sklo] used on Nanite static mesh [defaultMaterial]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.02.16-13.32.27:069][748]LogStaticMesh: Warning: Invalid material [Sklo] used on Nanite static mesh [defaultMaterial]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.02.16-13.32.27:069][748]LogStaticMesh: Warning: Invalid material [Sklo] used on Nanite static mesh [defaultMaterial]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.02.16-13.32.27:107][748]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.02.16-13.32.27:292][748]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.02.16-13.32.27:315][748]LogSlate: Window 'M_White' being destroyed
+[2025.02.16-13.32.27:317][748]LogSlate: Window 'M_White' being destroyed
+[2025.02.16-13.32.27:379][748]LogStaticMesh: Warning: Invalid material [Sklo] used on Nanite static mesh [defaultMaterial]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.02.16-13.32.34:950][133]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (84 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.23)
+[2025.02.16-13.32.35:033][136]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (49 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.59)
+[2025.02.16-13.32.39:043][371]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (4 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.26)
+[2025.02.16-13.32.40:573][460]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (30 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.60)
+[2025.02.16-13.32.49:400][944]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (8 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.89)
+[2025.02.16-13.32.54:636][240]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (29 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (1.41)
+[2025.02.16-13.32.57:476][379]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (25 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.16)
+[2025.02.16-13.32.59:300][472]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (25 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.95)
+[2025.02.16-13.33.17:427][474]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (3 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.12)
+[2025.02.16-13.33.18:610][545]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (18 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.26)
+[2025.02.16-13.33.24:113][827]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (9 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.22)
+[2025.02.16-13.33.28:826][ 77]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (89 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.36)
+[2025.02.16-13.33.30:475][176]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (32 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.61)
+[2025.02.16-13.33.31:176][218]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (27 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.27)
+[2025.02.16-13.33.33:696][354]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (89 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.23)
+[2025.02.16-13.33.34:345][393]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (68 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.43)
+[2025.02.16-13.33.35:196][444]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (25 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.93)
+[2025.02.16-13.33.36:398][513]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (7 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.63)
+[2025.02.16-13.33.37:102][555]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (18 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.25)
+[2025.02.16-13.33.38:587][639]LogShaderCompilers: Display: ================================================
+[2025.02.16-13.33.38:587][639]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.02.16-13.33.38:587][639]LogShaderCompilers: Display: Total job queries 539, among them cache hits 219 (40.63%), DDC hits 302 (56.03%), Duplicates 6 (1.11%)
+[2025.02.16-13.33.38:587][639]LogShaderCompilers: Display: Tracking 314 distinct input hashes that result in 254 distinct outputs (80.89%)
+[2025.02.16-13.33.38:587][639]LogShaderCompilers: Display: RAM used: 161,56 KiB of 1,60 GiB budget. Usage: 0.01%
+[2025.02.16-13.33.38:587][639]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.02.16-13.33.38:587][639]LogShaderCompilers: Display: Shaders Compiled: 12
+[2025.02.16-13.33.38:587][639]LogShaderCompilers: Display: Jobs assigned 12, completed 12 (100%)
+[2025.02.16-13.33.38:587][639]LogShaderCompilers: Display: Average time worker was idle: 227.93 s
+[2025.02.16-13.33.38:587][639]LogShaderCompilers: Display: Time job spent in pending queue: average 0.26 s, longest 1.22 s
+[2025.02.16-13.33.38:587][639]LogShaderCompilers: Display: Job execution time: average 1.42 s, max 2.25 s
+[2025.02.16-13.33.38:587][639]LogShaderCompilers: Display: Job life time (pending + execution): average 1.68 s, max 2.36
+[2025.02.16-13.33.38:587][639]LogShaderCompilers: Display: Shader code size: average 10,898 KiB, min 5,344 KiB, max 20,34 KiB
+[2025.02.16-13.33.38:587][639]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 6.55 s
+[2025.02.16-13.33.38:587][639]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.02.16-13.33.38:587][639]LogShaderCompilers: Display: Jobs were issued in 12 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.02.16-13.33.38:587][639]LogShaderCompilers: Display: Average processing rate: 1.83 jobs/sec
+[2025.02.16-13.33.38:587][639]LogShaderCompilers: Display: Total thread time: 11,67 s
+[2025.02.16-13.33.38:587][639]LogShaderCompilers: Display: Total thread preprocess time: 10,617 s
+[2025.02.16-13.33.38:587][639]LogShaderCompilers: Display: Percentage time preprocessing: 90.97%
+[2025.02.16-13.33.38:587][639]LogShaderCompilers: Display: Effective parallelization: 1.78 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2025.02.16-13.33.38:587][639]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.02.16-13.33.38:587][639]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    1 times, average 1.84 sec, max 1.84 sec, min 1.84 sec)
+[2025.02.16-13.33.38:587][639]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    1 times, average 1.80 sec, max 1.80 sec, min 1.80 sec)
+[2025.02.16-13.33.38:587][639]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 1.50 sec, max 1.50 sec, min 1.50 sec)
+[2025.02.16-13.33.38:587][639]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    1 times, average 1.49 sec, max 1.49 sec, min 1.49 sec)
+[2025.02.16-13.33.38:587][639]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 1.00 sec, max 1.03 sec, min 0.98 sec)
+[2025.02.16-13.33.38:587][639]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.02.16-13.33.38:587][639]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 17.17% of total time (compiled    2 times, average 1.00 sec, max 1.03 sec, min 0.98 sec)
+[2025.02.16-13.33.38:587][639]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 15.78% of total time (compiled    1 times, average 1.84 sec, max 1.84 sec, min 1.84 sec)
+[2025.02.16-13.33.38:587][639]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight - 15.42% of total time (compiled    1 times, average 1.80 sec, max 1.80 sec, min 1.80 sec)
+[2025.02.16-13.33.38:587][639]LogShaderCompilers: Display:                                             FDebugViewModePS - 12.82% of total time (compiled    1 times, average 1.50 sec, max 1.50 sec, min 1.50 sec)
+[2025.02.16-13.33.38:587][639]LogShaderCompilers: Display:                                                 FLumenCardCS - 12.77% of total time (compiled    1 times, average 1.49 sec, max 1.49 sec, min 1.49 sec)
+[2025.02.16-13.33.38:587][639]LogShaderCompilers: Display: === Material stats ===
+[2025.02.16-13.33.38:587][639]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.02.16-13.33.38:588][639]LogShaderCompilers: Display: Materials Translated:    317
+[2025.02.16-13.33.38:588][639]LogShaderCompilers: Display: Material Total Translate Time: 0.22 s
+[2025.02.16-13.33.38:588][639]LogShaderCompilers: Display: Material Translation Only: 0.12 s (55%)
+[2025.02.16-13.33.38:588][639]LogShaderCompilers: Display: Material DDC Serialization Only: 0.01 s (2%)
+[2025.02.16-13.33.38:588][639]LogShaderCompilers: Display: Material Cache Hits: 87 (27%)
+[2025.02.16-13.33.38:588][639]LogShaderCompilers: Display: ================================================
+[2025.02.16-13.33.43:907][942]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (6 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.19)
+[2025.02.16-13.33.44:828][996]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (8 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.58)
+[2025.02.16-13.33.45:445][ 33]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (27 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.25)
+[2025.02.16-13.33.46:966][121]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (31 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.57)
+[2025.02.16-13.33.48:444][206]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (37 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.18)
+[2025.02.16-13.33.49:676][280]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (91 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.62)
+[2025.02.16-13.33.56:764][676]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (3 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.38)
+[2025.02.16-13.33.57:464][718]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (23 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.30)
+[2025.02.16-13.33.59:676][850]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (6 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.23)
+[2025.02.16-13.33.59:709][852]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (26 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.41)
+[2025.02.16-13.34.03:007][ 35]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (51 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.25)
+[2025.02.16-13.34.11:276][483]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (49 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.25)
+[2025.02.16-13.34.21:228][ 21]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (3 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.45)
+[2025.02.16-13.34.22:490][ 94]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (6 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.29)
+[2025.02.16-13.34.29:575][478]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (33 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.21)
+[2025.02.16-13.34.31:133][571]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (96 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (1.18)
+[2025.02.16-13.34.31:217][576]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (52 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (1.37)
+[2025.02.16-13.34.42:431][189]Cmd: TRANSACTION UNDO
+[2025.02.16-13.34.42:431][189]LogEditorTransaction: Undo Place Objects
+[2025.02.16-13.34.48:973][532]LogStaticMesh: Warning: Invalid material [Sklo] used on Nanite static mesh [defaultMaterial]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.02.16-13.34.48:973][532]LogStaticMesh: Warning: Invalid material [Sklo] used on Nanite static mesh [defaultMaterial]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.02.16-13.34.48:973][532]LogStaticMesh: Warning: Invalid material [Sklo] used on Nanite static mesh [defaultMaterial]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.02.16-13.34.48:973][532]LogStaticMesh: Warning: Invalid material [Sklo] used on Nanite static mesh [defaultMaterial]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.02.16-13.34.48:973][532]LogStaticMesh: Warning: Invalid material [Sklo] used on Nanite static mesh [defaultMaterial]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.02.16-13.34.49:015][532]LogMaterial: Display: Material /Game/FirstPerson/Material/M_Postive/Basement/Wall_Thick__1__Material_001_BaseColor_Mat.Wall_Thick__1__Material_001_BaseColor_Mat needed to have new flag set bUsedWithNanite !
+[2025.02.16-13.34.49:018][532]LogStaticMesh: Warning: Invalid material [Sklo] used on Nanite static mesh [defaultMaterial]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.02.16-13.34.49:029][532]LogStaticMesh: Warning: Invalid material [Sklo] used on Nanite static mesh [defaultMaterial]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.02.16-13.34.59:770][131]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (5 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.15)
+[2025.02.16-13.35.01:004][205]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (36 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.41)
+[2025.02.16-13.35.03:137][333]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (34 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.27)
+[2025.02.16-13.35.03:770][371]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (18 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.19)
+[2025.02.16-13.35.09:854][736]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (4 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.33)
+[2025.02.16-13.35.10:787][792]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (47 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.96)
+[2025.02.16-13.35.10:873][797]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (15 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (1.40)
+[2025.02.16-13.35.14:310][  3]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (15 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.19)
+[2025.02.16-13.35.14:409][  9]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (48 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.69)
+[2025.02.16-13.35.16:461][132]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (40 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.17)
+[2025.02.16-13.35.16:912][159]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (7 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.78)
+[2025.02.16-13.35.18:678][262]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (1 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.32)
+[2025.02.16-13.35.18:893][275]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (9 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.62)
+[2025.02.16-13.35.19:694][323]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (12 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (0.82)
+[2025.02.16-13.35.20:127][349]LogRenderer: Warning: Virtual Shadow Map Page Pool overflow (76 page allocations were not served), this will produce visual artifacts (missing shadow), increase the page pool limit or reduce resolution bias to avoid.
+ See r.Shadow.Virtual.MaxPhysicalPages (512), r.Shadow.Virtual.ResolutionLodBiasLocal (1.00), r.Shadow.Virtual.ResolutionLodBiasDirectional (0.00), Global Resolution Lod Bias (1.23)
+[2025.02.16-13.35.21:655][426]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5473.020996
+[2025.02.16-13.35.21:813][436]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.16-13.35.21:890][436]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.02.16-13.35.21:906][436]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.02.16-13.35.21:916][436]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.02.16-13.35.21:920][436]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/0/GC/0D65EL6WJQO0YFQYY0MCI5
+[2025.02.16-13.35.21:920][436]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/0D65EL6WJQO0YFQYY0MCI51AAD773E4E4F193FAB19DFA2C740FF0D.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/0/GC/0D65EL6WJQO0YFQYY0MCI5.uasset'
+[2025.02.16-13.35.21:922][436]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/0/RL/NY5NRKU2DJV2AWLF0OFQ6Q
+[2025.02.16-13.35.21:922][436]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/NY5NRKU2DJV2AWLF0OFQ6Q91C334A4455F5A8C77934CAAE69860DD.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/0/RL/NY5NRKU2DJV2AWLF0OFQ6Q.uasset'
+[2025.02.16-13.35.21:924][436]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/0/VJ/2QQXZDPJIETU9B4Y66XPZ4
+[2025.02.16-13.35.21:924][436]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/2QQXZDPJIETU9B4Y66XPZ4132A887A49531B8BDAD6E89E3FB7A57F.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/0/VJ/2QQXZDPJIETU9B4Y66XPZ4.uasset'
+[2025.02.16-13.35.21:927][436]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/1/QS/EW0FBBN4I6T0PE2TCTXI3D
+[2025.02.16-13.35.21:927][436]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/EW0FBBN4I6T0PE2TCTXI3D6C2B47754FB4F7EB8903C6A1775B2B31.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/1/QS/EW0FBBN4I6T0PE2TCTXI3D.uasset'
+[2025.02.16-13.35.21:929][436]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/1/TC/2U2PGUSUBS6V52KWBCPLLA
+[2025.02.16-13.35.21:930][436]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/2U2PGUSUBS6V52KWBCPLLAFE3914B042A6D9D7C7F88B9756AD588F.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/1/TC/2U2PGUSUBS6V52KWBCPLLA.uasset'
+[2025.02.16-13.35.21:932][436]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/1/TJ/WCKT3QIME9FCD15B9KGIOF
+[2025.02.16-13.35.21:932][436]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/WCKT3QIME9FCD15B9KGIOFE572B6DF4EF9DE232629ED9FA6605BF1.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/1/TJ/WCKT3QIME9FCD15B9KGIOF.uasset'
+[2025.02.16-13.35.21:934][436]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/2/8H/675KF8BYQYQ5JI0WYO9179
+[2025.02.16-13.35.21:936][436]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/675KF8BYQYQ5JI0WYO9179776E8F3D417BD8D01E3B5A966A739D7F.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/2/8H/675KF8BYQYQ5JI0WYO9179.uasset'
+[2025.02.16-13.35.21:937][436]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/2/GD/P894WGYTMPY3EP1PGBDC2A
+[2025.02.16-13.35.21:937][436]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/P894WGYTMPY3EP1PGBDC2A94E51DD9483958C674A5419361BBFE88.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/2/GD/P894WGYTMPY3EP1PGBDC2A.uasset'
+[2025.02.16-13.35.21:939][436]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/2/JB/NXGVEBVA0WCLK0A20M48QG
+[2025.02.16-13.35.21:940][436]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/NXGVEBVA0WCLK0A20M48QG2BE9F9E545F37B9031EBC5B5267AA3BE.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/2/JB/NXGVEBVA0WCLK0A20M48QG.uasset'
+[2025.02.16-13.35.21:941][436]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/2/SH/8DNY5CM1JMME3KEKAK98QK
+[2025.02.16-13.35.21:941][436]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/8DNY5CM1JMME3KEKAK98QK772DA3CD44ADC7C107B346B11C5E0DB0.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/2/SH/8DNY5CM1JMME3KEKAK98QK.uasset'
+[2025.02.16-13.35.21:944][436]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/3/2V/ZKQ0744WSL45P9U2Y8WY33
+[2025.02.16-13.35.21:945][436]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/ZKQ0744WSL45P9U2Y8WY334040598B40D24CAEE96EDEBB0C0673E0.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/3/2V/ZKQ0744WSL45P9U2Y8WY33.uasset'
+[2025.02.16-13.35.21:948][436]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/3/67/021PRIPVZ854IGQSGQKL20
+[2025.02.16-13.35.21:949][436]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/021PRIPVZ854IGQSGQKL2093238C9D49CEA29EC3BB3C862FF11380.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/3/67/021PRIPVZ854IGQSGQKL20.uasset'
+[2025.02.16-13.35.21:951][436]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/3/9D/MZGDWCMK273HX2FB8H3LMW
+[2025.02.16-13.35.21:952][436]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/MZGDWCMK273HX2FB8H3LMWFAA0500D4DF811276954F8BA6FFC1285.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/3/9D/MZGDWCMK273HX2FB8H3LMW.uasset'
+[2025.02.16-13.35.21:954][436]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/3/EF/IHUR2JTN8TLEM0NEQ1WLGA
+[2025.02.16-13.35.21:955][436]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/IHUR2JTN8TLEM0NEQ1WLGAD58FEE694FF270118864818B36C7903B.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/3/EF/IHUR2JTN8TLEM0NEQ1WLGA.uasset'
+[2025.02.16-13.35.21:958][436]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/3/K6/2W0IVKGC53E6GSHNYB6RUX
+[2025.02.16-13.35.21:958][436]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/2W0IVKGC53E6GSHNYB6RUX976D6C0E4573FB1D821175A7E380A92E.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/3/K6/2W0IVKGC53E6GSHNYB6RUX.uasset'
+[2025.02.16-13.35.21:960][436]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/3/Q2/TAJ10YBXE26BDK0JS3BDQU
+[2025.02.16-13.35.21:960][436]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/TAJ10YBXE26BDK0JS3BDQU8224AD6D46C1E1C1E93AE49D42340F50.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/3/Q2/TAJ10YBXE26BDK0JS3BDQU.uasset'
+[2025.02.16-13.35.21:963][436]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/3/V6/HS7ACB0GETK9VPSUGED24V
+[2025.02.16-13.35.21:963][436]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/HS7ACB0GETK9VPSUGED24VEF5BD6EA44B80BCB02711C9DC823DAC0.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/3/V6/HS7ACB0GETK9VPSUGED24V.uasset'
+[2025.02.16-13.35.21:966][436]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/4/BJ/8H85XN9ZQVRFYJ9DN8GQ6X
+[2025.02.16-13.35.21:966][436]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/8H85XN9ZQVRFYJ9DN8GQ6X66BF3B74458C5B8CCD333AAA8FB9215F.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/4/BJ/8H85XN9ZQVRFYJ9DN8GQ6X.uasset'
+[2025.02.16-13.35.21:968][436]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/4/BW/QXHHO6E59EDOZSU4V8Y0K9
+[2025.02.16-13.35.21:969][436]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/QXHHO6E59EDOZSU4V8Y0K9648F7F364638C33E45F536A67402FB97.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/4/BW/QXHHO6E59EDOZSU4V8Y0K9.uasset'
+[2025.02.16-13.35.21:972][436]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/4/VC/HFFXS9I6AUDIPEWNDT6KTQ
+[2025.02.16-13.35.21:972][436]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/HFFXS9I6AUDIPEWNDT6KTQB69FDAF44E4C4B8CA9E80186F4F60CA2.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/4/VC/HFFXS9I6AUDIPEWNDT6KTQ.uasset'
+[2025.02.16-13.35.21:974][436]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/5/4K/PO6IJG90KPLEIGL982IW6B
+[2025.02.16-13.35.21:974][436]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/PO6IJG90KPLEIGL982IW6B9F0087514B0CC0EC42FA4AA5432B2089.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/5/4K/PO6IJG90KPLEIGL982IW6B.uasset'
+[2025.02.16-13.35.21:977][436]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/5/YM/47WC4RM42J5C92KRCU9067
+[2025.02.16-13.35.21:977][436]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/47WC4RM42J5C92KRCU906761B284A949A3E6F62B6FF089A802BEE1.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/5/YM/47WC4RM42J5C92KRCU9067.uasset'
+[2025.02.16-13.35.21:979][436]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/5/YV/5O2JNR7CHVNWVPE3A2QSBT
+[2025.02.16-13.35.21:979][436]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/5O2JNR7CHVNWVPE3A2QSBT0351A58447E57A4B26C3A0B2D51168F3.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/5/YV/5O2JNR7CHVNWVPE3A2QSBT.uasset'
+[2025.02.16-13.35.21:981][436]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/6/22/5IPN7GKKVG7RALQ3KNLCRV
+[2025.02.16-13.35.21:981][436]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/5IPN7GKKVG7RALQ3KNLCRV1A1DB3974AD2DCB32FBBE09C8B76465F.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/6/22/5IPN7GKKVG7RALQ3KNLCRV.uasset'
+[2025.02.16-13.35.21:983][436]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/6/5A/WN05Q0XBC3K8T3381WNRCT
+[2025.02.16-13.35.21:983][436]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/WN05Q0XBC3K8T3381WNRCT434F40C3431C58858F27B1BF2C1C31DF.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/6/5A/WN05Q0XBC3K8T3381WNRCT.uasset'
+[2025.02.16-13.35.21:985][436]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/6/IK/R2LJ5X1OIWCGRQTP11Q1NA
+[2025.02.16-13.35.21:986][436]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/R2LJ5X1OIWCGRQTP11Q1NA2F3662334177DF892DA4B0B2C844FF95.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/6/IK/R2LJ5X1OIWCGRQTP11Q1NA.uasset'
+[2025.02.16-13.35.21:988][436]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/7/P6/HR525RWWDNC7FPPWMREW3V
+[2025.02.16-13.35.21:988][436]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/HR525RWWDNC7FPPWMREW3VC36FDC834855B7098F8AB2B24EFCE450.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/7/P6/HR525RWWDNC7FPPWMREW3V.uasset'
+[2025.02.16-13.35.21:990][436]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/8/0D/ATHUSZZBY5OBZ9A9VA849J
+[2025.02.16-13.35.21:990][436]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/ATHUSZZBY5OBZ9A9VA849J420821B740FC8230B77661A26DD74C15.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/8/0D/ATHUSZZBY5OBZ9A9VA849J.uasset'
+[2025.02.16-13.35.21:992][436]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/8/1N/DKNLK08BN4OAK313J74P53
+[2025.02.16-13.35.21:994][436]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/DKNLK08BN4OAK313J74P53736B12A74044BE30D417A28694FD19EE.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/8/1N/DKNLK08BN4OAK313J74P53.uasset'
+[2025.02.16-13.35.21:996][436]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/8/JA/HIBNQCEJIVHWH31GV1E2VF
+[2025.02.16-13.35.21:996][436]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/HIBNQCEJIVHWH31GV1E2VF2C052D244AB565D95B60A6BC5336A720.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/8/JA/HIBNQCEJIVHWH31GV1E2VF.uasset'
+[2025.02.16-13.35.21:999][436]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/8/WA/127NCW8S0F8ROU5U9AFSZX
+[2025.02.16-13.35.21:999][436]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/127NCW8S0F8ROU5U9AFSZXB1AE1FEB43271B32DB32688B75A7A1FC.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/8/WA/127NCW8S0F8ROU5U9AFSZX.uasset'
+[2025.02.16-13.35.22:001][436]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/8/ZR/67A5Z0TS4RO1RHAYLON9GN
+[2025.02.16-13.35.22:002][436]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/67A5Z0TS4RO1RHAYLON9GN4E331F214AFD90340E954FAEAA79D81E.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/8/ZR/67A5Z0TS4RO1RHAYLON9GN.uasset'
+[2025.02.16-13.35.22:005][436]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/9/AK/ROTYMJLH12O0ADCH3ICM7P
+[2025.02.16-13.35.22:005][436]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/ROTYMJLH12O0ADCH3ICM7PB6546C4743E8657DE26FE397C0486686.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/9/AK/ROTYMJLH12O0ADCH3ICM7P.uasset'
+[2025.02.16-13.35.22:007][436]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/9/MM/U8MTWPA1KZU6XO6D79KGWO
+[2025.02.16-13.35.22:007][436]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/U8MTWPA1KZU6XO6D79KGWO4A36E0EB488184F7BB0BB99B88236BD2.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/9/MM/U8MTWPA1KZU6XO6D79KGWO.uasset'
+[2025.02.16-13.35.22:009][436]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/9/TK/W7UIL19KVB269YHSFLQIEX
+[2025.02.16-13.35.22:009][436]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/W7UIL19KVB269YHSFLQIEXFC35D831487BE00719C683B636AE6092.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/9/TK/W7UIL19KVB269YHSFLQIEX.uasset'
+[2025.02.16-13.35.22:011][436]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/9/VV/6Y2GI4ZDG1RP13S72I2UPL
+[2025.02.16-13.35.22:012][436]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/6Y2GI4ZDG1RP13S72I2UPLE3B52E27461ECD19E86FC8B7E4526859.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/9/VV/6Y2GI4ZDG1RP13S72I2UPL.uasset'
+[2025.02.16-13.35.22:015][436]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/A/AW/JDU40QQAOB3PSQ20RA4PLO
+[2025.02.16-13.35.22:015][436]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/JDU40QQAOB3PSQ20RA4PLOF699D73D49D9664A8DFAA39C872EB41B.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/A/AW/JDU40QQAOB3PSQ20RA4PLO.uasset'
+[2025.02.16-13.35.22:018][436]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/C/PU/VT6QVFJWHHGWX4P6KMML2H
+[2025.02.16-13.35.22:018][436]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/VT6QVFJWHHGWX4P6KMML2H3C4AAC144024191300C376861F4C8E42.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/C/PU/VT6QVFJWHHGWX4P6KMML2H.uasset'
+[2025.02.16-13.35.22:022][436]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/D/FO/SHU6HBIGJIO2RQBM0I91MG
+[2025.02.16-13.35.22:022][436]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/SHU6HBIGJIO2RQBM0I91MG662D05974855C94F31473EAAAA179747.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/D/FO/SHU6HBIGJIO2RQBM0I91MG.uasset'
+[2025.02.16-13.35.22:025][436]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/D/UV/M000QIQ4E1B2JCR8B0VKP4
+[2025.02.16-13.35.22:025][436]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/M000QIQ4E1B2JCR8B0VKP4175C2BE2426F54AEE85274BDD5115B74.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/D/UV/M000QIQ4E1B2JCR8B0VKP4.uasset'
+[2025.02.16-13.35.22:028][436]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/D/W2/CNBD1V6H7VQ6RTNN3AUUO8
+[2025.02.16-13.35.22:029][436]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/CNBD1V6H7VQ6RTNN3AUUO8DC6C0A9C47B0F1F1B3ADD8B80CE656C2.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/D/W2/CNBD1V6H7VQ6RTNN3AUUO8.uasset'
+[2025.02.16-13.35.22:032][436]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/E/B2/YKB0SVNMW6FPOLU11VFNJE
+[2025.02.16-13.35.22:032][436]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/YKB0SVNMW6FPOLU11VFNJE4F4EEB094DE4131916A68EA9B2BA0BC3.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/E/B2/YKB0SVNMW6FPOLU11VFNJE.uasset'
+[2025.02.16-13.35.22:035][436]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/E/BW/MR5TE6R809FLT1BB5OC7TP
+[2025.02.16-13.35.22:035][436]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/MR5TE6R809FLT1BB5OC7TP8B71A2AA431CFE79DEB4CBA1B4893200.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/E/BW/MR5TE6R809FLT1BB5OC7TP.uasset'
+[2025.02.16-13.35.22:039][436]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/E/CJ/H59XL07OCQ0SEMHMDXKMKQ
+[2025.02.16-13.35.22:039][436]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/H59XL07OCQ0SEMHMDXKMKQF8BF11AF41531AF2727E068522CB7F20.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/E/CJ/H59XL07OCQ0SEMHMDXKMKQ.uasset'
+[2025.02.16-13.35.22:042][436]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/F/51/GEO1VX27F0HQIW8XC0M1FT
+[2025.02.16-13.35.22:042][436]LogSavePackage: Moving '../../../../../Github/House_Puzzle/house_puzzle/Saved/GEO1VX27F0HQIW8XC0M1FT47F48AB1486ACFFA5C9EE090D168A25B.tmp' to '../../../../../Github/House_Puzzle/house_puzzle/Content/__ExternalActors__/FirstPerson/Maps/Map_Condition_A/Map_A/F/51/GEO1VX27F0HQIW8XC0M1FT.uasset'
+[2025.02.16-13.35.22:056][436]LogFileHelpers: InternalPromptForCheckoutAndSave took 243.770 ms (total: 260.596 ms)
+[2025.02.16-13.35.22:129][436]LogContentValidation: Display: Starting to validate 45 assets
+[2025.02.16-13.35.22:129][436]LogContentValidation: Enabled validators:
+[2025.02.16-13.35.22:129][436]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.16-13.35.22:129][436]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.16-13.35.22:129][436]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.16-13.35.22:129][436]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.16-13.35.22:129][436]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.16-13.35.22:129][436]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.16-13.35.22:130][436]AssetCheck: /Game/FirstPerson/Maps/Map_Condition_A/Map_A Validating asset
+[2025.02.16-13.35.22:146][436]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.16-13.35.22:146][436]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5473.162598, Update Interval: 330.105286
