@@ -47,7 +47,7 @@
 		{
 			"ShaderMapHash": "54011309CA1E817DFD801B32E543EEE31867C832",
 			"Assets": [
-				"/Game/ThridParty_Assets/FreeFurniturePack/Materials/M_Modern_Bed_2"
+				"/Game/ThridParty_Assets/FreeFurniturePack/Textures/M_Modern_Bed_2"
 			]
 		},
 		{
@@ -65,7 +65,7 @@
 		{
 			"ShaderMapHash": "83ACBB0F1124061214D29156E53AC07073173DB8",
 			"Assets": [
-				"/Game/ThridParty_Assets/FreeFurniturePack/Materials/M_Classic_chair"
+				"/Game/ThridParty_Assets/FreeFurniturePack/Textures/M_Classic_chair"
 			]
 		},
 		{
@@ -77,7 +77,7 @@
 		{
 			"ShaderMapHash": "BA339E1005AAAEC25CAB100BF10DE3A7097ED11D",
 			"Assets": [
-				"/Game/ThridParty_Assets/FreeFurniturePack/Materials/M_Toilet"
+				"/Game/ThridParty_Assets/FreeFurniturePack/Textures/M_Toilet"
 			]
 		},
 		{
@@ -101,14 +101,13 @@
 		{
 			"ShaderMapHash": "85D756159E04B84F10C7342BB24EBF44A4261C55",
 			"Assets": [
-				"/Game/ThridParty_Assets/FreeFurniturePack/Materials/M_Chrome",
-				"/Game/ThridParty_Assets/FreeFurniturePack/Materials/M_Chrome2"
+				"/Game/ThridParty_Assets/FreeFurniturePack/Textures/M_Chrome"
 			]
 		},
 		{
 			"ShaderMapHash": "697B40163617B401DC59B4258B6FDCC3D3BAFA41",
 			"Assets": [
-				"/Game/ThridParty_Assets/FreeFurniturePack/Materials/MM_Tables_and_Chairs"
+				"/Game/ThridParty_Assets/FreeFurniturePack/Textures/MM_Tables_and_Chairs"
 			]
 		},
 		{
@@ -176,12 +175,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "DF11EB2100E5B89B9247C2E923F0E30845BAEF39",
-			"Assets": [
-				"/Game/ThridParty_Assets/FreeFurniturePack/Materials/M_Round_table2"
-			]
-		},
-		{
 			"ShaderMapHash": "646D7C24A04CED1EDFE90950A2F6607E8984052D",
 			"Assets": [
 				"/AudioWidgets/AudioMaterialSlate/M_AudioMaterialEnvelope_ADSR"
@@ -242,7 +235,7 @@
 		{
 			"ShaderMapHash": "1282063209EB95228AFC774DAFDC69E506424C3F",
 			"Assets": [
-				"/Game/ThridParty_Assets/FreeFurniturePack/Materials/M_Modern_Bed_3"
+				"/Game/ThridParty_Assets/FreeFurniturePack/Textures/M_Modern_Bed_3"
 			]
 		},
 		{
@@ -279,7 +272,7 @@
 		{
 			"ShaderMapHash": "329E1F3A3C3D4D8EF9E5EB5DB29BCFAFCD18DF29",
 			"Assets": [
-				"/Game/ThridParty_Assets/FreeFurniturePack/Materials/M_Bed_drawer_plastic"
+				"/Game/ThridParty_Assets/FreeFurniturePack/Textures/M_Bed_drawer_plastic"
 			]
 		},
 		{
@@ -309,7 +302,7 @@
 		{
 			"ShaderMapHash": "9323CB404472941524C6BAEBB382305ACDDFABBE",
 			"Assets": [
-				"/Game/ThridParty_Assets/FreeFurniturePack/Materials/M_Metall"
+				"/Game/ThridParty_Assets/FreeFurniturePack/Textures/M_Metall"
 			]
 		},
 		{
@@ -322,12 +315,6 @@
 			"ShaderMapHash": "9AACCD42FD28B73FFAD733ED7CACCED568E53D1E",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_Default_Blend"
-			]
-		},
-		{
-			"ShaderMapHash": "26597A432C3EAB42888D1AE5B86689DDA3C101E3",
-			"Assets": [
-				"/Game/ThridParty_Assets/FreeFurniturePack/Materials/M_Elegant_chair1"
 			]
 		},
 		{
@@ -371,7 +358,7 @@
 		{
 			"ShaderMapHash": "C88564526B67C82FE86AA6C82378E3D727863E2D",
 			"Assets": [
-				"/Game/ThridParty_Assets/FreeFurniturePack/Materials/M_Round_table"
+				"/Game/ThridParty_Assets/FreeFurniturePack/Textures/M_Round_table"
 			]
 		},
 		{
@@ -472,7 +459,7 @@
 		{
 			"ShaderMapHash": "745BDB5F2ABDAED535024D2B3ADA67D4442C0F4D",
 			"Assets": [
-				"/Game/ThridParty_Assets/FreeFurniturePack/Materials/M_Commode"
+				"/Game/ThridParty_Assets/FreeFurniturePack/Textures/M_Commode"
 			]
 		},
 		{
@@ -503,7 +490,7 @@
 		{
 			"ShaderMapHash": "56E1CE68F69B22E0B3F240E5F1B538441308EC9E",
 			"Assets": [
-				"/Game/ThridParty_Assets/FreeFurniturePack/Materials/M_Bathtub"
+				"/Game/ThridParty_Assets/FreeFurniturePack/Textures/M_Bathtub"
 			]
 		},
 		{
@@ -516,18 +503,6 @@
 			"ShaderMapHash": "D926566979F8A660827B0923771A68B945B11A30",
 			"Assets": [
 				"/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent"
-			]
-		},
-		{
-			"ShaderMapHash": "0E0BE96AFDC7B88F400F3A81B0B2C342394A4066",
-			"Assets": [
-				"/Game/ThridParty_Assets/FreeFurniturePack/Materials/M_Modern_Bed_4"
-			]
-		},
-		{
-			"ShaderMapHash": "1DCF416C0F50017D3D7715FF0E552C45A86A07B8",
-			"Assets": [
-				"/Game/ThridParty_Assets/Modern_house/Materials/M_Fire1"
 			]
 		},
 		{
@@ -545,8 +520,7 @@
 		{
 			"ShaderMapHash": "196C7974BC04D78100AA30EDC8F91330BC350E77",
 			"Assets": [
-				"/Game/ThridParty_Assets/FreeFurniturePack/Materials/M_Office_Chair",
-				"/Game/ThridParty_Assets/FreeFurniturePack/Materials/M_Office_Chair2"
+				"/Game/ThridParty_Assets/FreeFurniturePack/Textures/M_Office_Chair"
 			]
 		},
 		{
@@ -581,7 +555,7 @@
 		{
 			"ShaderMapHash": "657EAB7634578710F864D89FD1FB5DAE02521978",
 			"Assets": [
-				"/Game/ThridParty_Assets/FreeFurniturePack/Materials/M_Bed_Lamp_Glowing_Part"
+				"/Game/ThridParty_Assets/FreeFurniturePack/Textures/M_Bed_Lamp_Glowing_Part"
 			]
 		},
 		{
@@ -599,7 +573,7 @@
 		{
 			"ShaderMapHash": "95031D7AAF1B278EDAD6EC1EF88BF24888B7B5F2",
 			"Assets": [
-				"/Game/ThridParty_Assets/FreeFurniturePack/Materials/M_Modern_Table_top"
+				"/Game/ThridParty_Assets/FreeFurniturePack/Textures/M_Modern_Table_top"
 			]
 		},
 		{
@@ -629,12 +603,8 @@
 		{
 			"ShaderMapHash": "867FA77FCD900D672FAF7731F73639B45276AB39",
 			"Assets": [
-				"/Game/ThridParty_Assets/FreeFurniturePack/Materials/M_Classic_Commode",
-				"/Game/ThridParty_Assets/FreeFurniturePack/Materials/M_Classic_Commode1",
-				"/Game/ThridParty_Assets/FreeFurniturePack/Materials/M_Classic_Cupboard",
-				"/Game/ThridParty_Assets/FreeFurniturePack/Materials/M_Classic_Cupboard1",
-				"/Game/ThridParty_Assets/FreeFurniturePack/Materials/M_Classic_Cupboard2",
-				"/Game/ThridParty_Assets/FreeFurniturePack/Materials/M_Classic_Cupboard3"
+				"/Game/ThridParty_Assets/FreeFurniturePack/Textures/M_Classic_Commode",
+				"/Game/ThridParty_Assets/FreeFurniturePack/Textures/M_Classic_Cupboard"
 			]
 		},
 		{
@@ -754,8 +724,7 @@
 		{
 			"ShaderMapHash": "984C568FD69DB80336B6FA91207BAB729DD0D119",
 			"Assets": [
-				"/Game/ThridParty_Assets/FreeFurniturePack/Materials/M_TV",
-				"/Game/ThridParty_Assets/FreeFurniturePack/Materials/M_TV1"
+				"/Game/ThridParty_Assets/FreeFurniturePack/Textures/M_TV"
 			]
 		},
 		{
@@ -792,7 +761,7 @@
 		{
 			"ShaderMapHash": "DD1192A216F57DDC638C3316F5C0043E1E8D474B",
 			"Assets": [
-				"/Game/ThridParty_Assets/FreeFurniturePack/Materials/M_Classic_Leather_armchair2"
+				"/Game/ThridParty_Assets/FreeFurniturePack/Textures/M_Classic_Leather_armchair2"
 			]
 		},
 		{
@@ -816,7 +785,7 @@
 		{
 			"ShaderMapHash": "48255FA7115C27EB3B4E952DCA0866EC2D96F05C",
 			"Assets": [
-				"/Game/ThridParty_Assets/FreeFurniturePack/Materials/M_Coffee_Table"
+				"/Game/ThridParty_Assets/FreeFurniturePack/Textures/M_Coffee_Table"
 			]
 		},
 		{
@@ -838,7 +807,7 @@
 		{
 			"ShaderMapHash": "B2E4D3A71619BBE628E06210BF644AE48EA546CE",
 			"Assets": [
-				"/Game/ThridParty_Assets/FreeFurniturePack/Materials/M_Modern_Table_bottom"
+				"/Game/ThridParty_Assets/FreeFurniturePack/Textures/M_Modern_Table_bottom"
 			]
 		},
 		{
@@ -948,7 +917,7 @@
 		{
 			"ShaderMapHash": "10C8EBBBC00E95D37BC17BAABC412EEEF7ED0948",
 			"Assets": [
-				"/Game/ThridParty_Assets/FreeFurniturePack/Materials/M_Modern_Cupboard"
+				"/Game/ThridParty_Assets/FreeFurniturePack/Textures/M_Modern_Cupboard"
 			]
 		},
 		{
@@ -983,7 +952,7 @@
 		{
 			"ShaderMapHash": "AD77B6C023EDE87F67A57E20700D3E27FAF1254D",
 			"Assets": [
-				"/Game/ThridParty_Assets/FreeFurniturePack/Materials/M_Bed_Lamp_3"
+				"/Game/ThridParty_Assets/FreeFurniturePack/Textures/M_Bed_Lamp_3"
 			]
 		},
 		{
@@ -995,8 +964,7 @@
 		{
 			"ShaderMapHash": "8EF98DC16EF79386D41D980F96ADAF987FC71504",
 			"Assets": [
-				"/Game/ThridParty_Assets/FreeFurniturePack/Materials/M_Elegant_chair",
-				"/Game/ThridParty_Assets/FreeFurniturePack/Materials/M_Elegant_chair2"
+				"/Game/ThridParty_Assets/FreeFurniturePack/Textures/M_Elegant_chair"
 			]
 		},
 		{
@@ -1014,8 +982,8 @@
 		{
 			"ShaderMapHash": "B9FFAEC4E42EC662139A3D1F20A956B2894C7818",
 			"Assets": [
-				"/Game/ThridParty_Assets/FreeFurniturePack/Materials/M_Bed_drawer_metall",
-				"/Game/ThridParty_Assets/FreeFurniturePack/Materials/M_Cupboard_Metall"
+				"/Game/ThridParty_Assets/FreeFurniturePack/Textures/M_Bed_drawer_metall",
+				"/Game/ThridParty_Assets/FreeFurniturePack/Textures/M_Cupboard_Metall"
 			]
 		},
 		{
@@ -1069,7 +1037,7 @@
 		{
 			"ShaderMapHash": "C9EDF2D44F6ACFC95CCCBCCF75F18FD098F48AEE",
 			"Assets": [
-				"/Game/ThridParty_Assets/FreeFurniturePack/Materials/T_Table_Lamp"
+				"/Game/ThridParty_Assets/FreeFurniturePack/Textures/T_Table_Lamp"
 			]
 		},
 		{
@@ -1125,7 +1093,7 @@
 		{
 			"ShaderMapHash": "FD448DEBBFC2CD08A4FDF091F429EC824F8F3A65",
 			"Assets": [
-				"/Game/ThridParty_Assets/FreeFurniturePack/Materials/M_Classic_Leather_armchair"
+				"/Game/ThridParty_Assets/FreeFurniturePack/Textures/M_Classic_Leather_armchair"
 			]
 		},
 		{
@@ -1137,7 +1105,7 @@
 		{
 			"ShaderMapHash": "29B604EE17531E52866CEBA5B96090E798802720",
 			"Assets": [
-				"/Game/ThridParty_Assets/FreeFurniturePack/Materials/M_Round_table1"
+				"/Game/ThridParty_Assets/FreeFurniturePack/Textures/M_Round_table1"
 			]
 		},
 		{
@@ -1150,12 +1118,6 @@
 			"ShaderMapHash": "C7D8D5EFBC1477991585520ABB307D017A25CA57",
 			"Assets": [
 				"/Game/FirstPerson/Meshes/TexturesMatrials/M_light_Inst"
-			]
-		},
-		{
-			"ShaderMapHash": "479C2DF06ADC28E8EEB9DBAAEF51631C9B84DE38",
-			"Assets": [
-				"/Game/ThridParty_Assets/FreeFurniturePack/Materials/M_Classic_Leather_armchair1"
 			]
 		},
 		{
@@ -1267,7 +1229,7 @@
 		{
 			"ShaderMapHash": "6B84E0F945D8B571363A0F3DE5B6775DE6EFAFA8",
 			"Assets": [
-				"/Game/ThridParty_Assets/FreeFurniturePack/Materials/M_Old_Chair"
+				"/Game/ThridParty_Assets/FreeFurniturePack/Textures/M_Old_Chair"
 			]
 		},
 		{

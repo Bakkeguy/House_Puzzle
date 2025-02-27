@@ -2950,7 +2950,7 @@ ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:Internation
 ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:LocalizationTargetCatchAllChunkId:0=0
 ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:MapsToCook:0=(FilePath="/Game/MainMenu/Main_Menu_Map")
 ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:MapsToCook:1=(FilePath="/Game/FirstPerson/Maps/Map_Condition_A/Map_A")
-ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:MapsToCook:2=(FilePath="/Game/FirstPerson/Maps/Map_Condition_B/Map_B")
+ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:MapsToCook:2=(FilePath="/Game/FirstPerson/Maps/Map_Condition_B/Map_B1")
 ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:MapsToCook:3=(FilePath="/Game/FirstPerson/Maps/Maps_Testing/FirstPersonMap")
 ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:MaxChunkSize:0=0
 ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:PackageAdditionalCompressionOptions:0=
