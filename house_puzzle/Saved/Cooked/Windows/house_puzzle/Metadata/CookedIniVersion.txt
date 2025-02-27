@@ -2873,7 +2873,7 @@ ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:bBuildHttpC
 ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:bChunkHardReferencesOnly:0=False
 ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:bCompressed:0=True
 ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:bCookAll:0=False
-ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:bCookMapsOnly:0=False
+ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:bCookMapsOnly:0=True
 ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:bDeterministicShaderCodeOrder:0=False
 ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:bExcludeMonolithicEngineHeadersInNativizedCode:0=False
 ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:bForceOneChunkPerFile:0=False
@@ -2950,7 +2950,7 @@ ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:Internation
 ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:LocalizationTargetCatchAllChunkId:0=0
 ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:MapsToCook:0=(FilePath="/Game/MainMenu/Main_Menu_Map")
 ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:MapsToCook:1=(FilePath="/Game/FirstPerson/Maps/Map_Condition_A/Map_A")
-ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:MapsToCook:2=(FilePath="/Game/FirstPerson/Maps/Map_Condition_B/Map_B1")
+ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:MapsToCook:2=(FilePath="/Game/FirstPerson/Maps/Map_B1")
 ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:MapsToCook:3=(FilePath="/Game/FirstPerson/Maps/Maps_Testing/FirstPersonMap")
 ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:MaxChunkSize:0=0
 ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:PackageAdditionalCompressionOptions:0=
@@ -2965,7 +2965,7 @@ ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:PackageComp
 ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:UsePakFile:0=False
 ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:WriteBackMetadataToAssetRegistry:0=Disabled
 ConfigSystem.<Editor>.Game:Internationalization:LocalizationPaths:0=%GAMEDIR%Content/Localization/Game
-ConfigSystem.<Editor>.Input:/Script/Engine.InputSettings:ActionMappings:0=(ActionName="PauseGame",bShift=False,bCtrl=False,bAlt=False,bCmd=False,Key=Q)
+ConfigSystem.<Editor>.Input:/Script/Engine.InputSettings:ActionMappings:0=(ActionName="PauseGame",bShift=False,bCtrl=False,bAlt=False,bCmd=False,Key=Escape)
 ConfigSystem.<Editor>.Input:/Script/Engine.InputSettings:AxisConfig:0=(AxisKeyName="Mouse2D",AxisProperties=(DeadZone=0.000000,Sensitivity=0.070000,Exponent=1.000000,bInvert=False))
 ConfigSystem.<Editor>.Input:/Script/Engine.InputSettings:AxisConfig:1=(AxisKeyName="Gamepad_LeftX",AxisProperties=(DeadZone=0.250000,Sensitivity=1.000000,Exponent=1.000000,bInvert=False))
 ConfigSystem.<Editor>.Input:/Script/Engine.InputSettings:AxisConfig:2=(AxisKeyName="Gamepad_LeftY",AxisProperties=(DeadZone=0.250000,Sensitivity=1.000000,Exponent=1.000000,bInvert=False))

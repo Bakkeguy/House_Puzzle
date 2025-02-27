@@ -335,8 +335,8 @@
 /Game/FirstPerson/Input/MobileControls
 /Game/FirstPerson/Maps/Floor1
 /Game/FirstPerson/Maps/Floor1_Mat
+/Game/FirstPerson/Maps/Map_B1
 /Game/FirstPerson/Maps/Map_Condition_A/Map_A
-/Game/FirstPerson/Maps/Map_Condition_B/Map_B1
 /Game/FirstPerson/Maps/Maps_Testing/FirstPersonMap
 /Game/FirstPerson/Material/M_Postive/BarTable/M_Mid_bar_table1
 /Game/FirstPerson/Material/M_Postive/BarTable/M_Mid_bar_table_stand
