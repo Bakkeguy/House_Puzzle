@@ -14,9 +14,27 @@
 			]
 		},
 		{
-			"ShaderMapHash": "32AAE308A258602792B18270461728818B601061",
+			"ShaderMapHash": "F8285005CB7DD2E318EC6C41FC634F47311AA121",
 			"Assets": [
-				"/Game/ThridParty_Assets/Modern_House_V1/Materials/M_Glass"
+				"/Game/FirstPerson/Meshes/TexturesMatrials/Plants_LivingRoom_A_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "75EE3B06A77BB638F6F07A33D32A65B1D71BB57E",
+			"Assets": [
+				"/Game/ThridParty_Assets/FreeFurniturePack/Textures/M_Classic_Leather_armchair2"
+			]
+		},
+		{
+			"ShaderMapHash": "349450060AEE75CA8EE4777ED72EC49E731B79A6",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_Frame"
+			]
+		},
+		{
+			"ShaderMapHash": "BEE98B0917AEEA06DC8AFF706A926972899C4CD4",
+			"Assets": [
+				"/Game/ThridParty_Assets/FreeFurniturePack/Textures/T_Table_Lamp"
 			]
 		},
 		{
@@ -32,6 +50,24 @@
 			]
 		},
 		{
+			"ShaderMapHash": "6E70F60C71DC1AF58DB387883F56A4B0F295C9D7",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultLightFunctionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "843E960D21FF928BC8F8F30FA57DCB380901CD87",
+			"Assets": [
+				"/Game/FirstPerson/Material/Negative_M/N_whitepaper/M_N_Paper"
+			]
+		},
+		{
+			"ShaderMapHash": "4FEFFD0F25560C9CBF0EEE5C0D8CEAF0A5B798EF",
+			"Assets": [
+				"/Game/FirstPerson/Material/Negative_M/N_Kitchen/M_KitchenPos4"
+			]
+		},
+		{
 			"ShaderMapHash": "258E10114F09304A2ACFD256CC6ED34EEFB54564",
 			"Assets": [
 				"/InterchangeAssets/gltf/M_SpecularGlossiness"
@@ -44,9 +80,31 @@
 			]
 		},
 		{
-			"ShaderMapHash": "FBCC621A88786B46B0ABB0D053B7208347DD1E71",
+			"ShaderMapHash": "8E65AC18ABD9169F39D4CAC62CB5158B104BA314",
 			"Assets": [
-				"/Game/ThridParty_Assets/Modern_House_V1/Materials/M_light"
+				"/Game/FirstPerson/Meshes/M_fabric_frame",
+				"/Game/FirstPerson/Meshes/M_Marble",
+				"/Game/FirstPerson/Meshes/M_Metal_s",
+				"/Game/FirstPerson/Meshes/M_Metal_s2",
+				"/Game/FirstPerson/Meshes/M_Metal_s_001",
+				"/Game/FirstPerson/Meshes/M_Plaster_antrasit",
+				"/Game/FirstPerson/Meshes/M_Plaster_antrasit_001",
+				"/Game/FirstPerson/Meshes/M_Plaster_antrasit_002",
+				"/Game/FirstPerson/Meshes/M_Unit_Light1",
+				"/Game/FirstPerson/Meshes/M_Unit_light_emissive",
+				"/Game/FirstPerson/Meshes/M_wardrobe_cabinets",
+				"/Game/FirstPerson/Meshes/M_wardrobe_plaster_tile",
+				"/Game/FirstPerson/Meshes/M_wardrobe_seat",
+				"/Game/FirstPerson/Meshes/M_wood_tile",
+				"/Game/FirstPerson/Meshes/M_wood_tile_001",
+				"/Game/FirstPerson/Meshes/M_wood_tile_002"
+			]
+		},
+		{
+			"ShaderMapHash": "EB6430192783C0037ACD5ADEDD43CEABBD1F9D26",
+			"Assets": [
+				"/Game/ThridParty_Assets/Modern_house/Materials/M_Mirror",
+				"/Game/ThridParty_Assets/Modern_house/Materials/M_Mirror1"
 			]
 		},
 		{
@@ -62,9 +120,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "FB89101E779CADE26BD346CAAC9495FDA3AAFC8F",
+			"ShaderMapHash": "686D531F6B1813E0AF15BB72E3544D2D1620A72B",
 			"Assets": [
-				"/Engine/EngineMaterials/DefaultPostProcessMaterial"
+				"/Game/LevelPrototyping/Materials/M_Solid"
 			]
 		},
 		{
@@ -92,6 +150,30 @@
 			]
 		},
 		{
+			"ShaderMapHash": "3A6A4C24D71763E0737F4158FA56EFCA4297C70B",
+			"Assets": [
+				"/Game/FirstPerson/Meshes/TexturesMatrials/M_Color_1_Inst2",
+				"/Game/FirstPerson/Meshes/TexturesMatrials/M_Metal_2_Inst",
+				"/Game/FirstPerson/Meshes/TexturesMatrials/M_Metal_2_Inst_9",
+				"/Game/FirstPerson/Meshes/TexturesMatrials/M_Metal_2_Inst_11",
+				"/Game/FirstPerson/Meshes/TexturesMatrials/M_Metal_5_Inst",
+				"/Game/FirstPerson/Meshes/TexturesMatrials/M_Metal_5_Inst_8",
+				"/Game/FirstPerson/Meshes/TexturesMatrials/M_Metal_5_Inst_10",
+				"/Game/FirstPerson/Meshes/TexturesMatrials/M_Porcelain_1_Inst",
+				"/Game/FirstPerson/Meshes/TexturesMatrials/M_Porcelain_2_Inst",
+				"/Game/FirstPerson/Meshes/TexturesMatrials/M_Texture_1_Inst",
+				"/Game/FirstPerson/Meshes/TexturesMatrials/M_Texture_2_Inst",
+				"/Game/FirstPerson/Meshes/TexturesMatrials/M_Wood_2_Inst",
+				"/Game/FirstPerson/Meshes/TexturesMatrials/M_Wood_2_Inst_13"
+			]
+		},
+		{
+			"ShaderMapHash": "723C342580B302BCFEDCF75A8C5D406738F1E538",
+			"Assets": [
+				"/Game/ThridParty_Assets/LPGenericPropsSet04/Materials/Generic/M_GenericGlass"
+			]
+		},
+		{
 			"ShaderMapHash": "17CE0826BE0448DE46D5C55A33F4E4D82EF1E647",
 			"Assets": [
 				"/Engine/EditorMaterials/PhAT_UnselectedMaterial"
@@ -104,21 +186,21 @@
 			]
 		},
 		{
-			"ShaderMapHash": "1BD1BC281C25CB1279BB125CB1AA90CB587E0C07",
-			"Assets": [
-				"/Game/LevelPrototyping/Materials/M_PrototypeGrid"
-			]
-		},
-		{
 			"ShaderMapHash": "76AA61297AC0C179901118422F99EE4DD5D70594",
 			"Assets": [
 				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
 			]
 		},
 		{
-			"ShaderMapHash": "CC22AE2C23250B53107D47CAC85EE822466E2EB7",
+			"ShaderMapHash": "488B972C474C2E742858D0CB2E826F1F27997794",
 			"Assets": [
-				"/Game/LevelPrototyping/Materials/MI_PrototypeGrid_TopDark"
+				"/Game/MainMenu/Brightness_Gamma/M_H_BrightnessGamma"
+			]
+		},
+		{
+			"ShaderMapHash": "A949F22C894DF435785A130642FFB53DF9380E6E",
+			"Assets": [
+				"/Game/FirstPerson/Material/Negative_M/Floors/N_Brown_Wood/M_BrownWoodFloor"
 			]
 		},
 		{
@@ -134,15 +216,37 @@
 			]
 		},
 		{
-			"ShaderMapHash": "3877BC34C5CE6C12FF08C65C9E22ED69833DE9F4",
+			"ShaderMapHash": "F177E02F89AE2A0D25AA454E69A2C584BF9956CA",
 			"Assets": [
-				"/Game/LevelPrototyping/Materials/M_Solid"
+				"/Game/FirstPerson/Meshes/TexturesMatrials/Drawer2",
+				"/Game/FirstPerson/Meshes/TexturesMatrials/Drawer3",
+				"/Game/FirstPerson/Meshes/TexturesMatrials/Pot_Plant_A",
+				"/Game/FirstPerson/Meshes/TexturesMatrials/Pot_Plant_A1"
+			]
+		},
+		{
+			"ShaderMapHash": "03B897306608D1F38DF63966A9A1B352D3FFDA2C",
+			"Assets": [
+				"/Game/ThridParty_Assets/Modern_house/Materials/M_bar_stool1"
+			]
+		},
+		{
+			"ShaderMapHash": "CB308E32931016F8174FF33278017A539A13E20E",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultPostProcessMaterial"
 			]
 		},
 		{
 			"ShaderMapHash": "079B63374C5AAFA987889BCF8CE60244AB0C6162",
 			"Assets": [
-				"/Engine/VREditor/TransformGizmo/Xray"
+				"/Engine/VREditor/TransformGizmo/Xray",
+				"/Game/FirstPerson/Material/M_Postive/M_Green"
+			]
+		},
+		{
+			"ShaderMapHash": "CD3BC237D1E018190CECC21D7A47ACD3A7D41EBB",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/MI_PrototypeGrid_TopDark"
 			]
 		},
 		{
@@ -152,9 +256,27 @@
 			]
 		},
 		{
+			"ShaderMapHash": "8A48773A2394614B1918991FC177F571C867CCC2",
+			"Assets": [
+				"/Game/ThridParty_Assets/FreeFurniturePack/Textures/M_Coffee_Table"
+			]
+		},
+		{
 			"ShaderMapHash": "A7AD903BE3A99BBAF03A32A65B0C35AA2CB76C0E",
 			"Assets": [
 				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
+			]
+		},
+		{
+			"ShaderMapHash": "869FA33BBF494BC2B849E5B35A9DB41E23E51796",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial_WS_Normal_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "D34B5E4037AF7960D688BA812AE346B8ED288695",
+			"Assets": [
+				"/Game/FirstPerson/Material/Negative_M/N_Kitchen/M_KitchenPos7"
 			]
 		},
 		{
@@ -164,15 +286,33 @@
 			]
 		},
 		{
+			"ShaderMapHash": "03B639410225D20FF922F0B73DDA23714324AA94",
+			"Assets": [
+				"/Game/ThridParty_Assets/Modern_House_V1/Materials/M_Glass"
+			]
+		},
+		{
 			"ShaderMapHash": "87946F42CC545FFB178B91256688D3B62067BAEC",
 			"Assets": [
 				"/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial"
 			]
 		},
 		{
+			"ShaderMapHash": "C0502844D5F0C8E7BC642B68A04128B288F9E5C3",
+			"Assets": [
+				"/Game/ThridParty_Assets/FreeFurniturePack/Textures/M_Bed_drawer_plastic"
+			]
+		},
+		{
 			"ShaderMapHash": "85B255456C92E7973C0EB24857B3D1B07B119D0D",
 			"Assets": [
 				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
+			]
+		},
+		{
+			"ShaderMapHash": "035D8846E719D604B88AA85CE93419C1E88DEFE5",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/MI_PrototypeGrid_Gray"
 			]
 		},
 		{
@@ -184,10 +324,7 @@
 		{
 			"ShaderMapHash": "11FA2947D2CD62B240E3B0D216D4301D1510BC45",
 			"Assets": [
-				"/Game/ThridParty_Assets/Modern_house/Materials/M_makeup_desk",
-				"/Game/ThridParty_Assets/Modern_house/Materials/M_pan",
-				"/Game/ThridParty_Assets/Modern_house/Materials/M_siphon",
-				"/Game/ThridParty_Assets/Modern_house/Materials/M_stand_lamp1"
+				"/Game/ThridParty_Assets/Modern_house/Materials/M_Mid_bar_table_stand"
 			]
 		},
 		{
@@ -197,9 +334,21 @@
 			]
 		},
 		{
-			"ShaderMapHash": "87B2D049EA830119E88587B464AB7DE65B22E1BF",
+			"ShaderMapHash": "22A0164964048F0BDBFCB50FB9FDB9F8600C4B08",
 			"Assets": [
-				"/Game/ThridParty_Assets/Modern_House_V1/Materials/M_Plastic_1"
+				"/Game/ThridParty_Assets/LPGenericPropsSet04/Materials/Generic/M_Generic"
+			]
+		},
+		{
+			"ShaderMapHash": "2DCE5D49E91AB899D8EAAA8D778EF83521C7FE39",
+			"Assets": [
+				"/Game/FirstPerson/Meshes/TexturesMatrials/M_light_Inst"
+			]
+		},
+		{
+			"ShaderMapHash": "B42AE2491AB3154956BD4E9788EC972F993EE96C",
+			"Assets": [
+				"/Game/ThridParty_Assets/FreeFurniturePack/Textures/M_Commode"
 			]
 		},
 		{
@@ -209,9 +358,53 @@
 			]
 		},
 		{
+			"ShaderMapHash": "6336184E26BDC604FA14A32146E203BCA0BF8467",
+			"Assets": [
+				"/Game/FirstPerson/Material/Negative_M/Floors/N_Gray_Wood/M_GrayWoodFloor",
+				"/Game/FirstPerson/Material/Negative_M/Floors/N_Red_Wood/M_RedWoodFloor"
+			]
+		},
+		{
+			"ShaderMapHash": "97E9EF4FB87A0AFDFE6584557A802441097BEAB5",
+			"Assets": [
+				"/Game/ThridParty_Assets/FreeFurniturePack/Textures/M_Metall"
+			]
+		},
+		{
+			"ShaderMapHash": "0BA8F54FB52CF2CC609BEACC526B5B3D6F02CB17",
+			"Assets": [
+				"/Game/FirstPerson/Material/Negative_M/M_Blue"
+			]
+		},
+		{
+			"ShaderMapHash": "F8AD9B51D45A7F676FAC774912A6E1A2859AA64A",
+			"Assets": [
+				"/Game/ThridParty_Assets/FreeFurniturePack/Textures/M_Modern_Table_top"
+			]
+		},
+		{
+			"ShaderMapHash": "1523515245BE9B24183F01505E0CB3BB706BA2E1",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultDeferredDecalMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "781EE35245CE21D18C8A37675B6F5D9AEE935BC1",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial_VT"
+			]
+		},
+		{
 			"ShaderMapHash": "3D72875450CB4066939407CBFA45DCFB02E96C14",
 			"Assets": [
 				"/ControlRig/M_Manip"
+			]
+		},
+		{
+			"ShaderMapHash": "5C02F954424F3C55913C3FC53780C089E100E1D5",
+			"Assets": [
+				"/Game/FirstPerson/Material/M_Postive/BarTable/M_Mid_bar_table1",
+				"/Game/FirstPerson/Material/M_Postive/BarTable/M_Mid_bar_table_stand"
 			]
 		},
 		{
@@ -234,12 +427,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "B2AB6C58D81D4E485EC8377446AEFA03E967C14A",
-			"Assets": [
-				"/Game/ThridParty_Assets/Modern_House_V1/Materials/M_Metal_5"
-			]
-		},
-		{
 			"ShaderMapHash": "2AD78A5C83ABC07956D6455D1FC18448C9448D18",
 			"Assets": [
 				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
@@ -258,15 +445,16 @@
 			]
 		},
 		{
-			"ShaderMapHash": "081AB0632B2FCFF6EE908856CE21D3A962AB96AF",
+			"ShaderMapHash": "B1D1A8621BA03826436C4EBB55E3CCE71077C616",
 			"Assets": [
-				"/Game/StarterContent/Props/Materials/M_Door"
+				"/Game/FirstPerson/Material/M_Postive/PiaWall/M_WALLPIATEST"
 			]
 		},
 		{
-			"ShaderMapHash": "5A73C769BBF35DB8812E6E1E8053BFC3CD2A092B",
+			"ShaderMapHash": "E9AEF467F970256D6E51C3514F1A63EFF505DE3C",
 			"Assets": [
-				"/Game/ThridParty_Assets/Modern_House_V1/Materials/M_Fabric_5"
+				"/Game/FirstPerson/Meshes/TexturesMatrials/Metal_Zink_A",
+				"/Game/FirstPerson/Meshes/TexturesMatrials/Metal_Zink_A1"
 			]
 		},
 		{
@@ -276,8 +464,21 @@
 			]
 		},
 		{
+			"ShaderMapHash": "DCEC536ACE4C3C93CCF2A6E2C46CDBC5C052EB36",
+			"Assets": [
+				"/Game/FirstPerson/Meshes/TexturesMatrials/sink_metal_surface"
+			]
+		},
+		{
 			"ShaderMapHash": "CE60456B0634F176CC03929AEE98B5986029FE61",
 			"Assets": [
+				"/Game/FirstPerson/Material/M_Postive/Basement/M_White",
+				"/Game/FirstPerson/Material/M_Postive/M_LightBlue",
+				"/Game/FirstPerson/Material/M_Postive/M_Pink",
+				"/Game/FirstPerson/Material/M_Postive/M_Yellow",
+				"/Game/FirstPerson/Material/Negative_M/M_Black",
+				"/Game/FirstPerson/Material/Negative_M/M_Gray",
+				"/Game/FirstPerson/Material/Negative_M/M_Red",
 				"/Game/ThridParty_Assets/Modern_house/Materials/M_fridge_in"
 			]
 		},
@@ -288,15 +489,28 @@
 			]
 		},
 		{
+			"ShaderMapHash": "CB39E86D89200189C5155B9ED375EBC7E62CBA43",
+			"Assets": [
+				"/Game/ThridParty_Assets/FreeFurniturePack/Textures/M_Toilet"
+			]
+		},
+		{
+			"ShaderMapHash": "3536FE6EF506BE38C1FA0521409074C58EF81A14",
+			"Assets": [
+				"/Game/FirstPerson/Material/M_Postive/Basement/Wall_Thick__1__Material_001_BaseColor_Mat",
+				"/Game/FirstPerson/Material/M_Postive/BathroomTileWhite/Wall_Thick__1__Material_001_BaseColor_Mat"
+			]
+		},
+		{
 			"ShaderMapHash": "49012F7001AB2E9B215EC79765A77F2A12161091",
 			"Assets": [
 				"/Paper2D/DefaultSpriteMaterial"
 			]
 		},
 		{
-			"ShaderMapHash": "80D4B77472F94CC78BA23E2823279B352DA8EC4C",
+			"ShaderMapHash": "8B9D0D7194FF93F4E1395D3ECCFA8CDA2585D180",
 			"Assets": [
-				"/Game/ThridParty_Assets/Modern_house/Materials/M_stand_lamp_ems"
+				"/Game/FirstPerson/Material/M_Postive/M_White"
 			]
 		},
 		{
@@ -342,6 +556,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "7400CE7ABBAEFC75C5D8684903AEC238CD9C11C4",
+			"Assets": [
+				"/Game/ThridParty_Assets/FreeFurniturePack/Textures/M_Round_table1"
+			]
+		},
+		{
 			"ShaderMapHash": "A375537ED95ACFBC8D77EE9E41FAE9AEC9EA80B2",
 			"Assets": [
 				"/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent"
@@ -354,9 +574,10 @@
 			]
 		},
 		{
-			"ShaderMapHash": "A02CAB801D3660E7E2637988649D1F6F30EEBC20",
+			"ShaderMapHash": "CA368B81FAC9ABE71BF0E5CA7B23CFD388C1E461",
 			"Assets": [
-				"/Game/ThridParty_Assets/LPGenericPropsSet04/Materials/Generic/M_Generic"
+				"/Game/ThridParty_Assets/Modern_house/Materials/M_Mirror_frame1",
+				"/Game/ThridParty_Assets/Modern_house/Materials/M_TV1"
 			]
 		},
 		{
@@ -372,9 +593,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "42B196831AE98AF1D4CC7BF49B529F4961A16F38",
+			"ShaderMapHash": "C8DFB383D8E02C6D56E146E07A96977CE6836456",
 			"Assets": [
-				"/Engine/EngineMaterials/FlattenMaterial_VT"
+				"/Game/FirstPerson/Meshes/TexturesMatrials/Pot_Porcelain"
 			]
 		},
 		{
@@ -428,9 +649,71 @@
 		{
 			"ShaderMapHash": "9846F48D3A8A40CADCB9C44094F8872A76EC1ABD",
 			"Assets": [
-				"/Game/ThridParty_Assets/Modern_house/Materials/M_Bed_pillows",
-				"/Game/ThridParty_Assets/Modern_house/Materials/M_closet",
-				"/Game/ThridParty_Assets/Modern_house/Materials/M_Hooker"
+				"/Game/FirstPerson/Material/M_Postive/HallwayWardrobe/M_FabricFrame",
+				"/Game/FirstPerson/Material/M_Postive/HallwayWardrobe/M_Fronts",
+				"/Game/FirstPerson/Material/M_Postive/HallwayWardrobe/M_Seat",
+				"/Game/FirstPerson/Material/M_Postive/HallwayWardrobe/M_WoodenFrame",
+				"/Game/FirstPerson/Material/M_Postive/TVCounter1/M_Fronts",
+				"/Game/FirstPerson/Material/M_Postive/TVCounter1/M_InnerFrame",
+				"/Game/FirstPerson/Material/M_Postive/TVCounter1/M_MetalGrid",
+				"/Game/FirstPerson/Material/M_Postive/TVCounter1/M_WoodenBackground",
+				"/Game/FirstPerson/Material/M_Postive/TVCounter2/M_Fronts",
+				"/Game/FirstPerson/Material/M_Postive/TVCounter2/M_MetalFrame",
+				"/Game/FirstPerson/Material/M_Postive/TVCounter2/M_MetalHandle",
+				"/Game/FirstPerson/Material/M_Postive/TVCounter2/M_MetalIndent",
+				"/Game/FirstPerson/Material/M_Postive/TVCounter2/M_WoodenFront",
+				"/Game/FirstPerson/Material/M_Postive/TVCounter3/M_Fronts",
+				"/Game/FirstPerson/Material/M_Postive/TVCounter3/M_WoodenDrawers",
+				"/Game/FirstPerson/Material/Negative_M/HallwayWardrobe/HallwayWardrobe/M_FabricFrame",
+				"/Game/FirstPerson/Material/Negative_M/HallwayWardrobe/HallwayWardrobe/M_Fronts",
+				"/Game/FirstPerson/Material/Negative_M/HallwayWardrobe/HallwayWardrobe/M_Seat",
+				"/Game/FirstPerson/Material/Negative_M/HallwayWardrobe/HallwayWardrobe/M_WoodenFrame",
+				"/Game/FirstPerson/Material/Negative_M/Rugs/BrownAndBlack/M_RugBrownAndBlack",
+				"/Game/FirstPerson/Material/Negative_M/Rugs/BrownBlackCow/M_BrownBlackCow",
+				"/Game/FirstPerson/Material/Negative_M/Rugs/DarkBlueRug/M_DarkBlueRug",
+				"/Game/FirstPerson/Material/Negative_M/Rugs/GrayBlueCow/M_GrayBlueCow",
+				"/Game/FirstPerson/Material/Negative_M/Rugs/RedBamboo/M_RedBamboo",
+				"/Game/FirstPerson/Material/Negative_M/TVCounter/TVCounter/TVCounter1/M_Fronts",
+				"/Game/FirstPerson/Material/Negative_M/TVCounter/TVCounter/TVCounter1/M_InnerFrame",
+				"/Game/FirstPerson/Material/Negative_M/TVCounter/TVCounter/TVCounter1/M_MetalGrid",
+				"/Game/FirstPerson/Material/Negative_M/TVCounter/TVCounter/TVCounter1/M_WoodBackground",
+				"/Game/FirstPerson/Material/Negative_M/TVCounter/TVCounter/TVCounter2/M_Fronts",
+				"/Game/FirstPerson/Material/Negative_M/TVCounter/TVCounter/TVCounter2/M_MetalFrame",
+				"/Game/FirstPerson/Material/Negative_M/TVCounter/TVCounter/TVCounter2/M_MetalHandle",
+				"/Game/FirstPerson/Material/Negative_M/TVCounter/TVCounter/TVCounter2/M_MetalIndent",
+				"/Game/FirstPerson/Material/Negative_M/TVCounter/TVCounter/TVCounter2/M_WoodFronts",
+				"/Game/FirstPerson/Material/Negative_M/TVCounter/TVCounter/TVCounter3/M_Fronts",
+				"/Game/FirstPerson/Material/Negative_M/TVCounter/TVCounter/TVCounter3/M_WoodenDrawers",
+				"/Game/ThridParty_Assets/Modern_house/Materials/M_boiler1",
+				"/Game/ThridParty_Assets/Modern_house/Materials/M_Furg1",
+				"/Game/ThridParty_Assets/Modern_house/Materials/M_Furg2",
+				"/Game/ThridParty_Assets/Modern_house/Materials/M_Rug2",
+				"/Game/ThridParty_Assets/Modern_house/Materials/M_wc_set"
+			]
+		},
+		{
+			"ShaderMapHash": "88D9D58F2B86935E677BD27B3D62274D5FD05FC1",
+			"Assets": [
+				"/Game/ThridParty_Assets/Modern_house/Materials/M_Mid_bar_table1",
+				"/Game/ThridParty_Assets/Modern_house/Materials/M_stand_lamp1"
+			]
+		},
+		{
+			"ShaderMapHash": "4923E49147324EFDAEF4EE96F3856DF0F3DE4E54",
+			"Assets": [
+				"/Game/ThridParty_Assets/FreeFurniturePack/M_Sofa1"
+			]
+		},
+		{
+			"ShaderMapHash": "2CBEC69388A3A1F5132AD06CBB0AF2355F5C02B8",
+			"Assets": [
+				"/Game/ThridParty_Assets/Modern_House_V1/Materials/M_Mirror"
+			]
+		},
+		{
+			"ShaderMapHash": "EBE0DF93D3BFB68045DE04E21804F99214707C82",
+			"Assets": [
+				"/Game/ThridParty_Assets/Modern_house/Materials/M_Rug1"
 			]
 		},
 		{
@@ -446,27 +729,52 @@
 			]
 		},
 		{
+			"ShaderMapHash": "A80F1297A1BE4D3C81525C973194A68556E57558",
+			"Assets": [
+				"/Game/FirstPerson/Meshes/TexturesMatrials/Soil",
+				"/Game/FirstPerson/Meshes/TexturesMatrials/Soil1"
+			]
+		},
+		{
+			"ShaderMapHash": "5DDD58970D7B52909A0C5D28B221796EF9090F10",
+			"Assets": [
+				"/Game/ThridParty_Assets/FreeFurniturePack/M_Sofa"
+			]
+		},
+		{
+			"ShaderMapHash": "8BCB249863E60F108ADC88B044DB25EC697E527F",
+			"Assets": [
+				"/Game/StarterContent/Props/Materials/M_Door"
+			]
+		},
+		{
 			"ShaderMapHash": "A676A69915D84FF98D2A0ABF7181E73DE90287FC",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_Default_Mask"
 			]
 		},
 		{
-			"ShaderMapHash": "C7E7559B1B7A44FE6F47D07D0BB872744FC17A44",
+			"ShaderMapHash": "B91D019B5DFDE39FDD7EE8C1B7870F91F5E87586",
 			"Assets": [
-				"/Game/LevelPrototyping/Materials/MI_PrototypeGrid_Gray"
-			]
-		},
-		{
-			"ShaderMapHash": "079CAF9B072B12A17A2451EF62CFEB8AB7B6E8DB",
-			"Assets": [
-				"/Engine/EngineMaterials/DefaultDeferredDecalMaterial"
+				"/Game/ThridParty_Assets/Modern_house/Materials/M_stand_lamp_ems"
 			]
 		},
 		{
 			"ShaderMapHash": "139F039CA8E5705ED81996B03F2DA5B4D1BF876D",
 			"Assets": [
 				"/DeformerGraph/Deformers/DG_LinearBlendSkin_Morph_Cloth_RecomputeNormals"
+			]
+		},
+		{
+			"ShaderMapHash": "10BDA49DCD6D977837241F043BB5A1D8F44005A8",
+			"Assets": [
+				"/Game/ThridParty_Assets/FreeFurniturePack/Textures/M_Chrome"
+			]
+		},
+		{
+			"ShaderMapHash": "C14A399E03640D00D1E2735A78EFB371FD30C946",
+			"Assets": [
+				"/Game/ThridParty_Assets/FreeFurniturePack/Textures/M_Modern_Bed_3"
 			]
 		},
 		{
@@ -488,6 +796,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "9013AEA35080E4B243CBAEB5AF2B9E3FCA64D532",
+			"Assets": [
+				"/Engine/EngineMaterials/WorldGridMaterial"
+			]
+		},
+		{
 			"ShaderMapHash": "AF095FA6C6A09C1FED38F8F2523A7805044FBE5A",
 			"Assets": [
 				"/DeformerGraph/Deformers/DG_LinearBlendSkin_Morph_Cloth"
@@ -500,15 +814,64 @@
 			]
 		},
 		{
-			"ShaderMapHash": "238B4BA850C437911255FF0A9D1B28784F9F9DE5",
+			"ShaderMapHash": "385D9DA9AD79335F70AA96880677EDF15D484DD1",
 			"Assets": [
-				"/Game/ThridParty_Assets/Modern_House_V1/Materials/Instance/M_Fabric_5_Inst"
+				"/Game/ThridParty_Assets/FreeFurniturePack/Textures/M_Office_Chair"
+			]
+		},
+		{
+			"ShaderMapHash": "5C16E3A942D6680C9298E7040C45806090DD6236",
+			"Assets": [
+				"/Game/FirstPerson/Meshes/TexturesMatrials/mi_metallic_paint_x1"
 			]
 		},
 		{
 			"ShaderMapHash": "6AB100AA765FE5B13EE14029484F7CE01F0C9733",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_Sheen_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "A63E14AAB1DE1ABA68A9C626664934DC4B2F4A7D",
+			"Assets": [
+				"/Game/ThridParty_Assets/FreeFurniturePack/Textures/M_Old_Chair"
+			]
+		},
+		{
+			"ShaderMapHash": "CAC555ABA4B4C961091389EF3E4C36BB18E18D22",
+			"Assets": [
+				"/Game/FirstPerson/Material/M_Postive/M_LightBlueMatted",
+				"/Game/FirstPerson/Material/M_Postive/M_YellowMatted",
+				"/Game/FirstPerson/Material/Negative_M/M_GrayMatte",
+				"/Game/FirstPerson/Material/Negative_M/M_RedMatted"
+			]
+		},
+		{
+			"ShaderMapHash": "173AE0AC5FBC831196DB2F9EDAFE74CFE386B94B",
+			"Assets": [
+				"/Game/FirstPerson/Maps/Floor1_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "6529A3AD658C93CF83ABFD9BF37F19801D4BEF46",
+			"Assets": [
+				"/Game/ThridParty_Assets/FreeFurniturePack/Textures/M_Classic_chair"
+			]
+		},
+		{
+			"ShaderMapHash": "9A06BDADCAC5E2903C32DC9F70E9E17141E0FEF2",
+			"Assets": [
+				"/Game/FirstPerson/Material/M_Postive/Floors/P_White_Wood/M_WhiteWoodFloor",
+				"/Game/FirstPerson/Material/M_Postive/Floors/P_Yellow_wood/M_YellowWoodFloor",
+				"/Game/FirstPerson/Material/M_Postive/P_Classic_chair/M_P_classicChair",
+				"/Game/FirstPerson/Material/M_Postive/P_Dryer/M_P_Dryer",
+				"/Game/FirstPerson/Material/M_Postive/P_Kitchen/M_KitchenPos7",
+				"/Game/FirstPerson/Material/M_Postive/P_Kitchen/M_KitchenPos8",
+				"/Game/FirstPerson/Material/M_Postive/P_washer/M_P_Washer",
+				"/Game/FirstPerson/Material/Negative_M/Floors/N_Black_Wood/M_BlackWoodFloor",
+				"/Game/FirstPerson/Material/Negative_M/N_Classic_chair/M_N_classicChair",
+				"/Game/FirstPerson/Material/Negative_M/N_Dryer/M_N_Dryer",
+				"/Game/FirstPerson/Material/Negative_M/N_washer/M_N_Washer"
 			]
 		},
 		{
@@ -536,9 +899,18 @@
 			]
 		},
 		{
-			"ShaderMapHash": "2EDEACB7D0A8FAB177453687FF3C714A7C13916B",
+			"ShaderMapHash": "97D6D4B981BA0C0FA8C0A5CDCDCC3C351CA69161",
 			"Assets": [
-				"/Game/ThridParty_Assets/Modern_House_V1/Materials/M_Tiles_2"
+				"/Game/ThridParty_Assets/Modern_house/Materials/M_magazine1",
+				"/Game/ThridParty_Assets/Modern_house/Materials/M_magazine2",
+				"/Game/ThridParty_Assets/Modern_house/Materials/M_magazine3",
+				"/Game/ThridParty_Assets/Modern_house/Materials/M_magazine4"
+			]
+		},
+		{
+			"ShaderMapHash": "339E50BCD0DCC1A37EA55675CD6541F932E9D865",
+			"Assets": [
+				"/Game/FirstPerson/Meshes/TexturesMatrials/sink_inner_surface"
 			]
 		},
 		{
@@ -558,9 +930,22 @@
 			]
 		},
 		{
+			"ShaderMapHash": "C8C1E2BF04F5BD83A46C30B203DA92DA464C156E",
+			"Assets": [
+				"/Game/ThridParty_Assets/FreeFurniturePack/Textures/M_Elegant_chair"
+			]
+		},
+		{
 			"ShaderMapHash": "2140F8C167EF7BE876019D23D91E0210AC8443FA",
 			"Assets": [
 				"/Engine/EditorMaterials/Camera/CineMat"
+			]
+		},
+		{
+			"ShaderMapHash": "CE56DBC264A7BBA8E250E34BE1ED21F53AAFD586",
+			"Assets": [
+				"/Game/ThridParty_Assets/FreeFurniturePack/Textures/M_Classic_Commode",
+				"/Game/ThridParty_Assets/FreeFurniturePack/Textures/M_Classic_Cupboard"
 			]
 		},
 		{
@@ -568,12 +953,6 @@
 			"Assets": [
 				"/HairStrands/Materials/HairDefaultMaterial",
 				"/HairStrands/Materials/HairMeshesDefaultMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "25068FC9377B4A871FD6D00CDCC20D15821BFFD5",
-			"Assets": [
-				"/Engine/EngineMaterials/DefaultLightFunctionMaterial"
 			]
 		},
 		{
@@ -589,9 +968,22 @@
 			]
 		},
 		{
-			"ShaderMapHash": "0EC9B6CF7B2B1FD4DDCEB198A15D6FBE3D97EE8C",
+			"ShaderMapHash": "25B7D1CD3F4925108F440F7A15902AB08A777751",
 			"Assets": [
-				"/Engine/EngineMaterials/FlattenMaterial_WS_Normal_VT"
+				"/Game/ThridParty_Assets/FreeFurniturePack/Textures/M_Modern_Bed_2"
+			]
+		},
+		{
+			"ShaderMapHash": "2DFE9ECF4416EB22A86B7B08BF51E16E0C6C9C2B",
+			"Assets": [
+				"/Game/ThridParty_Assets/Modern_house/Materials/M_magazine1_red",
+				"/Game/ThridParty_Assets/Modern_house/Materials/M_magazine4_orange"
+			]
+		},
+		{
+			"ShaderMapHash": "A127C7CF357BF0377B9793F51A46D8FDEB8C465E",
+			"Assets": [
+				"/Game/ThridParty_Assets/FreeFurniturePack/Textures/M_Bed_Lamp_3"
 			]
 		},
 		{
@@ -601,22 +993,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "499DF4D1CEA7C77A0DFB6FE35A9A7FE459FD3F0B",
+			"ShaderMapHash": "3C682CD384AF88164DEE9631B6101AD2F9E326B9",
 			"Assets": [
-				"/Game/ThridParty_Assets/Modern_House_V1/Materials/M_Color_1",
-				"/Game/ThridParty_Assets/Modern_House_V1/Materials/M_Marble_1",
-				"/Game/ThridParty_Assets/Modern_House_V1/Materials/M_Metal_1",
-				"/Game/ThridParty_Assets/Modern_House_V1/Materials/M_Metal_2",
-				"/Game/ThridParty_Assets/Modern_House_V1/Materials/M_Porcelain_1",
-				"/Game/ThridParty_Assets/Modern_House_V1/Materials/M_Porcelain_2",
-				"/Game/ThridParty_Assets/Modern_House_V1/Materials/M_Texture_1",
-				"/Game/ThridParty_Assets/Modern_House_V1/Materials/M_Texture_2",
-				"/Game/ThridParty_Assets/Modern_House_V1/Materials/M_Texture_3",
-				"/Game/ThridParty_Assets/Modern_House_V1/Materials/M_Wood_2",
-				"/Game/ThridParty_Assets/Modern_House_V1/Materials/M_Wood_3",
-				"/Game/ThridParty_Assets/Modern_House_V1/Materials/M_Wood_4",
-				"/Game/ThridParty_Assets/Modern_House_V1/Materials/M_Wood_5",
-				"/Game/ThridParty_Assets/Modern_House_V1/Materials/M_Wood_7"
+				"/Game/ThridParty_Assets/FreeFurniturePack/Textures/M_Bathtub"
 			]
 		},
 		{
@@ -629,6 +1008,13 @@
 			"ShaderMapHash": "096362D32DAC7816F8CAFF1F1A6C0A9D89FE5A32",
 			"Assets": [
 				"/Engine/EditorMaterials/PhAT_NoCollisionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "5E6DBCD53C0A63ADFAD292EFFC3E209ECB5403CC",
+			"Assets": [
+				"/Game/FirstPerson/Material/M_Postive/M_White1",
+				"/Game/FirstPerson/Material/Negative_M/M_BlackMatted"
 			]
 		},
 		{
@@ -650,15 +1036,87 @@
 			]
 		},
 		{
+			"ShaderMapHash": "9ECF63DB471632C869F6E00B584C385D59543A4A",
+			"Assets": [
+				"/Game/FirstPerson/Meshes/TexturesMatrials/Sklo"
+			]
+		},
+		{
 			"ShaderMapHash": "60B1D8DC02CE0CEE3291AE1EA15669CEC10A0F27",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_Sheen_Mask"
 			]
 		},
 		{
-			"ShaderMapHash": "599A57E47BCAF66EB75E0ADAF7C67D68C6B0082C",
+			"ShaderMapHash": "F5EAD0DDF032A3D187DE7F181ACFABD6DB12D704",
 			"Assets": [
-				"/Engine/EngineMaterials/WorldGridMaterial"
+				"/Game/ThridParty_Assets/Modern_house/Materials/M_Rug3"
+			]
+		},
+		{
+			"ShaderMapHash": "180B00E225A05C3BDED1C455C15D7B0F84FE539A",
+			"Assets": [
+				"/Game/FirstPerson/Material/M_Postive/Ceilings/P_White_ceiling/M_WhiteCeiling",
+				"/Game/FirstPerson/Material/M_Postive/Floors/BasementFloor/M_BasementFloorPos",
+				"/Game/FirstPerson/Material/M_Postive/Floors/WhiteTileFloor/M_WhiteTileFloor",
+				"/Game/FirstPerson/Material/M_Postive/LightBlueStripes/M_LightBlue",
+				"/Game/FirstPerson/Material/M_Postive/P_Kitchen/M_KitchenPos10",
+				"/Game/FirstPerson/Material/M_Postive/P_Kitchen/M_KitchenPos3",
+				"/Game/FirstPerson/Material/M_Postive/P_Kitchen/M_KitchenPos6",
+				"/Game/FirstPerson/Material/M_Postive/P_Kitchen/M_KitchenPos9",
+				"/Game/FirstPerson/Material/M_Postive/P_Whitepaper/M_P_Paper",
+				"/Game/FirstPerson/Material/M_Postive/PinkStripes/M_PinkStripes",
+				"/Game/FirstPerson/Material/M_Postive/Rugs/BambooWhite/M_BambooWhite",
+				"/Game/FirstPerson/Material/M_Postive/Rugs/CowRugGreen/M_GreenCowRug",
+				"/Game/FirstPerson/Material/M_Postive/Rugs/CowRugPink/M_CowRugPink",
+				"/Game/FirstPerson/Material/M_Postive/Rugs/RugLightBlue/M_RugLightBlue",
+				"/Game/FirstPerson/Material/M_Postive/Rugs/WhiteAndYellow/M_RugWhiteAndYellow",
+				"/Game/FirstPerson/Material/M_Postive/Walls/BedroomAccentWallReverse/M_GreenStripes",
+				"/Game/FirstPerson/Material/M_Postive/Walls/GreenStripes/M_GreenStripes",
+				"/Game/FirstPerson/Material/M_Postive/Walls/KitchenWall/M_PanelGreenWall",
+				"/Game/FirstPerson/Material/M_Postive/Walls/WallKalkGreen/M_BasementWallPos",
+				"/Game/FirstPerson/Material/M_Postive/Walls/Washroom/M_GreenWhiteLine",
+				"/Game/FirstPerson/Material/M_Postive/WallTESt/M_WallTest",
+				"/Game/FirstPerson/Material/Negative_M/BasementFloor/M_BasementFloorNeg",
+				"/Game/FirstPerson/Material/Negative_M/BasementWall/M_BasementWallNeg",
+				"/Game/FirstPerson/Material/Negative_M/BathroomTileBlack/M_BathroomTileNeg",
+				"/Game/FirstPerson/Material/Negative_M/Bedroom_AccentWall/M_BathroomTileNeg",
+				"/Game/FirstPerson/Material/Negative_M/BlackStripes/M_BlackStripes",
+				"/Game/FirstPerson/Material/Negative_M/BlackTileFloor/M_BlackTileFloor",
+				"/Game/FirstPerson/Material/Negative_M/BlueStripes/M_BlueStripes",
+				"/Game/FirstPerson/Material/Negative_M/Ceilings/B_Gray_ceiling/M_GrayCeiling",
+				"/Game/FirstPerson/Material/Negative_M/Ceilings/N_Brown_ceiling/M_BrownCeiling",
+				"/Game/FirstPerson/Material/Negative_M/N_Kitchen/M_KitchenPos10",
+				"/Game/FirstPerson/Material/Negative_M/N_Kitchen/M_KitchenPos13",
+				"/Game/FirstPerson/Material/Negative_M/N_Kitchen/M_KitchenPos14",
+				"/Game/FirstPerson/Material/Negative_M/N_Kitchen/M_KitchenPos2",
+				"/Game/FirstPerson/Material/Negative_M/N_Kitchen/M_KitchenPos5",
+				"/Game/FirstPerson/Material/Negative_M/N_Kitchen/M_KitchenPos6",
+				"/Game/FirstPerson/Material/Negative_M/N_Kitchen/M_KitchenPos8",
+				"/Game/FirstPerson/Material/Negative_M/OfficeWall/M_OfficeWallNeg",
+				"/Game/FirstPerson/Material/Negative_M/PanelWallGray/M_PanelWallGray",
+				"/Game/FirstPerson/Material/Negative_M/PantoneStripes/M_PantoneStripes",
+				"/Game/FirstPerson/Material/Negative_M/WallKalkPantone/M_KalkPantoneNeg",
+				"/Game/FirstPerson/Material/Negative_M/WashroomWall/M_WashroomNeg"
+			]
+		},
+		{
+			"ShaderMapHash": "07B0FFE32ECF139C2D33AF0E8345648D60D3893B",
+			"Assets": [
+				"/Game/ThridParty_Assets/FreeFurniturePack/Textures/M_Bed_Lamp_Glowing_Part"
+			]
+		},
+		{
+			"ShaderMapHash": "70E851E59BD3538AF15710B5FAEE50208C50CDA5",
+			"Assets": [
+				"/Game/FirstPerson/Material/Negative_M/M_BlueMatted"
+			]
+		},
+		{
+			"ShaderMapHash": "B359F1E5235CC3E54D8B191AAE46C00DD290940A",
+			"Assets": [
+				"/Game/FirstPerson/Meshes/TexturesMatrials/wood_stairs_Base",
+				"/Game/FirstPerson/Meshes/TexturesMatrials/wood_stairs_rail"
 			]
 		},
 		{
@@ -668,9 +1126,34 @@
 			]
 		},
 		{
+			"ShaderMapHash": "2238B0E6EB2E5D19B2A11D1B866DFF688A2D72C6",
+			"Assets": [
+				"/Game/ThridParty_Assets/FreeFurniturePack/Textures/M_TV"
+			]
+		},
+		{
+			"ShaderMapHash": "AB59BAE6DE5A248E4E4618B3DCF362182873F806",
+			"Assets": [
+				"/Game/FirstPerson/Material/M_Postive/Floors/Tiled/M_FloorTiledPos",
+				"/Game/FirstPerson/Material/Negative_M/Floors/Tiles/M_FloorTiledPos"
+			]
+		},
+		{
+			"ShaderMapHash": "98E82BE84105959507B4D1AC424D8D158E8A69AC",
+			"Assets": [
+				"/Game/FirstPerson/Material/M_Postive/P_Kitchen/M_KitchenPos14"
+			]
+		},
+		{
 			"ShaderMapHash": "7A0F3AE882216F58CEFCD4ADCFF23214BA5BEF96",
 			"Assets": [
 				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "9CD058E8E6E552448FAC6A83E3A520D0C8F759CB",
+			"Assets": [
+				"/Game/ThridParty_Assets/FreeFurniturePack/Textures/MM_Tables_and_Chairs"
 			]
 		},
 		{
@@ -680,9 +1163,37 @@
 			]
 		},
 		{
+			"ShaderMapHash": "43A95FE95E8539D81A38C5893FCC8B5D2F128500",
+			"Assets": [
+				"/Game/FirstPerson/Meshes/TexturesMatrials/Cactus_A",
+				"/Game/FirstPerson/Meshes/TexturesMatrials/Cactus_A1",
+				"/Game/FirstPerson/Meshes/TexturesMatrials/Foliage_Kitchen_A",
+				"/Game/FirstPerson/Meshes/TexturesMatrials/Foliage_Kitchen_A1",
+				"/Game/FirstPerson/Meshes/TexturesMatrials/Orchid_A",
+				"/Game/FirstPerson/Meshes/TexturesMatrials/Orchid_A1",
+				"/Game/FirstPerson/Meshes/TexturesMatrials/Plants_LivingRoom_A",
+				"/Game/FirstPerson/Meshes/TexturesMatrials/Plants_LivingRoom_A1"
+			]
+		},
+		{
+			"ShaderMapHash": "9124ECE90BBD7195080F5ECE05D654D30F307206",
+			"Assets": [
+				"/Game/FirstPerson/Material/Negative_M/M_Brown",
+				"/Game/FirstPerson/Material/Negative_M/M_BrownMatte"
+			]
+		},
+		{
 			"ShaderMapHash": "9A0F6BEB93254C8C3EA355902FD9589C5032B822",
 			"Assets": [
 				"/Engine/EngineMaterials/DefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "D5B6B4EB98F77B349A35D9F7B8D572A9E045F272",
+			"Assets": [
+				"/Game/FirstPerson/Meshes/TexturesMatrials/drain_surface",
+				"/Game/FirstPerson/Meshes/TexturesMatrials/pipe_surface",
+				"/Game/FirstPerson/Meshes/TexturesMatrials/sink_pipe_second_surface"
 			]
 		},
 		{
@@ -692,31 +1203,42 @@
 			]
 		},
 		{
-			"ShaderMapHash": "05EAECF088FA4C3DF99DED54C8361DCCEA520F09",
+			"ShaderMapHash": "DA6592F115727D34B404ACBB922CE7F70CE461E0",
 			"Assets": [
-				"/Game/ThridParty_Assets/Modern_House_V1/Materials/Instance/M_Metal_1_Inst1",
-				"/Game/ThridParty_Assets/Modern_House_V1/Materials/Instance/M_Metal_2_Inst"
+				"/Game/FirstPerson/Material/Negative_M/M_bar_stool1",
+				"/Game/ThridParty_Assets/Modern_house/Materials/M_Rug4",
+				"/Game/ThridParty_Assets/Modern_house/Materials/M_stand_lamp_hat"
 			]
 		},
 		{
-			"ShaderMapHash": "62BC32F4BFB70B956F6EBA7B53FB348941F007F0",
+			"ShaderMapHash": "636BD3F10E601F639CD39B292CD3D529078B8B16",
 			"Assets": [
-				"/Game/StarterContent/Props/Materials/M_Frame"
+				"/Game/ThridParty_Assets/FreeFurniturePack/Textures/M_Bed_drawer_metall",
+				"/Game/ThridParty_Assets/FreeFurniturePack/Textures/M_Cupboard_Metall"
+			]
+		},
+		{
+			"ShaderMapHash": "404DB0F527B954C4F7BFA2B0B885852E7C8391A0",
+			"Assets": [
+				"/Game/ThridParty_Assets/FreeFurniturePack/Textures/M_Modern_Table_bottom"
 			]
 		},
 		{
 			"ShaderMapHash": "A92ECDF5AE4F1BD5FDEA3FF2A7780ED5057641E9",
 			"Assets": [
-				"/Game/ThridParty_Assets/Modern_house/Materials/M_base_bed",
-				"/Game/ThridParty_Assets/Modern_house/Materials/M_bed_Case",
-				"/Game/ThridParty_Assets/Modern_house/Materials/M_bed_spread",
-				"/Game/ThridParty_Assets/Modern_house/Materials/M_stand_lamp_hat"
+				"/Game/ThridParty_Assets/Modern_house/Materials/M_magazine_holder1"
 			]
 		},
 		{
 			"ShaderMapHash": "59B7F7F659DE61CC06703F43D58BBC228ED41CB2",
 			"Assets": [
 				"/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud"
+			]
+		},
+		{
+			"ShaderMapHash": "DAD21BF8572EAE4EBE694A22ABE2EC2CB6CB6962",
+			"Assets": [
+				"/Game/ThridParty_Assets/FreeFurniturePack/Textures/M_Round_table"
 			]
 		},
 		{
@@ -732,9 +1254,35 @@
 			]
 		},
 		{
+			"ShaderMapHash": "61C4F0FBCE7645B0D2116977E39F8D8170049106",
+			"Assets": [
+				"/Game/ThridParty_Assets/FreeFurniturePack/Textures/M_Modern_Cupboard"
+			]
+		},
+		{
+			"ShaderMapHash": "26CBD0FC8067F27DA20088C1D4DC111AC39CE7F2",
+			"Assets": [
+				"/Game/LevelPrototyping/Materials/M_PrototypeGrid"
+			]
+		},
+		{
 			"ShaderMapHash": "82743DFEF0C464B66E24FF44ECFF91A136EF0E62",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_Unlit_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "0D7B64FE7CAFF0F4B5E86AFB5B72EEF159CBB30C",
+			"Assets": [
+				"/Game/ThridParty_Assets/FreeFurniturePack/Textures/M_Classic_Leather_armchair"
+			]
+		},
+		{
+			"ShaderMapHash": "6F1F9EFF896844C7C46B8C8A739388D5D5895C2D",
+			"Assets": [
+				"/Game/FirstPerson/Material/M_Postive/Basement/M_BasementWallPos",
+				"/Game/FirstPerson/Material/M_Postive/BathroomTileWhite/M_BathroomTileWhite",
+				"/Game/FirstPerson/Material/M_Postive/Walls/OfficeWall/M_BasementWallPos"
 			]
 		}
 	]
